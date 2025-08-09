@@ -80,7 +80,7 @@ import Navigation from '../components/Navigation.astro';
     if (!query) {
       container.innerHTML = '<p class="text-center text-red-600">No search query provided.</p>';
     } else {
-      fetch('/src/content/papers.json')
+      fetch('/papers.json')
         .then(response => response.json())
         .then(papers => {
           const filtered = papers.filter(paper => {
