@@ -1,0 +1,94 @@
+---
+// Navigation component with current page highlighting
+export interface Props {
+  currentPage?: string;
+}
+
+const { currentPage = "home" } = Astro.props;
+---
+
+<!-- Navigation Header -->
+<header class="bg-white border-b border-border sticky top-0 z-50 relative">
+  <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+      <!-- Logo and Brand -->
+      <div class="flex items-center space-x-3">
+        <a href="/" class="flex items-center">
+          <img src="/logo.png" alt="SOLE Archive" class="w-8 h-8 object-contain" loading="eager" />
+          <div class="ml-2">
+            <h1 class="text-xl font-crimson font-semibold text-primary">SOLE Archive</h1>
+            <p class="text-xs text-text-secondary font-mono">ConSOLE Proceedings</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden md:flex items-center space-x-8">
+        <a href="/" class={`font-medium pb-1 transition-smooth ${currentPage === 'home' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
+          Home
+        </a>
+        <a href="/analytics" class={`font-medium pb-1 transition-smooth ${currentPage === 'analytics' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
+          Analytics
+        </a>
+        <a href="/papers" class={`font-medium pb-1 transition-smooth ${currentPage === 'papers' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
+          Browse Papers
+        </a>
+       
+      </div>
+
+      <!-- Mobile Menu Button -->
+      <button class="md:hidden p-2 rounded-lg hover:bg-surface transition-smooth" id="mobile-menu-button">
+        <svg class="w-6 h-6 text-text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+      </button>
+    </div>
+    
+  </nav>
+  
+  <!-- Mobile Menu Dropdown -->
+  <div class="md:hidden hidden absolute top-16 right-0 w-48 bg-white border border-border rounded-lg shadow-lg z-50" id="mobile-menu">
+    <div class="py-2">
+      <a href="/" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'home' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+        Home
+      </a>
+
+      <a href="/analytics" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'analytics' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+        Analytics
+      </a>
+      
+      <a href="/papers" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'papers' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+        Browse Papers
+      </a>
+    </div>
+  </div>
+  </nav>
+</header>
+
+<script>
+  // Mobile menu toggle functionality
+  const mobileMenuButton = document.getElementById('mobile-menu-button');
+  const mobileMenu = document.getElementById('mobile-menu');
+  
+  if (mobileMenuButton && mobileMenu) {
+    mobileMenuButton.addEventListener('click', (e) => {
+      e.stopPropagation();
+      mobileMenu.classList.toggle('hidden');
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      const target = e.target as HTMLElement;
+      if (!mobileMenu?.contains(target) && !mobileMenuButton?.contains(target)) {
+        mobileMenu?.classList.add('hidden');
+      }
+    });
+    
+    // Close menu when pressing Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        mobileMenu?.classList.add('hidden');
+      }
+    });
+  }
+</script> 
