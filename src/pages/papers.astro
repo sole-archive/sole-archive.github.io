@@ -176,228 +176,179 @@ const uniqueKeywords = [...new Set(allKeywords)].slice(0, 5); // Show first 5 ke
    }
  </style>
 
- <script>
-   // Pagination variables
-   let currentPage = 1;
-   const papersPerPage = 12;
-   let allPapersElements: Element[] = [];
-   let totalPages = 1;
-   
-   // Initialize pagination
-   function initializePagination() {
-     const papersGrid = document.getElementById('papers-grid');
-     if (!papersGrid) return;
-     
-     allPapersElements = Array.from(papersGrid.children);
-     totalPages = Math.ceil(allPapersElements.length / papersPerPage);
-     
-     updatePagination();
-     showCurrentPage();
-   }
-   
-   // Show papers for current page
-   function showCurrentPage() {
-     const papersGrid = document.getElementById('papers-grid');
-     if (!papersGrid) return;
-     
-     const startIndex = (currentPage - 1) * papersPerPage;
-     const endIndex = startIndex + papersPerPage;
-     const papersToShow = allPapersElements.slice(startIndex, endIndex);
-     
-     papersGrid.innerHTML = '';
-     papersToShow.forEach(paper => papersGrid.appendChild(paper));
-   }
-   
-   // Update pagination controls
-   function updatePagination() {
-     const paginationInfo = document.getElementById('pagination-info');
-     const prevBtn = document.getElementById('prev-btn') as HTMLButtonElement;
-     const nextBtn = document.getElementById('next-btn') as HTMLButtonElement;
-     const pageNumbers = document.getElementById('page-numbers');
-     
-     if (!paginationInfo || !prevBtn || !nextBtn || !pageNumbers) return;
-     
-     const startIndex = (currentPage - 1) * papersPerPage + 1;
-     const endIndex = Math.min(currentPage * papersPerPage, allPapersElements.length);
-     
-     // Update info text
-     paginationInfo.textContent = `Showing ${startIndex}-${endIndex} of ${allPapersElements.length} papers`;
-     
-     // Update previous/next buttons
-     prevBtn.disabled = currentPage === 1;
-     nextBtn.disabled = currentPage === totalPages;
-     
-           // Update page numbers
-      pageNumbers.innerHTML = '';
-      
-      // Check if we're on mobile (screen width < 768px)
-      const isMobile = window.innerWidth < 768;
-      const maxVisiblePages = isMobile ? 3 : 5;
-      
-      let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
-      let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
-      
-      if (endPage - startPage + 1 < maxVisiblePages) {
-        startPage = Math.max(1, endPage - maxVisiblePages + 1);
+<script>
+  // Pagination + Sorting variables
+  let currentPage = 1;
+  const papersPerPage = 12;
+  let allPapersData = [];   // Stores paper data + element
+  let totalPages = 1;
+
+  // Initialize pagination
+  function initializePagination() {
+    const papersGrid = document.getElementById('papers-grid');
+    if (!papersGrid) return;
+
+    // Collect data from DOM once
+    allPapersData = Array.from(papersGrid.children).map(el => ({
+      element: el,
+      title: el.querySelector('h3 a')?.textContent?.trim() || "",
+      author: el.querySelector('.flex.items-center.space-x-2 span')?.textContent?.trim() || "",
+      edition: el.querySelector('.bg-accent-100')?.textContent?.trim() || "",
+      year: parseInt(el.querySelector('.font-mono')?.textContent || "0"),
+    }));
+
+    totalPages = Math.ceil(allPapersData.length / papersPerPage);
+
+    updatePagination();
+    showCurrentPage();
+  }
+
+  // Show papers for current page
+  function showCurrentPage() {
+    const papersGrid = document.getElementById('papers-grid');
+    if (!papersGrid) return;
+
+    const startIndex = (currentPage - 1) * papersPerPage;
+    const endIndex = startIndex + papersPerPage;
+    const papersToShow = allPapersData.slice(startIndex, endIndex);
+
+    papersGrid.innerHTML = '';
+    papersToShow.forEach(paper => papersGrid.appendChild(paper.element));
+  }
+
+  // Update pagination controls
+  function updatePagination() {
+    const paginationInfo = document.getElementById('pagination-info');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const pageNumbers = document.getElementById('page-numbers');
+
+    if (!paginationInfo || !prevBtn || !nextBtn || !pageNumbers) return;
+
+    const startIndex = (currentPage - 1) * papersPerPage + 1;
+    const endIndex = Math.min(currentPage * papersPerPage, allPapersData.length);
+
+    paginationInfo.textContent = `Showing ${startIndex}-${endIndex} of ${allPapersData.length} papers`;
+
+    prevBtn.disabled = currentPage === 1;
+    nextBtn.disabled = currentPage === totalPages;
+
+    pageNumbers.innerHTML = '';
+
+    const isMobile = window.innerWidth < 768;
+    const maxVisiblePages = isMobile ? 3 : 5;
+
+    let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+    let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+
+    if (endPage - startPage + 1 < maxVisiblePages) {
+      startPage = Math.max(1, endPage - maxVisiblePages + 1);
+    }
+
+    if (isMobile) {
+      for (let i = Math.max(1, currentPage - 1); i <= Math.min(totalPages, currentPage + 1); i++) {
+        addPageButton(i);
       }
-      
-      // On mobile, show fewer page numbers and ellipsis
-      if (isMobile) {
-        // Always show current page and adjacent pages
-        for (let i = Math.max(1, currentPage - 1); i <= Math.min(totalPages, currentPage + 1); i++) {
-          addPageButton(i);
-        }
-      } else {
-        // Desktop: Add first page and ellipsis if needed
-        if (startPage > 1) {
-          addPageButton(1);
-          if (startPage > 2) {
-            const ellipsis = document.createElement('span');
-            ellipsis.className = 'px-3 py-2 text-text-secondary';
-            ellipsis.textContent = '...';
-            pageNumbers.appendChild(ellipsis);
-          }
-        }
-        
-        // Add visible page numbers
-        for (let i = startPage; i <= endPage; i++) {
-          addPageButton(i);
-        }
-        
-        // Add last page and ellipsis if needed
-        if (endPage < totalPages) {
-          if (endPage < totalPages - 1) {
-            const ellipsis = document.createElement('span');
-            ellipsis.className = 'px-3 py-2 text-text-secondary';
-            ellipsis.textContent = '...';
-            pageNumbers.appendChild(ellipsis);
-          }
-          addPageButton(totalPages);
+    } else {
+      if (startPage > 1) {
+        addPageButton(1);
+        if (startPage > 2) {
+          const ellipsis = document.createElement('span');
+          ellipsis.className = 'px-3 py-2 text-text-secondary';
+          ellipsis.textContent = '...';
+          pageNumbers.appendChild(ellipsis);
         }
       }
-   }
-   
-   // Add page button
-   function addPageButton(pageNum: number) {
-     const pageNumbers = document.getElementById('page-numbers');
-     if (!pageNumbers) return;
-     
-     const button = document.createElement('button');
-     button.className = pageNum === currentPage 
-       ? 'px-3 py-2 bg-primary text-white rounded-lg' 
-       : 'px-3 py-2 text-text-secondary hover:text-primary transition-smooth';
-     button.textContent = pageNum.toString();
-     
-     button.addEventListener('click', () => {
-       currentPage = pageNum;
-       showCurrentPage();
-       updatePagination();
-     });
-     
-     pageNumbers.appendChild(button);
-   }
-   
-   // Sort papers function
-   function sortPapers(sortBy: string) {
-     const papersGrid = document.getElementById('papers-grid');
-     if (!papersGrid) return;
-     
-     const papers = Array.from(papersGrid.children);
-     
-     papers.sort((a, b) => {
-       let aValue: string | number, bValue: string | number;
-       
-       switch(sortBy) {
-         case 'date':
-           // Sort by year (extract from the year span)
-           const aYearElement = a.querySelector('.font-mono');
-           const bYearElement = b.querySelector('.font-mono');
-           if (!aYearElement || !bYearElement) return 0;
-           aValue = parseInt(aYearElement.textContent || '0');
-           bValue = parseInt(bYearElement.textContent || '0');
-           return bValue - aValue; // Newest first
-           
-         case 'title':
-           // Sort by title (extract from the h3 link)
-           const aTitleElement = a.querySelector('h3 a');
-           const bTitleElement = b.querySelector('h3 a');
-           if (!aTitleElement || !bTitleElement) return 0;
-           aValue = aTitleElement.textContent?.toLowerCase() || '';
-           bValue = bTitleElement.textContent?.toLowerCase() || '';
-           return aValue.localeCompare(bValue);
-           
-         case 'author':
-           // Sort by first author (extract from the author span)
-           const aAuthorElement = a.querySelector('.flex.items-center.space-x-2 span');
-           const bAuthorElement = b.querySelector('.flex.items-center.space-x-2 span');
-           if (!aAuthorElement || !bAuthorElement) return 0;
-           aValue = aAuthorElement.textContent?.toLowerCase() || '';
-           bValue = bAuthorElement.textContent?.toLowerCase() || '';
-           return aValue.localeCompare(bValue);
-           
-         case 'edition':
-           // Sort by edition (extract from the edition badge)
-           const aEditionElement = a.querySelector('.bg-accent-100');
-           const bEditionElement = b.querySelector('.bg-accent-100');
-           if (!aEditionElement || !bEditionElement) return 0;
-           aValue = aEditionElement.textContent?.toLowerCase() || '';
-           bValue = bEditionElement.textContent?.toLowerCase() || '';
-           return aValue.localeCompare(bValue);
-           
-         default:
-           return 0;
-       }
-     });
-     
-     // Update the papers array and reset pagination
-     allPapersElements = papers;
-     currentPage = 1;
-     totalPages = Math.ceil(allPapersElements.length / papersPerPage);
-     
-     showCurrentPage();
-     updatePagination();
-   }
-   
-       // Add event listeners
-    document.addEventListener('DOMContentLoaded', function() {
-      // Initialize pagination
-      initializePagination();
-      
-      // Add event listener to sort select
-      const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
-      if (sortSelect) {
-        sortSelect.addEventListener('change', function() {
-          sortPapers(this.value);
-        });
+
+      for (let i = startPage; i <= endPage; i++) {
+        addPageButton(i);
       }
-      
-      // Add event listeners for previous/next buttons
-      const prevBtn = document.getElementById('prev-btn');
-      const nextBtn = document.getElementById('next-btn');
-      
-      if (prevBtn) {
-        prevBtn.addEventListener('click', function() {
-          if (currentPage > 1) {
-            currentPage--;
-            showCurrentPage();
-            updatePagination();
-          }
-        });
+
+      if (endPage < totalPages) {
+        if (endPage < totalPages - 1) {
+          const ellipsis = document.createElement('span');
+          ellipsis.className = 'px-3 py-2 text-text-secondary';
+          ellipsis.textContent = '...';
+          pageNumbers.appendChild(ellipsis);
+        }
+        addPageButton(totalPages);
       }
-      
-      if (nextBtn) {
-        nextBtn.addEventListener('click', function() {
-          if (currentPage < totalPages) {
-            currentPage++;
-            showCurrentPage();
-            updatePagination();
-          }
-        });
-      }
-      
-      // Update pagination on window resize
-      window.addEventListener('resize', function() {
-        updatePagination();
-      });
+    }
+  }
+
+  // Add page button
+  function addPageButton(pageNum) {
+    const pageNumbers = document.getElementById('page-numbers');
+    if (!pageNumbers) return;
+
+    const button = document.createElement('button');
+    button.className = pageNum === currentPage
+      ? 'px-3 py-2 bg-primary text-white rounded-lg'
+      : 'px-3 py-2 text-text-secondary hover:text-primary transition-smooth';
+    button.textContent = pageNum.toString();
+
+    button.addEventListener('click', () => {
+      currentPage = pageNum;
+      showCurrentPage();
+      updatePagination();
     });
- </script> 
+
+    pageNumbers.appendChild(button);
+  }
+
+  // Sort papers
+  function sortPapers(sortBy) {
+    allPapersData.sort((a, b) => {
+      switch (sortBy) {
+        case 'date': return b.year - a.year;
+        case 'title': return a.title.localeCompare(b.title);
+        case 'author': return a.author.localeCompare(b.author);
+        case 'edition': return a.edition.localeCompare(b.edition);
+        default: return 0;
+      }
+    });
+
+    currentPage = 1;
+    totalPages = Math.ceil(allPapersData.length / papersPerPage);
+
+    showCurrentPage();
+    updatePagination();
+  }
+
+  // Setup listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    initializePagination();
+
+    const sortSelect = document.getElementById('sort-select');
+    if (sortSelect) {
+      sortSelect.addEventListener('change', function () {
+        sortPapers(this.value);
+      });
+    }
+
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+
+    if (prevBtn) {
+      prevBtn.addEventListener('click', () => {
+        if (currentPage > 1) {
+          currentPage--;
+          showCurrentPage();
+          updatePagination();
+        }
+      });
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', () => {
+        if (currentPage < totalPages) {
+          currentPage++;
+          showCurrentPage();
+          updatePagination();
+        }
+      });
+    }
+
+    window.addEventListener('resize', () => updatePagination());
+  });
+</script>
