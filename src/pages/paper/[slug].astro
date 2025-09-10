@@ -82,7 +82,11 @@ const bibtexCitation = `@inproceedings{${paper.slug},\n  title={${paper.title}},
             <div class="flex items-center space-x-3">
               <div>
                 <h3 class="font-semibold text-primary">{paper.authors.join(', ')}</h3>
-                <p class="text-sm text-text-secondary">{paper.affiliation}</p>
+                <div class="text-sm text-text-secondary">
+                  {Array.isArray(paper.affiliation) ? paper.affiliation.map(affil => (
+                    <p>{affil}</p>
+                  )) : <p>{paper.affiliation}</p>}
+                </div>
               </div>
             </div>
             <div class="flex items-center space-x-2 text-sm text-text-secondary">

@@ -1,5 +1,571 @@
 [
   {
+    "slug": "Baturay-loanwords-2013",
+    "title": "Loan word adaptation and vowel harmony in Turkish: a government phonology account",
+    "authors": [
+      "Semra Baturay"
+    ],
+    "affiliation": [
+      "Boğaziçi University"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "1-21",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Loan Words",
+      "Vowel Harmony",
+      "Government Phonology",
+      "Turkish"
+    ],
+    "abstract": "This study aims at investigating the adaptation of the loan words in Turkish and their relation to vowel harmony. I specifically focus on the loan words with final and initial consonant clusters within the framework of Government Phonology proposed in Kaye, Lowenstamm & Vergnaud (1990). Following Charette (1991, 2004), I propose that the loan words with initial (s(ı)por ‘sport’) and final (fik(i)r ‘idea’) clusters are not allowed in Turkish; thus, these words have a lexically empty position between the consonants of the clusters when adapted to Turkish. This implies that there is no consonant insertion or deletion for the adaptation of the loan words. The empty nucleus position is realized if it fails to be p-licensed (phonological licensing). I focus on why and how the empty position is realized. My claim is that the word final empty nucleus position cannot properly govern the empty position of the previous nucleus given that p-licensing fails (Kaye, 1990). Hence, the vowel has to be realized via U and I harmony in the light of licensing constraints given in Charette & Göksel (1994). The realization of the empty nucleus position in the adapted words with initial clusters follows some patterns other than vowel harmony and licensing constraints. The present study suggests that there is no epenthesis phenomenon in loan words with consonant clusters, but the issue is related to the realization of the empty nucleus which depends on the p-licensing phenomenon.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "semra_baturay@yahoo.com",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "koelewijn-loanword-2021",
+      "barman-learnability-2023",
+      "mcknight-minimalsearch-2024",
+      "moritake-dps-2023",
+      "Knyazev-čtoclauses-2013",
+      "Sutter-umlaut-2013"
+    ]
+  },
+  {
+    "slug": "Boef-pronoundoubling-2013",
+    "title": "Non-identical pronoun doubling as rescue by PF spell out",
+    "authors": [
+      "Eefje Boef"
+    ],
+    "affiliation": [],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "23-44",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Non-identical pronoun doubling",
+      "Dutch",
+      "A-bar dependencies"
+    ],
+    "abstract": "This paper proposes a novel account of non-identical pronoun doubling in Dutch long-distance A-bar dependencies – specifically wh-questions and restrictive relative clauses – that features the pronoun wat in the higher clause and the pronoun wie or die in the lower clause. Assuming that A-bar pronouns have internal structure, I argue that such non-identical doubling is the result of subextraction of part of the pronoun, namely the operator in its specifier position. This operator is subextracted from the A-bar pronoun in the lower SpecCP and spelled out in its final landing site, the higher SpecCP. The subextracted operator is spelled out as wat by default – wat being the most underspecified A-bar pronoun in Dutch. The A-bar pronoun that is left behind by subextraction is spelled out as well (as wie or die), for reasons of recoverability and in order to overcome an otherwise illicit step in the derivation: rescue by PF spell out",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "presotto-objectrelatives-2024",
+      "Chernova-echoquestions-2013",
+      "lutzervoigt-resolution-2023",
+      "tsilia-simultaneous-reading-2022",
+      "shikunova-smallclause-2023",
+      "fujii-verbless-2023"
+    ]
+  },
+  {
+    "slug": "Campanini-causatives-2013",
+    "title": "Analytic causatives – A German-Italian comparative approach",
+    "authors": [
+      "Cinzia Campanini",
+      "Marcel Pitteroff"
+    ],
+    "affiliation": [
+      "University of Stuttgart",
+      "University of Stuttgart"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "45-70",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Analytic Causatives",
+      "German",
+      "Italian",
+      "Comparative Syntax"
+    ],
+    "abstract": "In this paper we approach the analytic causative construction (ACC) from a comparative perspective. Based on a comparison between Italian and German, we arrive at certain similarities that suggest an underlying, uniform syntactic structure. Three differences between the languages under investigation, such as the obligation effect, word order, and case marking are used to adjust the general structure in certain ways. Ultimately, word order and case differences are shown to be reducible to one particular structural difference, i.e. the embedding of a VoiceP/ApplP by the causative predicate.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "cinzia/marcel@ifla.uni-stuttgart.de",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "eisenheld-zeronominals-2021",
+      "shikunova-smallclause-2023",
+      "fujii-verbless-2023",
+      "holtz-tddeletion-2021",
+      "russocardona-toughconstructions-2024",
+      "Wierzba-contrastivetopics-2013"
+    ]
+  },
+  {
+    "slug": "Chernova-echoquestions-2013",
+    "title": "Echo Questions and wh-movement: a case of Russian",
+    "authors": [
+      "Ekaterina Chernova"
+    ],
+    "affiliation": [
+      "Universitat de Girona"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "71-87",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Wh-Echo Questions",
+      "Russian",
+      "Multiple wh-elements",
+      "Double-CP structure"
+    ],
+    "abstract": "It is a familiar fact that crosslinguistically wh- Echo Questions present considerable challenges to traditional theories of syntax of non-echo wh-interrogatives, since they systematically appear to contradict general claims about question formation such as the obligatoriness of wh-movement. This paper presents some novel facts concerning the syntax of Russian ‘request-for-repetition’ Echo Questions in contexts of multiple wh-elements (one of which is echo-introduced and the rest proceed from the previous utterance) and explores a possible way to account for their key syntactic features in terms of a double-CP structure (cf. Sobin 2010).",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "ekaterina.chernova@hotmail.com",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "rugna-wh-2023",
+      "fiorini-camuno-2021",
+      "Knyazev-čtoclauses-2013",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "shikunova-smallclause-2023",
+      "morgunova-complementizer-2021"
+    ]
+  },
+  {
+    "slug": "Hayashi-teclauses-2013",
+    "title": "Sometimes conjuncts, sometimes adjuncts: te-clauses in Japanese and the C-T relation",
+    "authors": [
+      "Shintaro Hayashi"
+    ],
+    "affiliation": [],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "89-103",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Te-clauses",
+      "Japanese",
+      "C-T relation"
+    ],
+    "abstract": "The aim of this paper is to provide novel support for Chomsky’s (2000) conception of C-T relation by examining Japanese te-clauses. Te-clauses, as often noted, can function as either adverbials or clausal conjuncts. We first show that while a te-clause without an overt subject may adjoin to the root syntactic tree, a te-clause that contains a lexical subject cannot, but can only be coordinated with the root syntactic tree. Then we argue that this correlation between the presence/absence of a lexical nominative subject in te-clauses and the interpretative (in)variability of them follows straightforwardly from Chomsky’s (2000) C-T dependency, put together with a fact about te-clauses that we independently establish, i.e. that, whether finite or nonfinite, they are always TPs.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "kawamitsu-verbal-2023",
+      "Pauly-umclauses-2013",
+      "Zimmermann-grammarcompetition-2013",
+      "gan-scope-hk-sign-language-2022",
+      "presotto-objectrelatives-2024",
+      "noguchi-kotoga-2021"
+    ]
+  },
+  {
+    "slug": "Knyazev-čtoclauses-2013",
+    "title": "A theta-theoretic account of the distribution of sentential complements. The case of Russian čto-clauses",
+    "authors": [
+      "Mikhail Knyazev"
+    ],
+    "affiliation": [
+      "Utrecht Institute of Linguistics OTS"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "105-129",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "čto-clauses",
+      "Russian",
+      "Thematic structure alternations",
+      "Theta-theoretic account"
+    ],
+    "abstract": "In this paper I show that thematic structure alternations (agentive/nonagentive subject alternation and animate/inanimate object alternation) affect realization of a sentential complement. I present a theta-theoretic account of these effects based on Reinhart’s (2002) Theta system and its extensions proposed by Marelj (2004). The main intuition behind the proposed account is that a sentential complement is blocked whenever it is thematically indistinguishable from any of its co-arguments.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "misha.knjazev@gmail.com",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "Chernova-echoquestions-2013",
+      "kasenov-modality-2023",
+      "shikunova-smallclause-2023",
+      "presotto-objectrelatives-2024",
+      "Hayashi-teclauses-2013",
+      "kumari-honorificity-nominal-2022"
+    ]
+  },
+  {
+    "slug": "MartínezParicio-identityeffects-2013",
+    "title": "Identity effects in Uruguayan Spanish",
+    "authors": [
+      "Violeta Martínez-Paricio"
+    ],
+    "affiliation": [
+      "CASTL, University of Tromsø"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "131-152",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Identity effects",
+      "Spanish dialec",
+      "Paradigm leveling"
+    ],
+    "abstract": "This paper describes a case of paradigm leveling recently attested in the present subjunctive of a Spanish dialect spoken in Uruguay. With the aim of shedding some light on the type/nature of identity effects in inflectional paradigms, the paper explores the phonological representations and properties found in the leveled paradigm. Additionally, it reviews some of the shortcomings of models that place most of the burden of explanation for analogical changes on the phonological grammar. In contrast to such models, this paper suggests that the difference between the innovative dialect and standard dialects without leveling does not rely on their phonology, but rather in the choice of a morphological exponent.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "violeta.martinez-paricio@uit.no",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "bosch-negationcatalanspanish-2024",
+      "varona-gender-2023",
+      "presotto-objectrelatives-2024",
+      "mauffray-heritagel2-2021",
+      "Baturay-loanwords-2013",
+      "Xiqués-presentperfect-2013"
+    ]
+  },
+  {
+    "slug": "Boef-pronoundoubling-2013",
+    "title": "Cypriot Maronite Arabic: a problem for the universal adjective order?",
+    "authors": [
+      "Fryni Panayidou"
+    ],
+    "affiliation": [
+      "Queen Mary University of London"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "153-168",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Cypriot Maronite Arabic",
+      "Functional Sequences",
+      "Adjective Order"
+    ],
+    "abstract": "In this paper I propose that in the nominal domain of Cypriot Maronite Arabic there are two separate Functional Sequences that are inserted one inside the other. One functional sequence, which I label ‘Arabic Fseq’, accommodates the adjective classes of Quality, Size and native Arabic Colour. The other functional sequence, the ‘Greek Fseq’, is where the classes of Shape, Nationality and borrowed Greek Colour adjectives are merged. The two Fseqs differ morphologically, but also syntactically. In the first one we find adjectives with nonconcatenative morphology and obligatory NP-movement, while in the second Fseq we encounter concatenative morphology and optional NP-movement. Cypriot Maronite Arabic adjectives appear, at first blush, to violate what is considered to be the universal adjective order, however, I will show that each of the two Fseqs adheres to the universal order and that that the apparent violation is the result of embedding the Greek Fseq inside the Arabic Fseq",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "f.panayidou@qmul.ac.uk",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "saeed-arabic-2023",
+      "dulecavelier-mirrorprinciple-2021",
+      "hafsi-indefinites-2023",
+      "mattiuzzi-inflection-2023",
+      "khalid-casetheory-2022",
+      "mauffray-heritagel2-2021"
+    ]
+  },
+  {
+    "slug": "Pauly-umclauses-2013",
+    "title": "Prospective um-clauses as syntactically unintegrated clauses",
+    "authors": [
+      "Dennis Pauly"
+    ],
+    "affiliation": [
+      "University of Potsdam"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "169-185",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Um-clauses",
+      "German",
+      "Purpose clauses",
+      "Prospective clauses"
+    ],
+    "abstract": "In this paper, the differences between two kinds of um-clauses will be examined. After showing that there is a semantic difference between purpose and prospective clauses introduced by um, I will prove this difference to be reflected in their respective clause linkage status by using several well-known criteria. While purpose clauses are subordinated, prospective clauses constitute a non-canonical clause type. Finally, I show how these syntactical differences could be modeled within a theoretical framework.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "denpauly@uni-potsdam.de",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "Hayashi-teclauses-2013",
+      "Knyazev-čtoclauses-2013",
+      "presotto-objectrelatives-2024",
+      "Zimmermann-grammarcompetition-2013",
+      "kovac-basque-2021",
+      "Campanini-causatives-2013"
+    ]
+  },
+  {
+    "slug": "Pineda-ditransitive-2013",
+    "title": "Romance double object constructions and transitivity alternations",
+    "authors": [
+      "Anna Pineda"
+    ],
+    "affiliation": [
+      "Universitat Autònoma de Barcelona (Centre de Lingüística Teòrica), Catalonia"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "187-211",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Ditransitive Constructions",
+      "Romance Languages",
+      "Double Object Construction"
+    ],
+    "abstract": "This paper discusses a new approach to Romance ditransitive constructions and argues against a quite general trend, which consists of attempting to mirror English facts by identifying clitic-doubled Spanish ditransitive constructions as Double Object Constructions (DOC), and non-doubled ones as Prepositional Constructions (PC) (Masullo 1992, Demonte 1995, Romero 1997, Cuervo 2003a,b). After a careful examination of the data, it is argued that Romance (Spanish, French and Catalan) ditransitive constructions instantiate DOC, whether they bear clitic doubling or not. Pronominalization facts in Catalan will support this analysis. Finally, a connection between this new view on Romance ditransitive constructions and some dative/accusative alternations in the area is presented.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "anna.pineda@uab.cat",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "noguchi-kotoga-2021",
+      "russocardona-toughconstructions-2024",
+      "Chernova-echoquestions-2013",
+      "alatassi-objectclitics-2024",
+      "shikunova-smallclause-2023",
+      "fujii-verbless-2023"
+    ]
+  },
+  {
+    "slug": "Savu-rhotictap-2013",
+    "title": "An acoustic-phonetic perspective on the phonological behavior of the rhotic tap",
+    "authors": [
+      "Carmen-Florina Savu"
+    ],
+    "affiliation": [
+      "University of Bucharest"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "213-227",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Rhotic tap",
+      "Romanian",
+      "Vocoid",
+      "Acoustic Analysis"
+    ],
+    "abstract": "In this paper I argue, drawing on data from an experiment on /r/ in Romanian and data from other languages, in favor of the hypothesis that the rhotic tap ([ɾ]) contains one vocoid preceding, and another one following the constricted interval (cf. Stolarski 2011, among others). Specifically, these vocalic elements are mid-high and relatively central, as the acoustic analysis shows. I then discuss how this segment’s encompassing vocalic elements might make the phonological behavior of the sound clearer. The argument put forth is that this structure is precisely what allows the tap to exhibit sonorant behavior and even pattern with vowels.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "carmenflorinasavu@yahoo.com",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "noguchi-kotoga-2021",
+      "Wierzba-contrastivetopics-2013",
+      "shikunova-mermaid-construction-2022",
+      "fagiologiunta-berlinwall-2021",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Baturay-loanwords-2013"
+    ]
+  },
+  {
+    "slug": "Smith-collectivenouns-2013",
+    "title": "Collective (dis)agreement. On a 3/4 pattern of British English collective NPs",
+    "authors": [
+      "Peter W. Smith"
+    ],
+    "affiliation": [
+      "University of Connecticut"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "229-253",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Collective Nouns",
+      "Plural Agreement",
+      "British English",
+      "Agreement mismatches"
+    ],
+    "abstract": "This paper investigates plural agreement that is triggered by collective NPs that are morphologically singular in British English. Plural collective noun agreement freely alternates with singular agreement in this dialect, but there are unexpected restrictions which I provide an explanation for. I also discuss agreement mismatches that are found with collective nouns, and show how they can be accommodated in a minimalist framework. This paper adds to the debate on where agreement happens within the grammar, and I propose that it is both syntactic and post-syntactic following recent work elsewhere.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "peter.w.smith@uconn.edu",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "saeed-arabic-2023",
+      "Zimmermann-grammarcompetition-2013",
+      "tveitan-exclusive-2023",
+      "holtz-tddeletion-2021",
+      "Boef-pronoundoubling-2013",
+      "bosch-negationcatalanspanish-2024"
+    ]
+  },
+  {
+    "slug": "Sutter-umlaut-2013",
+    "title": "Umlaut and lowering in Swiss German",
+    "authors": [
+      "Regula Sutter"
+    ],
+    "affiliation": [
+      "Eötvös Loránd University, Budapest"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "255-266",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Umlaut",
+      "Lowering",
+      "Swiss German",
+      "Rule Ordering"
+    ],
+    "abstract": "Bromberger and Halle (1989) claimed that rule ordering is a necessary part of phonology, but not of syntax, and that phonology and syntax are thus different. Their only synchronic evidence, Canadian Raising, was debunked by Kaye (1990, 2013). This paper shows that another piece of purported evidence, namely Kiparsky’s often cited rule ordering in two dialects of Swiss German fares no better. Both rules are factually wrong and have to be dismissed. With no rules left, nothing can be ordered. I conclude that Kiparsky’s example submits no evidence in favour of Bromberger and Halle’s claim. There is no reason to assume that phonology and syntax should be fundamentally different.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "regula.sutter@gmail.com",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
+      "voigt-der-dieser-german-2022",
+      "eisenheld-zeronominals-2021",
+      "fujii-verbless-2023",
+      "holtz-tddeletion-2021",
+      "Campanini-causatives-2013"
+    ]
+  },
+  {
+    "slug": "Wierzba-contrastivetopics-2013",
+    "title": "Subparts of contrastive topics and their relevance for the syntax–information structure interface",
+    "authors": [
+      "Marta Wierzba"
+    ],
+    "affiliation": [
+      "Universität Potsdam"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "267-289",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Contrastive Topics",
+      "German",
+      "Syntax–information structure interface"
+    ],
+    "abstract": "This paper presents two experimentally confirmed observations about contrastive topics (CTs) in German: subparts of CTs can appear in the left periphery, and if a wide contrastive topic contains both a direct object and a directional PP, then only fronting of the DP is compatible with a wide VP contrast interpretation. These observations are reminiscent of the data presented by Fanselow & Lenertov´a (2011) about subparts of focus, who use them to argue against cartographic approaches that predict a one to one relation between fronted phrases and IS categories. My claim is that the CT data basically support this argument against cartographic approaches, but that it can not be subsumed under Fanselow & Lenertov´a’s analysis for sub-part of focus fronting, because their model predicts that movement of contrastively accented elements should be less restricted than it is in the data. A potential independent reason for this restriction is explored, suggesting that the unrestricted movement of subparts of CTs predicted by Fanselow & Lenertov´a can after all be observed under the right pragmatic circumstances.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "wierzba@uni-potsdam.de",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "gan-scope-hk-sign-language-2022",
+      "fujii-verbless-2023",
+      "Sutter-umlaut-2013",
+      "voigt-der-dieser-german-2022",
+      "lutzervoigt-resolution-2023",
+      "ottur-malayalam-2024"
+    ]
+  },
+  {
+    "slug": "Xiqués-presentperfect-2013",
+    "title": "Re-examining the hodiernal present perfect: towards a unified account",
+    "authors": [
+      "Teresa Maria Xiqués"
+    ],
+    "affiliation": [
+      "Universitat Autònoma de Barcelona"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "291-313",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Present Perfec",
+      "Aspectual Class",
+      "Existential Perfect"
+    ],
+    "abstract": "The paper re-examines the hodiernal Present Perfect (henceforth PrP) and shows that the nature of termination is not linked to outer aspect, but to the aspectual class of the predicate and that the 24-hour rule is mainly dependent on the presence of time adverbials. I argue that the hodiernal is not a separate reading of the PrP, but a subcase of the existential perfect. The crucial difference between the Catalan and English PrP is not that the former has an extra reading, but rather that it allows for the presence of time adverbials which fix the eventuality on the time axis.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "teresamaria.xiques@uab.cat",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "hafsi-indefinites-2023",
+      "Baturay-loanwords-2013",
+      "Knyazev-čtoclauses-2013",
+      "MartínezParicio-identityeffects-2013",
+      "kumari-honorificity-nominal-2022",
+      "milosavljevic-ga-serbian-2022"
+    ]
+  },
+  {
+    "slug": "Zimmermann-grammarcompetition-2013",
+    "title": "Rule independence and rule conditioning: Grammar competition in Old English relative clauses",
+    "authors": [
+      "Richard Zimmermann"
+    ],
+    "affiliation": [
+      "University of Geneva"
+    ],
+    "console_venue": "University of Leipzig",
+    "year": 2013,
+    "pages": "315-332",
+    "edition": "ConSOLE 20",
+    "keywords": [
+      "Grammar competition",
+      "Old English",
+      "Relative clauses"
+    ],
+    "abstract": "Grammar competition usually involves structured variation with two variants. However, it is also possible that two competing rules do not involve the same initial node in a syntactic tree, but merely make a similar functional contribution. For such cases, it is possible to find diachronic variation with three variants - two for each separate rule and one for the two rules combined. It is argued that a necessary condition for the existence of overlapping forms is rule independence, i.e. the absence of conditioning factors. Old English relative clauses are analysed as an instance of grammar competition with three variants to substantiate this claim.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xx.pdf",
+    "corresponding_email": "richard.zimmermann@unige.ch",
+    "editors": [
+      "Enrico Boone",
+      "Martin Kohlberger",
+      "Maartje Schulpen"
+    ],
+    "related_slugs": [
+      "presotto-objectrelatives-2024",
+      "tveitan-exclusive-2023",
+      "Hayashi-teclauses-2013",
+      "Smith-collectivenouns-2013",
+      "Pauly-umclauses-2013",
+      "kovac-basque-2021"
+    ]
+  },
+  {
     "slug": "meisenbichler-temporal-2023",
     "title": "On temporal relations inside DPs and their restriction",
     "authors": [
@@ -31,8 +597,8 @@
       "morley-chamorro-2024",
       "gan-scope-hk-sign-language-2022",
       "kumari-honorificity-nominal-2022",
+      "Wierzba-contrastivetopics-2013",
       "banerjee-wh-exclamatives-bangla-2022",
-      "tsilia-simultaneous-reading-2022",
       "moritake-dps-2023"
     ]
   },
@@ -69,8 +635,8 @@
       "varona-gender-2023",
       "mcknight-minimalsearch-2024",
       "gan-scope-hk-sign-language-2022",
-      "alatassi-objectclitics-2024",
-      "zhao-homogeneity-2024"
+      "noguchi-kotoga-2021",
+      "alatassi-objectclitics-2024"
     ]
   },
   {
@@ -104,10 +670,10 @@
     "related_slugs": [
       "mondalmukherjee-syllablestructures-2024",
       "biswasmukherjee-lexicaldecisiontask-2024",
-      "banerjee-wh-exclamatives-bangla-2022",
-      "wiesner-samoan-2023",
-      "moritake-dps-2023",
-      "berg-attitudes-2023"
+      "Baturay-loanwords-2013",
+      "Wierzba-contrastivetopics-2013",
+      "dey-copula-2023",
+      "banerjee-wh-exclamatives-bangla-2022"
     ]
   },
   {
@@ -129,7 +695,7 @@
       "Perspective Taking",
       "Information Structure"
     ],
-    "abstract": "This paper deals with German demonstratives from the der, die, das (DPros) and dieser, diese, dieses (DemPros) paradigms. We investigated the hypothesis that DPros can refer to a discourse referent that is information structurally prominent when the speaker is available as perspectivetaker while DemPros are not sensitive to perspective taking. The second hypothesis is that DemPros show a stronger preference towards the last-mentioned referent than DPros. We conducted an experiment combining offline- and online-measurements. Our results suggest that perspective plays a role in pronoun resolution and that prominence gives rise to more nuanced preferences among several antecedents.",
+    "abstract": "This paper deals with German demonstratives from the 'der', 'die', 'das' (DPros) and 'dieser', 'diese', 'dieses' (DemPros) paradigms. We investigated the hypothesis that DPros can refer to a discourse referent that is information structurally prominent when the speaker is available as perspectivetaker while DemPros are not sensitive to perspective taking. The second hypothesis is that DemPros show a stronger preference towards the last-mentioned referent than DPros. We conducted an experiment combining offline- and online-measurements. Our results suggest that perspective plays a role in pronoun resolution and that prominence gives rise to more nuanced preferences among several antecedents.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "anne.luetzeler@uni-koeln.de",
     "editors": [
@@ -141,11 +707,11 @@
     ],
     "related_slugs": [
       "voigt-der-dieser-german-2022",
+      "Wierzba-contrastivetopics-2013",
       "szarvas-coreference-2024",
       "gan-scope-hk-sign-language-2022",
       "fujii-verbless-2023",
-      "alatassi-objectclitics-2024",
-      "morgunova-complementizer-2021"
+      "eisenheld-zeronominals-2021"
     ]
   },
   {
@@ -177,12 +743,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "ruhrmannetal-nja-2021",
+      "Wierzba-contrastivetopics-2013",
       "voigt-der-dieser-german-2022",
-      "pohl-twitterdiscourse-2023",
       "fujii-verbless-2023",
-      "biswasmukherjee-lexicaldecisiontask-2024",
-      "lutzervoigt-resolution-2023",
-      "szarvas-coreference-2024"
+      "pohl-twitterdiscourse-2023",
+      "eisenheld-zeronominals-2021"
     ]
   },
   {
@@ -216,10 +782,10 @@
     "related_slugs": [
       "banerjee-wh-exclamatives-bangla-2022",
       "szarvas-coreference-2024",
-      "meisenbichler-temporal-2023",
-      "milosavljevic-duratives-2022",
+      "mauffray-heritagel2-2021",
       "tveitan-exclusive-2023",
-      "shikunova-smallclause-2023"
+      "meisenbichler-temporal-2023",
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -253,12 +819,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "Boef-pronoundoubling-2013",
       "russocardona-toughconstructions-2024",
-      "dulecavelier-mirrorprinciple-2021",
-      "zhao-homogeneity-2024",
-      "berg-attitudes-2023",
+      "Campanini-causatives-2013",
       "saeed-arabic-2023",
-      "li-functional-ge-2023"
+      "li-functional-ge-2023",
+      "dulecavelier-mirrorprinciple-2021"
     ]
   },
   {
@@ -280,7 +846,7 @@
       "Russian Linguistics",
       "Contextual Allosemy"
     ],
-    "abstract": "This paper reports a case of belief/intent alternation in the Russian attitude verb dumat’ ‘think/intend’ and connects it to a similar alternation in English. Theoretical implications are drawn using the notion of contextual allosemy, proposing that this alternation arises not through compositional semantics, but from contextual sense insertion. The study contributes to the typology of attitude verb alternations and proposes that generalizations like the Implicational Complementation Hierarchy can be used to constrain allosemy rules.",
+    "abstract": "This paper reports a case of belief/intent alternation in the Russian attitude verb 'dumat’ (think/intend) and connects it to a similar alternation in English. Theoretical implications are drawn using the notion of contextual allosemy, proposing that this alternation arises not through compositional semantics, but from contextual sense insertion. The study contributes to the typology of attitude verb alternations and proposes that generalizations like the Implicational Complementation Hierarchy can be used to constrain allosemy rules.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "daniar.kasenov@uni-goettingen.de",
     "editors": [
@@ -291,12 +857,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
-      "shikunova-smallclause-2023",
+      "Knyazev-čtoclauses-2013",
       "jin-classifiers-2023",
+      "shikunova-smallclause-2023",
       "sarvas-suffixes-hungarian-2022",
       "morgunova-complementizer-2021",
-      "presotto-objectrelatives-2024",
-      "fujii-verbless-2023"
+      "Chernova-echoquestions-2013"
     ]
   },
   {
@@ -317,7 +883,7 @@
       "Russian Syntax",
       "Phrasal Comparatives"
     ],
-    "abstract": "This paper argues against small clause analyses for Russian phrasal comparatives and proposes a direct analysis instead. Based on syntactic behavior such as uniform case marking and scrambling interactions, the paper shows that the Russian phrasal comparative lacks a clausal source. The proposed account aligns Russian comparatives with cross-linguistically similar phrasal constructions and accounts for their syntactic restrictions without positing elided structure.",
+    "abstract": "This paper focuses on Russian comparatives, particularly those commonly referred to as phrasal and argued to contain a smaller amount of elided structure than the clausal comparatives. I investigate the restrictions on the syntactic position of the standard of comparison (SoC) in Russian phrasal comparatives and show that the existing analyses of this type of comparatives (Pancheva 2006; Philippova 2017) are not satisfactory. The proposed alternative is the direct analysis, which denies the phrasal comparative any clausal source. This claim is supported by patterns of behaviour such as the uniform case marking of the SoC and its mandatory nominal status, which the Russian phrasal comparative shares with other comparative constructions that have been argued to be genuinely phrasal (Bhatt & Takahashi 2007, 2011; Vaikšnoraitė 2021; Potsdam 2017), as well as by the interaction between scrambling and the SoC's available position, which is handled well by the direct analysis.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "alexandra.shikunova@uni-goettingen.de",
     "editors": [
@@ -328,12 +894,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
-      "kasenov-modality-2023",
-      "fujii-verbless-2023",
+      "Campanini-causatives-2013",
+      "Knyazev-čtoclauses-2013",
+      "milosavljevic-ga-serbian-2022",
+      "Chernova-echoquestions-2013",
       "jin-classifiers-2023",
-      "morgunova-complementizer-2021",
-      "wiesner-samoan-2023",
-      "ottur-malayalam-2024"
+      "wiesner-samoan-2023"
     ]
   },
   {
@@ -355,7 +921,7 @@
       "Twitter Corpus",
       "German Linguistics"
     ],
-    "abstract": "This paper examines the discourse surrounding gender-sensitive language on Twitter. Through a keyness analysis of 10,000 tweets, the study reveals that the discourse is heavily influenced by far-right rhetoric and often draws on metaphors rooted in historical language purism. The findings indicate a strong ideological component in public attitudes toward gender-inclusive language and suggest directions for future corpus-based and psycholinguistic research.",
+    "abstract": "Recently, gender sensitive alternatives towards the use of masculine generics have become an issue of public discourse in Germany. Past research on the topic has shown how the topic is weaponised by political actors on the far right. This study contributes to this understanding by examining the discourse surrounding gender sensitive language on Twitter. A total of 10,000 tweets were extracted and analysed through keyness analysis. The results indicate that opinions on Twitter, as well as the language used within the tweets, reflect how the topic is being weaponised by the far-right.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "niklas.alexander.pohl@gmail.com",
     "editors": [
@@ -368,10 +934,10 @@
     "related_slugs": [
       "berg-attitudes-2023",
       "varona-gender-2023",
+      "blazheska-though-2021",
+      "holtz-tddeletion-2021",
       "gan-scope-hk-sign-language-2022",
-      "joveneau-eastbelgian-2023",
-      "li-functional-ge-2023",
-      "voigt-der-dieser-german-2022"
+      "ruhrmannetal-nja-2021"
     ]
   },
   {
@@ -393,7 +959,7 @@
       "Chinese Linguistics",
       "Gaoping Jin"
     ],
-    "abstract": "This paper examines the multifunctional morpheme ge- in Gaoping Jin, a Chinese variety spoken in northern China. Adopting a Distributed Morphology perspective, the study classifies ge- into several types, including diminutive, degree morpheme, and prefixal categorizers. It is shown that ge- is syntactically versatile and functions across lexical categories. The findings offer a detailed morphosyntactic analysis of this underdescribed morpheme and contribute to the typology of cross-categorial functional items.",
+    "abstract": "Functional morphemes have been the subject of intense study in recent years. Certain functional morphemes indicate various functions and the same form of one functional morpheme may appear in different syntactic domains. The present study aims at probing into this phenomenon by focusing on the multifunctional morpheme ge- in Gaoping Jin. I study the morphosyntactic properties of ge- and found that the functional morpheme ge- in GPJ is category-neutral, and thus the same form of ge- can occur in several different domains. For this reason, the morpheme ge- can be used cross-categorially.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "22105036@zju.edu.cn",
     "editors": [
@@ -404,12 +970,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "zhao-homogeneity-2024",
+      "Boef-pronoundoubling-2013",
       "jin-classifiers-2023",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "pohl-twitterdiscourse-2023",
-      "berg-attitudes-2023",
       "mattiuzzi-inflection-2023",
-      "kasenov-modality-2023"
+      "sakumoto-mandarin-chinese-islands-2022",
+      "berg-attitudes-2023"
     ]
   },
   {
@@ -432,7 +998,7 @@
       "Korean Syntax",
       "Turkish Syntax"
     ],
-    "abstract": "This paper proposes two types of nominal licensing conditions that capture the distribution of DPs with or without abstract Case. The focus is on Korean, where DPs can appear Caseless, and Turkish, where similar phenomena are observed. Building on Schütze (2001) and McFadden (2007), the study clarifies the notion of default case and offers a minimalist analysis that distinguishes licensing for in-situ and moved DPs. The findings support a unified view of nominal licensing and contribute to understanding the interaction between abstract and morphological case.",
+    "abstract": "The purpose of this paper is to propose two types of nominal licensing conditions that capture the distribution of DPs with or without abstract Case. In the first half, attention will focus in particular on the examples in Korean, in which DPs can sometimes appear Caseless (Y. Kim 1998; Ahn & Cho 2007, 2009; among others). In relation to the discussion of nominal licensing, the definition of default case will be made clear in accordance with the assumptions offered by Schütze (2001) and McFadden (2007). Finally, I will provide intriguing consequences for the empirical facts in Turkish.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "n.moritake.315@gmail.com",
     "editors": [
@@ -443,12 +1009,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
-      "jin-classifiers-2023",
+      "kim-basque-2021",
       "kawamitsu-verbal-2023",
-      "khalid-casetheory-2022",
-      "barman-learnability-2023",
-      "guo-ellipsis-2024",
-      "kumari-honorificity-nominal-2022"
+      "Baturay-loanwords-2013",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "kumari-honorificity-nominal-2022",
+      "Wierzba-contrastivetopics-2013"
     ]
   },
   {
@@ -470,7 +1036,7 @@
       "Optimality Theory",
       "Kashmiri"
     ],
-    "abstract": "This paper addresses the issue of phonological learnability through Kashmiri loanwords. The Kashmiri variant analyzed uses two repair strategies for foreign words: aspiration in coda positions and vowel epenthesis in onset clusters. Using Optimality Theory and Maximum Entropy Grammar, the paper demonstrates how different constraint rankings affect the learnability of the phonotactic patterns. The analysis provides insight into phonotactic variation and the modeling of gradient learning in phonology.",
+    "abstract": "In this paper, I address the issue of phonological learnability with a focus on Kashmiri loanwords. The variation of Kashmiri recorded in this paper exhibits two repair strategies while borrowing words from Hindi-Urdu, English, and Persian; namely, aspiration of voiceless stops at the coda position and epenthesis of a vowel in onset consonant clusters. I have attempted to analyze these issues using Optimality Theory. Checking the learnability of the proposed grammar, I show that it is possible to learn the grammar but the ranking differs when the model is examined using the Recursive Constraint Demotion and Maximum Entropy Grammar.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "raybarmansneha2@gmail.com",
     "editors": [
@@ -481,12 +1047,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "Baturay-loanwords-2013",
       "dulecavelier-mirrorprinciple-2021",
-      "moritake-dps-2023",
-      "mcknight-minimalsearch-2024",
-      "khalid-casetheory-2022",
       "kawamitsu-verbal-2023",
-      "sakumoto-mandarin-chinese-islands-2022"
+      "sakumoto-mandarin-chinese-islands-2022",
+      "koelewijn-loanword-2021",
+      "Zimmermann-grammarcompetition-2013"
     ]
   },
   {
@@ -508,7 +1074,7 @@
       "Samoan Syntax",
       "Predicate Fronting"
     ],
-    "abstract": "This paper investigates the structural properties of subject sharing constructions in Samoan, where the subject of the second conjunct is missing. The analysis shows that coordination occurs at the FP-level rather than the clausal level, ruling out typical Across-the-Board movement or pro-drop. Based on new data, the study argues for a deletion-based account and challenges syntactic-only explanations, highlighting the interaction between coordination, word order, and case marking in a verb-initial, ergative language.",
+    "abstract": "This paper investigates the structural peculiarities of subject sharing constructions in Samoan (Polynesian). The puzzle is the absence of the subject in the second conjunct which cannot be c-commanded by the subject in the first conjunct. Therefore, a scope relationship cannot be established. I present novel data which show that Samoan subject sharing constructions structurally differ from clausal coordination in that they involve coordination at FP-level (Collins 2017) rather than at the clausal level. I propose that a promising approach are deletion-based accounts and that an exclusively syntactic analysis cannot derive the construction's properties.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "maximilian.wiesner@uni-leipzig.de",
     "editors": [
@@ -520,10 +1086,10 @@
     ],
     "related_slugs": [
       "shikunova-smallclause-2023",
-      "fujii-verbless-2023",
-      "ottur-malayalam-2024",
-      "jin-classifiers-2023",
       "guo-ellipsis-2024",
+      "ottur-malayalam-2024",
+      "noguchi-kotoga-2021",
+      "Hayashi-teclauses-2013",
       "saeed-arabic-2023"
     ]
   },
@@ -545,7 +1111,7 @@
       "Japanese Syntax",
       "Labeling Theory"
     ],
-    "abstract": "This paper explores lexical V-V compounds in Japanese and accounts for their productivity via Chomsky’s Labeling Theory. It argues that the labeling mechanism in Japanese avoids conflicts that block compound formation in languages like English. The paper distinguishes lexical from syntactic compounds and uses structural and morphological diagnostics to show how Japanese allows V-V compounding through its specific parametric settings.",
+    "abstract": "The lexical V-V complex is productive and well-documented in Japanese. This paper aims to capture the parametric variation of lexical V-V compounds in terms of the labeling theory proposed by Chomsky (2013, 2015). Focusing on the structure formed by two heads {H1, H2}, I argue that while lexical V-V compounds are not allowed in languages like English due to labeling failure, Japanese verbal property can avoid labeling conflict. Furthermore, some syntactic and morphological criteria of Japanese lexical V-V compounds are deduced from the labeling mechanism.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "jun.kawamitsu@g.ecc.u-tokyo.ac.jp",
     "editors": [
@@ -557,11 +1123,11 @@
     ],
     "related_slugs": [
       "dulecavelier-mirrorprinciple-2021",
+      "noguchi-kotoga-2021",
+      "Hayashi-teclauses-2013",
       "sakumoto-mandarin-chinese-islands-2022",
-      "moritake-dps-2023",
-      "khalid-casetheory-2022",
-      "ottur-malayalam-2024",
-      "milosavljevic-ga-serbian-2022"
+      "huang-camuno-2021",
+      "moritake-dps-2023"
     ]
   },
   {
@@ -583,7 +1149,7 @@
       "Prenominal Modification",
       "Upward Agree"
     ],
-    "abstract": "This paper analyzes the complex agreement behavior of prenominal adjectives in Standard Arabic. It argues that such adjectives absorb external case and block case assignment to the following noun, forcing movement of the noun. The paper proposes a unified analysis that captures variation in agreement across different positions and introduces a new application of the Upward Agree mechanism to account for agreement asymmetries in structures like N-A, A-N, and N1-A-N2.",
+    "abstract": "In this paper, I propose a new analysis that accounts for the obligatory movement of the noun in the Arabic noun phrase. The analysis is based on the assumption that adjectives in this language can absorb DP-external case and block case assignment on the following noun. To preempt this restriction, the noun must move across the adjective. Crucially though, if the noun's case is assigned in-situ by a DP-internal head, it becomes inactive for movement. I also introduce a new analysis of adjectival agreement in Standard Arabic which can account for full agreement on postnominal adjectives and the absence of agreement on prenominal ones. It also accounts for the unexpected pattern of agreement on adjectives that appear in between two nouns. The new analysis adopts the Upward Agree mechanism proposed in Zeijlstra (2012) and Bjorkman & Zeijlstra (2019).",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "feras.saeed@uni-goettingen.de",
     "editors": [
@@ -595,11 +1161,11 @@
     ],
     "related_slugs": [
       "khalid-casetheory-2022",
-      "hafsi-indefinites-2023",
+      "Boef-pronoundoubling-2013",
       "jin-classifiers-2023",
-      "morley-chamorro-2024",
-      "shikunova-smallclause-2023",
-      "moore-westslavic-2024"
+      "Smith-collectivenouns-2013",
+      "hafsi-indefinites-2023",
+      "morley-chamorro-2024"
     ]
   },
   {
@@ -621,7 +1187,7 @@
       "Modality",
       "Verbless Constructions"
     ],
-    "abstract": "German exhibits non-verbal constructions called verbless directives (VDs), which consist of PPs and/or particles expressing movement demands. These constructions can sometimes be converted into interrogative sentences (verbless interrogatives, VIs), but only under specific coreference conditions. This paper argues that VDs lacking a high Mod head cannot be transformed into VIs due to the absence of directive meaning in the structure. A syntactic account is proposed based on the interaction between Force and Mod in the left periphery.",
+    "abstract": "German exhibits an independent non-verbal construction named verbless directives (VDs). VDs consist of PPs and/or particles which express directions and order the hearer to move referents of theme arguments. According to Fortmann (2018), VDs can be converted into interrogative sentences, which have modal interpretations and are called verbless interrogatives (VIS) in this paper. However, VIs are well-formed only when theme arguments are not coreferential with the speaker. I argue that VDs whose theme arguments are identical to the hearer lack high Mod (cf. Hacquard 2006) and cannot be converted into VIs because they do not retain elements expressing directive meaning.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "s.fujii0404@gmail.com",
     "editors": [
@@ -632,12 +1198,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
-      "jin-classifiers-2023",
+      "eisenheld-zeronominals-2021",
       "voigt-der-dieser-german-2022",
-      "ottur-malayalam-2024",
-      "shikunova-smallclause-2023",
-      "russocardona-toughconstructions-2024",
-      "wiesner-samoan-2023"
+      "Wierzba-contrastivetopics-2013",
+      "holtz-tddeletion-2021",
+      "Campanini-causatives-2013",
+      "Sutter-umlaut-2013"
     ]
   },
   {
@@ -659,7 +1225,7 @@
       "Algerian Arabic",
       "Scope"
     ],
-    "abstract": "This paper challenges the claim that indefinites in languages like Algerian Arabic must be interpreted with wide scope. It shows that indefinite determiners can still function as existential quantifiers with scope constraints similar to other quantificational elements. Drawing on cross-linguistic comparison and recent theories of indefinites, the author argues for a unified analysis of indefinite DPs as scope-taking expressions constrained by syntactic position.",
+    "abstract": "In this paper, I investigate the scope properties of indefinites marked for specificity in Algerian Arabic (AA) and English. Following Schwarzschild (2002), I defend the classical analysis which takes indefinite DPs to contribute existential generalized quantifiers over individuals (EGQ). I argue that the surprising scope behavior of these indefinites is a matter of scope neutralization through extreme domain restriction. I show that extreme domain restriction to a singleton set is not implicit but morphologically marked in AA. I argue that the analysis is extendable to English a+certain DPs and point out the challenges that it faces when applied to English a DPs.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "walid.hafsi@univ-nantes.fr",
     "editors": [
@@ -671,16 +1237,16 @@
     ],
     "related_slugs": [
       "khalid-casetheory-2022",
+      "Boef-pronoundoubling-2013",
       "saeed-arabic-2023",
       "gan-scope-hk-sign-language-2022",
-      "sarvas-suffixes-hungarian-2022",
-      "moore-westslavic-2024",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "Xiqués-presentperfect-2013",
+      "sarvas-suffixes-hungarian-2022"
     ]
   },
   {
     "slug": "tveitan-exclusive-2023",
-    "title": "A diachronic case study of the exclusive markers but and just in English",
+    "title": "A diachronic case study of the exclusive markers 'but' and 'just' in English",
     "authors": [
       "Veronica Dahlby Tveitan"
     ],
@@ -697,7 +1263,7 @@
       "English Grammar",
       "Semantic Reanalysis"
     ],
-    "abstract": "This diachronic study investigates the shift in use between the English exclusive markers but and just from the 1600s to the 2010s. Using corpora data, it is shown that just underwent semantic reanalysis and was recruited as an exclusive marker, eventually replacing but. This process illustrates a chain shift in the functional inventory of English, driven by pragmatic competition and register-specific usage patterns.",
+    "abstract": "The functional inventory of English has changed from the 1600s to today. The exclusive markers but and just have experienced opposite trajectories, where one has become very frequent while the other is almost completely out of use. This change happened slowly over the centuries through semantic reanalysis and a chain shift, which led to the linguistic situation we recognise today where just is an often-used exclusive marker in all registers while but is barely in use and limited to formal registers.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "v.d.tveitan@ilos.uio.no",
     "editors": [
@@ -708,12 +1274,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "Zimmermann-grammarcompetition-2013",
+      "Smith-collectivenouns-2013",
       "banerjee-wh-exclamatives-bangla-2022",
-      "meisenbichler-temporal-2023",
-      "salimifar-presupposition-2023",
-      "barman-learnability-2023",
-      "ottur-malayalam-2024",
-      "bosch-negationcatalanspanish-2024"
+      "holtz-tddeletion-2021",
+      "blazheska-though-2021",
+      "salimifar-presupposition-2023"
     ]
   },
   {
@@ -735,7 +1301,7 @@
       "Root Syntax",
       "Adjectival Modification"
     ],
-    "abstract": "This paper explores the interaction between pre-classifier adjectives and classifier types in Mandarin Chinese. It shows that only degree adjectives can appear before classifiers, and their modifying scope depends on the lexical nature of the classifier (sortal vs. mensural). A root-based syntactic analysis is proposed, arguing that adjectives attach to root projections and that classifier lexicality determines modification structure.",
+    "abstract": "This paper investigates the selectional restrictions of pre-classifier modifiers in Numeral Classifier Constructions (NCC) in Mandarin Chinese. The adjectival modifiers da ‘big' and xiao 'small' can be used as phrase-internal modifiers by preceding a classifier in an NCC. However, the two modifiers trigger different modifying patterns. Specifically, when they precede a sortal classifier (SCL), the adjectives modify the sequence SCL+Noun, but when they are placed before a mensural classifier (MCL), the modifiee is the MCL without the noun. Facing the variation in the modifying scope, I assume that both da 'big' and xiao 'big' are modifiers of roots. They can modify a root projection, or they can modify an nP, and their position at the root level determines their modifying scope in the surface structure.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "jinlu@zju.edu.cn",
     "editors": [
@@ -746,12 +1312,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
-      "sakumoto-mandarin-chinese-islands-2022",
-      "fujii-verbless-2023",
-      "guo-ellipsis-2024",
       "saeed-arabic-2023",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "ottur-malayalam-2024",
+      "kasenov-modality-2023",
       "shikunova-smallclause-2023",
-      "ottur-malayalam-2024"
+      "fujii-verbless-2023"
     ]
   },
   {
@@ -773,7 +1339,7 @@
       "Sociolinguistics",
       "Spanish-Norwegian"
     ],
-    "abstract": "This study investigates how native Spanish speakers assign grammatical gender to Norwegian nouns in code-switched utterances. An online acceptability judgment task was conducted, revealing that masculine gender is preferred, though phonological shape and translation gender also influence assignment. Sociodemographic factors like gender of the speaker were also tested, but showed no clear correlation with gender assignment.",
+    "abstract": "In this paper, I show and discuss the results of conducting an online acceptability judgment task where native speakers of Spanish were asked to rate sentences containing Norwegian nouns within them. The nouns were presented with either masculine (el) or feminine (la) gender with the objective to find out what grammatical gender speakers of Spanish select when code- switching, and whether there are any factors, linguistic or sociodemographic, that can explain the choice.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
     "corresponding_email": "elenacv@uio.no",
     "editors": [
@@ -786,10 +1352,121 @@
     "related_slugs": [
       "berg-attitudes-2023",
       "pohl-twitterdiscourse-2023",
-      "bosch-negationcatalanspanish-2024",
       "presotto-objectrelatives-2024",
-      "mukherjee-orthographic-2023",
-      "morgunova-complementizer-2021"
+      "bosch-negationcatalanspanish-2024",
+      "mauffray-heritagel2-2021",
+      "MartínezParicio-identityeffects-2013"
+    ]
+  },
+  {
+    "slug": "dey-copula-2023",
+    "title": "Aspect-marked copula in Bangla",
+    "authors": [
+      "Srabasti Dey"
+    ],
+    "affiliation": [
+      "Autonomous University of Barcelona"
+    ],
+    "console_venue": "Bielefeld University",
+    "year": 2023,
+    "pages": "392–410",
+    "edition": "ConSOLE 31",
+    "keywords": [
+      "Bangla syntax",
+      "Aspect-marked copula",
+      "Equative clauses"
+    ],
+    "abstract": "This paper looks at aspect-marked copulas that are obligatory only for matrix equative clauses in the present tense in the Eastern Indo-Aryan language Bangla. It looks into the nature of present tense in copular constructions and tries to account for these quirky copulas through the interaction of the structure of equative clauses and the role of temporal arguments involved in yielding present tense in copular constructions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
+    "corresponding_email": "srabasti.dey@uab.cat",
+    "editors": [
+      "Iva Kovač",
+      "Paul Meisenbichler",
+      "Atefeh Shahbazi",
+      "Hadis Tamleh",
+      "Maximilian Wiesner"
+    ],
+    "related_slugs": [
+      "banerjee-wh-exclamatives-bangla-2022",
+      "mondalmukherjee-syllablestructures-2024",
+      "biswasmukherjee-lexicaldecisiontask-2024",
+      "kovac-basque-2021",
+      "Knyazev-čtoclauses-2013",
+      "presotto-objectrelatives-2024"
+    ]
+  },
+  {
+    "slug": "rugna-wh-2023",
+    "title": "On the paradigmatic morphosyntax of wh-elements",
+    "authors": [
+      "Giuseppe Rugna"
+    ],
+    "affiliation": [
+      "Università degli Studi di Firenze"
+    ],
+    "console_venue": "Bielefeld University",
+    "year": 2023,
+    "pages": "411–429",
+    "edition": "ConSOLE 31",
+    "keywords": [
+      "wh-elements",
+      "Sensory-Motor interface",
+      "single-entry hypothesis"
+    ],
+    "abstract": "This paper discusses the distribution of wh-elements across different constructions. In particular, it attempts to develop an account for the observation that wh-elements do not distribute freely across different syntactic environments; rather, their distribution is paradigmatic or construction-specific. Such distribution raises issues for current minimalist frameworks, as wh-elements are expected to undergo Merge irrespective of the particular construction being derived. The proposed account captures the relevant distribution by means of language-specific lexical properties of wh-elements in accord with a licensing mechanism operating at the Sensory-Motor interface. This paper moreover discusses the licensing of wh- elements in the contexts of interrogative, free and headed relative constructions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
+    "corresponding_email": "giuseppe.rugna@unifi.it",
+    "editors": [
+      "Iva Kovač",
+      "Paul Meisenbichler",
+      "Atefeh Shahbazi",
+      "Hadis Tamleh",
+      "Maximilian Wiesner"
+    ],
+    "related_slugs": [
+      "fiorini-camuno-2021",
+      "Chernova-echoquestions-2013",
+      "kim-basque-2021",
+      "presotto-objectrelatives-2024",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "sakumoto-mandarin-chinese-islands-2022"
+    ]
+  },
+  {
+    "slug": "lubomierski-multimodal-2023",
+    "title": "Investigating German multimodal requests in instant messaging",
+    "authors": [
+      "Lisa Lubomierski"
+    ],
+    "affiliation": [
+      "Rheinische Friedrich-Wilhelms-Universität Bonn"
+    ],
+    "console_venue": "Bielefeld University",
+    "year": 2023,
+    "pages": "430–453",
+    "edition": "ConSOLE 31",
+    "keywords": [
+      "Discourse completion task",
+      "Multimodality",
+      "Emoji"
+    ],
+    "abstract": "The current study quantitatively analyses the strategies employed by German native speakers when producing a request in instant messaging. Additionally, the multimodal resource of emoji available to users of messaging services is qualitatively analysed to outline its functions within requests. The data is collected from 68 Germans using a discourse completion task as an elicitation device. The results show that speakers seem to have a clear preference for conventionally indirect phrasing of requests. Over half of the requests included emoji fulfilling frame, mitigation, and relationship functions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxxi-proceedings.pdf",
+    "corresponding_email": "s5lilubo@uni-bonn.de",
+    "editors": [
+      "Iva Kovač",
+      "Paul Meisenbichler",
+      "Atefeh Shahbazi",
+      "Hadis Tamleh",
+      "Maximilian Wiesner"
+    ],
+    "related_slugs": [
+      "holtz-tddeletion-2021",
+      "lutzervoigt-resolution-2023",
+      "mauffray-heritagel2-2021",
+      "pohl-twitterdiscourse-2023",
+      "eisenheld-zeronominals-2021",
+      "fujii-verbless-2023"
     ]
   },
   {
@@ -821,12 +1498,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "mauffray-heritagel2-2021",
+      "noguchi-kotoga-2021",
+      "Pineda-ditransitive-2013",
       "morgunova-complementizer-2021",
-      "berg-attitudes-2023",
-      "gan-scope-hk-sign-language-2022",
-      "lutzervoigt-resolution-2023",
       "pohl-twitterdiscourse-2023",
-      "presotto-objectrelatives-2024"
+      "berg-attitudes-2023"
     ]
   },
   {
@@ -859,12 +1536,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
-      "presotto-objectrelatives-2024",
+      "MartínezParicio-identityeffects-2013",
       "varona-gender-2023",
-      "guo-ellipsis-2024",
-      "wiesner-samoan-2023",
-      "mcknight-minimalsearch-2024",
-      "moore-westslavic-2024"
+      "presotto-objectrelatives-2024",
+      "mauffray-heritagel2-2021",
+      "Smith-collectivenouns-2013",
+      "guo-ellipsis-2024"
     ]
   },
   {
@@ -898,10 +1575,10 @@
     "related_slugs": [
       "jin-classifiers-2023",
       "milosavljevic-ga-serbian-2022",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "zhao-homogeneity-2024",
+      "Wierzba-contrastivetopics-2013",
       "wiesner-samoan-2023",
-      "ottur-malayalam-2024"
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Chernova-echoquestions-2013"
     ]
   },
   {
@@ -933,12 +1610,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
-      "meisenbichler-temporal-2023",
-      "milosavljevic-ga-serbian-2022",
       "saeed-arabic-2023",
-      "fujii-verbless-2023",
-      "mcknight-minimalsearch-2024",
-      "guo-ellipsis-2024"
+      "Wierzba-contrastivetopics-2013",
+      "meisenbichler-temporal-2023",
+      "shikunova-smallclause-2023",
+      "milosavljevic-ga-serbian-2022",
+      "kovac-basque-2021"
     ]
   },
   {
@@ -971,11 +1648,11 @@
     ],
     "related_slugs": [
       "russocardona-toughconstructions-2024",
+      "Campanini-causatives-2013",
       "shikunova-mermaid-construction-2022",
+      "Xiqués-presentperfect-2013",
       "pohl-twitterdiscourse-2023",
-      "mattiuzzi-inflection-2023",
-      "kasenov-modality-2023",
-      "ottur-malayalam-2024"
+      "mattiuzzi-inflection-2023"
     ]
   },
   {
@@ -1008,11 +1685,11 @@
     ],
     "related_slugs": [
       "berg-attitudes-2023",
-      "fujii-verbless-2023",
-      "jin-classifiers-2023",
+      "Wierzba-contrastivetopics-2013",
+      "Baturay-loanwords-2013",
       "ottur-malayalam-2024",
-      "barman-learnability-2023",
-      "morley-chamorro-2024"
+      "jin-classifiers-2023",
+      "barman-learnability-2023"
     ]
   },
   {
@@ -1044,12 +1721,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
-      "banerjee-wh-exclamatives-bangla-2022",
-      "bosch-negationcatalanspanish-2024",
+      "Zimmermann-grammarcompetition-2013",
+      "Hayashi-teclauses-2013",
+      "Knyazev-čtoclauses-2013",
       "varona-gender-2023",
-      "kasenov-modality-2023",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "guo-ellipsis-2024"
+      "rugna-wh-2023",
+      "banerjee-wh-exclamatives-bangla-2022"
     ]
   },
   {
@@ -1081,12 +1758,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "Campanini-causatives-2013",
+      "Pineda-ditransitive-2013",
       "mattiuzzi-inflection-2023",
-      "fujii-verbless-2023",
+      "noguchi-kotoga-2021",
       "jin-classifiers-2023",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "shikunova-mermaid-construction-2022",
-      "ottur-malayalam-2024"
+      "shikunova-smallclause-2023"
     ]
   },
   {
@@ -1119,11 +1796,11 @@
     ],
     "related_slugs": [
       "sakumoto-mandarin-chinese-islands-2022",
+      "noguchi-kotoga-2021",
       "guo-ellipsis-2024",
       "jin-classifiers-2023",
-      "szarvas-coreference-2024",
-      "moritake-dps-2023",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "li-functional-ge-2023",
+      "Boef-pronoundoubling-2013"
     ]
   },
   {
@@ -1156,11 +1833,11 @@
     ],
     "related_slugs": [
       "andermann-potawatomi-2024",
+      "Hayashi-teclauses-2013",
       "dulecavelier-mirrorprinciple-2021",
       "lutzervoigt-resolution-2023",
-      "fujii-verbless-2023",
       "voigt-der-dieser-german-2022",
-      "salimifar-presupposition-2023"
+      "Campanini-causatives-2013"
     ]
   },
   {
@@ -1181,7 +1858,7 @@
       "Morphological movement",
       "Potawatomi"
     ],
-    "abstract": "In this paper I show that analysing Potawatomi inverse marking in Harmonic Serialism (Muller ¨ 2020), a derivational version of Optimality Theory, as a reflex of morphological movement obliterates the need for assuming two Voice heads in the syntax, nominative-accusative and absolutive-ergative alignment at the same time, or one exponent encoding both arguments. In addition to inverse marking, morphological movement and movement-related repair operations can derive exponent drop, i.e. the unexpected absence of certain exponents whenever they realise the less salient argument.",
+    "abstract": "In this paper I show that analysing Potawatomi inverse marking in Harmonic Serialism (Müller 2020), a derivational version of Optimality Theory, as a reflex of morphological movement obliterates the need for assuming two Voice heads in the syntax, nominative-accusative and absolutive-ergative alignment at the same time, or one exponent encoding both arguments. In addition to inverse marking, morphological movement and movement-related repair operations can derive exponent drop, i.e. the unexpected absence of certain exponents whenever they realise the less salient argument.",
     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii_updated-2.pdf",
     "corresponding_email": "felicitas.andermann@uni-leipzig.de",
     "editors": [
@@ -1193,11 +1870,11 @@
     ],
     "related_slugs": [
       "szarvas-coreference-2024",
+      "Chernova-echoquestions-2013",
+      "noguchi-kotoga-2021",
       "russocardona-toughconstructions-2024",
       "biswasmukherjee-lexicaldecisiontask-2024",
-      "dulecavelier-mirrorprinciple-2021",
-      "morley-chamorro-2024",
-      "presotto-objectrelatives-2024"
+      "dulecavelier-mirrorprinciple-2021"
     ]
   },
   {
@@ -1229,12 +1906,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
-      "fujii-verbless-2023",
+      "Wierzba-contrastivetopics-2013",
       "jin-classifiers-2023",
-      "milosavljevic-ga-serbian-2022",
-      "wiesner-samoan-2023",
+      "fujii-verbless-2023",
       "shikunova-smallclause-2023",
-      "kawamitsu-verbal-2023"
+      "Campanini-causatives-2013",
+      "wiesner-samoan-2023"
     ]
   },
   {
@@ -1270,8 +1947,8 @@
       "saeed-arabic-2023",
       "guo-ellipsis-2024",
       "milosavljevic-ga-serbian-2022",
-      "hafsi-indefinites-2023",
-      "sarvas-suffixes-hungarian-2022"
+      "sarvas-suffixes-hungarian-2022",
+      "mcknight-minimalsearch-2024"
     ]
   },
   {
@@ -1308,9 +1985,9 @@
       "mondalmukherjee-syllablestructures-2024",
       "mukherjee-orthographic-2023",
       "banerjee-wh-exclamatives-bangla-2022",
-      "andermann-potawatomi-2024",
-      "joveneau-eastbelgian-2023",
-      "morgunova-complementizer-2021"
+      "dey-copula-2023",
+      "mauffray-heritagel2-2021",
+      "swe-burmese-2021"
     ]
   },
   {
@@ -1346,9 +2023,9 @@
       "mukherjee-orthographic-2023",
       "biswasmukherjee-lexicaldecisiontask-2024",
       "banerjee-wh-exclamatives-bangla-2022",
+      "dey-copula-2023",
       "kumari-honorificity-nominal-2022",
-      "szarvas-coreference-2024",
-      "morgunova-complementizer-2021"
+      "szarvas-coreference-2024"
     ]
   },
   {
@@ -1380,10 +2057,10 @@
     "related_slugs": [
       "saeed-arabic-2023",
       "hafsi-indefinites-2023",
+      "Boef-pronoundoubling-2013",
       "sakumoto-mandarin-chinese-islands-2022",
-      "kawamitsu-verbal-2023",
-      "moritake-dps-2023",
-      "barman-learnability-2023"
+      "barman-learnability-2023",
+      "dulecavelier-mirrorprinciple-2021"
     ]
   },
   {
@@ -1415,10 +2092,10 @@
     "related_slugs": [
       "milosavljevic-ga-serbian-2022",
       "moore-westslavic-2024",
+      "kim-basque-2021",
+      "Xiqués-presentperfect-2013",
       "salimifar-presupposition-2023",
-      "russocardona-toughconstructions-2024",
-      "zhao-homogeneity-2024",
-      "morley-chamorro-2024"
+      "mauffray-heritagel2-2021"
     ]
   },
   {
@@ -1451,11 +2128,11 @@
     ],
     "related_slugs": [
       "meisenbichler-temporal-2023",
+      "Pineda-ditransitive-2013",
+      "Boef-pronoundoubling-2013",
+      "shikunova-smallclause-2023",
       "sakumoto-mandarin-chinese-islands-2022",
-      "ottur-malayalam-2024",
-      "moore-westslavic-2024",
-      "sarvas-suffixes-hungarian-2022",
-      "shikunova-smallclause-2023"
+      "noguchi-kotoga-2021"
     ]
   },
   {
@@ -1491,11 +2168,11 @@
     ],
     "related_slugs": [
       "milosavljevic-duratives-2022",
+      "noguchi-kotoga-2021",
+      "Wierzba-contrastivetopics-2013",
+      "shikunova-smallclause-2023",
       "guo-ellipsis-2024",
-      "morley-chamorro-2024",
-      "ottur-malayalam-2024",
-      "fujii-verbless-2023",
-      "kawamitsu-verbal-2023"
+      "morley-chamorro-2024"
     ]
   },
   {
@@ -1524,19 +2201,19 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "kim-basque-2021",
+      "Savu-rhotictap-2013",
+      "jin-classifiers-2023",
       "russocardona-toughconstructions-2024",
-      "lidestri-motionverbs-2024",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "gan-scope-hk-sign-language-2022",
-      "zhao-homogeneity-2024",
-      "morley-chamorro-2024"
+      "Pineda-ditransitive-2013",
+      "shikunova-smallclause-2023"
     ]
   },
   {
     "slug": "sarvas-suffixes-hungarian-2022",
     "title": "Scope ambiguities among suffixes in Hungarian: mood and modality at Logical Form",
     "authors": [
-      "Timea Sarvas"
+      "Timea Szarvas"
     ],
     "affiliation": "University of Potsdam",
     "console_venue": "University of Nantes",
@@ -1562,10 +2239,10 @@
     "related_slugs": [
       "gan-scope-hk-sign-language-2022",
       "kasenov-modality-2023",
-      "dulecavelier-mirrorprinciple-2021",
       "hafsi-indefinites-2023",
       "fujii-verbless-2023",
-      "moore-westslavic-2024"
+      "dulecavelier-mirrorprinciple-2021",
+      "mauffray-heritagel2-2021"
     ]
   },
   {
@@ -1597,12 +2274,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "Chernova-echoquestions-2013",
+      "dey-copula-2023",
+      "fiorini-camuno-2021",
       "salimifar-presupposition-2023",
       "presotto-objectrelatives-2024",
-      "biswasmukherjee-lexicaldecisiontask-2024",
-      "mondalmukherjee-syllablestructures-2024",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "meisenbichler-temporal-2023"
+      "biswasmukherjee-lexicaldecisiontask-2024"
     ]
   },
   {
@@ -1634,12 +2311,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "Knyazev-čtoclauses-2013",
       "meisenbichler-temporal-2023",
       "moritake-dps-2023",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "dulecavelier-mirrorprinciple-2021",
-      "russocardona-toughconstructions-2024",
-      "gan-scope-hk-sign-language-2022"
+      "shikunova-smallclause-2023",
+      "Baturay-loanwords-2013",
+      "saeed-arabic-2023"
     ]
   },
   {
@@ -1670,12 +2347,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
-      "lutzervoigt-resolution-2023",
       "fujii-verbless-2023",
-      "szarvas-coreference-2024",
-      "joveneau-eastbelgian-2023",
-      "pohl-twitterdiscourse-2023",
-      "zhao-homogeneity-2024"
+      "lutzervoigt-resolution-2023",
+      "Sutter-umlaut-2013",
+      "Wierzba-contrastivetopics-2013",
+      "eisenheld-zeronominals-2021",
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -1705,11 +2382,11 @@
     ],
     "related_slugs": [
       "jin-classifiers-2023",
+      "kawamitsu-verbal-2023",
       "khalid-casetheory-2022",
       "zhao-homogeneity-2024",
       "banerjee-wh-exclamatives-bangla-2022",
-      "guo-ellipsis-2024",
-      "kawamitsu-verbal-2023"
+      "guo-ellipsis-2024"
     ]
   },
   {
@@ -1741,12 +2418,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
       "sarvas-suffixes-hungarian-2022",
+      "Hayashi-teclauses-2013",
       "berg-attitudes-2023",
-      "meisenbichler-temporal-2023",
-      "pohl-twitterdiscourse-2023",
-      "lutzervoigt-resolution-2023",
-      "hafsi-indefinites-2023"
+      "hafsi-indefinites-2023",
+      "meisenbichler-temporal-2023"
     ]
   },
   {
@@ -1777,12 +2454,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "Chernova-echoquestions-2013",
       "shikunova-smallclause-2023",
+      "Knyazev-čtoclauses-2013",
       "kasenov-modality-2023",
-      "alatassi-objectclitics-2024",
-      "biswasmukherjee-lexicaldecisiontask-2024",
-      "dulecavelier-mirrorprinciple-2021",
-      "gan-scope-hk-sign-language-2022"
+      "swe-burmese-2021",
+      "alatassi-objectclitics-2024"
     ]
   },
   {
@@ -1815,11 +2492,520 @@
     ],
     "related_slugs": [
       "kawamitsu-verbal-2023",
+      "Boef-pronoundoubling-2013",
       "barman-learnability-2023",
+      "huang-camuno-2021",
       "szarvas-coreference-2024",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "khalid-casetheory-2022",
-      "sarvas-suffixes-hungarian-2022"
+      "sakumoto-mandarin-chinese-islands-2022"
+    ]
+  },
+  {
+    "slug": "kovac-basque-2021",
+    "title": "Restricted number and stubborn dative: Long-distance agreement across Basque nominalised complement clauses",
+    "authors": [
+      "Iva Kovač"
+    ],
+    "affiliation": [
+      "University of Vienna"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "41-65",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Basque syntax",
+      "nominalised complement clauses",
+      "feature-geometrical approach"
+    ],
+    "abstract": "In varieties of Basque, objects embedded into absolutive- and dative-marked nominalised complement clauses can enter a long-distance agreement relation with the matrix auxiliary. The observed patterns are derived from the featural specifications and probing characteristics of different types of matrix probes: absolutive clauses appear opaquer because they are targeted by a person and a number probe, the former restricting the range of possible goals for the latter, while dative clauses seem more transparent because they are targeted by an integral probe, which, as a consequence of its integrity, is ‘stubborn’, and able to penetrate domains inaccessible to singlefeature absolutive probes.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "iva.kovac@univie.ac.at",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Hayashi-teclauses-2013",
+      "presotto-objectrelatives-2024",
+      "dey-copula-2023",
+      "morley-chamorro-2024",
+      "ottur-malayalam-2024",
+      "Knyazev-čtoclauses-2013"
+    ]
+  },
+  {
+    "slug": "kim-basque-2021",
+    "title": "On the syntactic position of ‘why’-like ‘what’ in Korean",
+    "authors": [
+      "Okgi Kim"
+    ],
+    "affiliation": [
+      "University of Wisconsin-Milwaukee"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "66-78",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Korean syntax",
+      "wh-elements",
+      "external merge analysis"
+    ],
+    "abstract": "In Korean, the nominal wh-phrase mwe-l ‘what-ACC’ can be interpreted as a reason/causal wh-adjunct corresponding to 'way' (‘why’). The nominal wh-adjunct 'mwe-l' behaves like 'way', and unlike its ordinary counterpart (i.e., wh-argument), in many respects (e.g., Intervention Effect and Anti-Superiority Effect). This paper investigates whether 'mwe-l' is base-generated in the same position as the ‘high’ wh-adjunct 'way' (Ko 2005, 2006). The paper argues that the nominal wh-adjunct 'mwe-l' in an interrogative clause is directly merged into Spec-C[Att(itude)]P as its licensing position, configured lower than C[Int(errogative)]P where, according to Ko (2006), 'way' is externally merged and licensed.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "okgikim@uwm.edu",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "rugna-wh-2023",
+      "moritake-dps-2023",
+      "eisenheld-zeronominals-2021",
+      "fujii-verbless-2023",
+      "fiorini-camuno-2021",
+      "Chernova-echoquestions-2013"
+    ]
+  },
+  {
+    "slug": "fagiologiunta-berlinwall-2021",
+    "title": "Vereinigte Staaten von Amerika: An analysis of Kennedy and Reagan’s speeches on the Berlin Wall",
+    "authors": [
+      "Virna Fagiolo",
+      "Giulia Giunta"
+    ],
+    "affiliation": [
+      "Roma Tre University",
+      "La Sapienza University"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "79-97",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Pragmatic analysis",
+      "Content analysis",
+      "Discourse analysis"
+    ],
+    "abstract": "The present paper offers a content and pragmatic analysis of John F. Kennedy and Ronald Reagan’s speeches on the Berlin Wall with the aim of providing the reader with a complete investigation on the meaning. As far as the content analysis is concerned, this study compares the seduction strategies and rhetorical means as well as the main themes and lexemes recurring in these speeches. With respect to pragmatic analysis, the investigation focuses on linguistic implicitating strategies conveying debatable notions. Results show that both presidents frequently employed such strategies in their speeches.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "virna.fagiolo@uniroma3.it",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "blazheska-though-2021",
+      "ruhrmannetal-nja-2021",
+      "holtz-tddeletion-2021",
+      "pohl-twitterdiscourse-2023",
+      "eisenheld-zeronominals-2021",
+      "Savu-rhotictap-2013"
+    ]
+  },
+  {
+    "slug": "holtz-tddeletion-2021",
+    "title": "Ambiguity and variable phonological rules: The challenge of TD Deletion in US English",
+    "authors": [
+      "Annie Holtz"
+    ],
+    "affiliation": [
+      "The University of Edinburgh"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "98-115",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Functionalist approach",
+      "TD deletion",
+      "Corpus study"
+    ],
+    "abstract": "This study examines how the functionalist approach of ambiguity avoidance, as an explanation for variable application of TD Deletion in US English, can be extended to include effects of homophony avoidance. While previous research has examined the morphological conditioning of this rule across different word classes, the present study focuses on TD Deletion within monomorphemes. Using a small-scale corpus study, I examine how the presence of homophones after truncation influences the rate of TD Deletion for monomorphemes. The results indicate that deletion happens less often when it would have resulted in a form with a high number of homophones.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "annie.holtz@ed.ac.uk",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Smith-collectivenouns-2013",
+      "koelewijn-loanword-2021",
+      "pohl-twitterdiscourse-2023",
+      "guo-ellipsis-2024",
+      "ruhrmannetal-nja-2021",
+      "tveitan-exclusive-2023"
+    ]
+  },
+  {
+    "slug": "holtz-tddeletion-2021",
+    "title": "You shall know a tag by the context it occurs in: An analysis of German tag questions and their responses in spontaneous conversations",
+    "authors": [
+      "Yulia Clausen"
+    ],
+    "affiliation": [
+      "University of Potsdam"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "116-140",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "German syntax",
+      "Common ground management devices",
+      "Discourse functions"
+    ],
+    "abstract": "This study explores the contexts of occurrence of German sentence-final question tags 'ja', 'ne', 'nicht', 'gell' and 'oder' in a corpus of spontaneous conversations. In German, these tags can be used interchangeably for the most part, yet there do exist cases where certain tags are less felicitous or even unacceptable. I propose an analysis of these tags as common ground management devices and demonstrate the relevance of their contexts and responses they occur with for determining their felicity conditions and discourse functions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "yulia.clausen@uni-potsdam.de",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "eisenheld-zeronominals-2021",
+      "fujii-verbless-2023",
+      "Campanini-causatives-2013",
+      "voigt-der-dieser-german-2022",
+      "Wierzba-contrastivetopics-2013",
+      "ruhrmannetal-nja-2021"
+    ]
+  },
+  {
+    "slug": "noguchi-kotoga-2021",
+    "title": "'Koto-ga' RTOs: A new perspective on raising-to-object constructions in Japanese",
+    "authors": [
+      "Yuya Noguchi"
+    ],
+    "affiliation": [
+      "University of Connecticut"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "141-159",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Japanese syntax",
+      "raising-to-object",
+      "movement analysis"
+    ],
+    "abstract": "There has been a controversy in the literature about how the raising-to-object construction (RTO) in Japanese should be analyzed. This paper sheds new light on this issue by exploring a novel variant of RTOs that I refer to as 'koto-ga' RTOs, which have gone unacknowledged. More specifically, I discuss properties of 'koto-ga' RTOs and propose an analysis for them. Furthermore, I show that the proposed analysis of 'koto-ga' RTOs gives a new perspective on the issue of how the Japanese RTO in general should be analyzed.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "yuya.noguchi@uconn.edu",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Pineda-ditransitive-2013",
+      "kawamitsu-verbal-2023",
+      "milosavljevic-ga-serbian-2022",
+      "Hayashi-teclauses-2013",
+      "russocardona-toughconstructions-2024",
+      "shikunova-smallclause-2023"
+    ]
+  },
+  {
+    "slug": "koelewijn-loanword-2021",
+    "title": "Loanword phonology in Trio: Patterns in phonotactic adaptations",
+    "authors": [
+      "Iris Marijke Koelewijn"
+    ],
+    "affiliation": [
+      "Amsterdam Center for Language and Communication",
+      "University of Amsterdam"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "160-174",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "vowel epenthesis",
+      "Trio",
+      "Corpus study"
+    ],
+    "abstract": "In this paper, I provide a first look at the phonology of loanwords in Trio, a Cariban language spoken in Suriname and Brazil. Because of Trio’s restrictive phonotactics, many loanwords are adapted through vowel epenthesis and consonant deletion. Using data from Meira (1999), Meira & Muysken (2017) and Carlin (2017), I compiled a corpus of 114 loanwords in Trio, from various source languages such as Dutch, Portuguese and Sranan. Analysis of this corpus shows that different strategies for vowel epenthesis are used systematically, and that there is a surprisingly high rate of consonant deletion which is as of yet unexplained.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "iris.mk.97@gmail.com",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Baturay-loanwords-2013",
+      "barman-learnability-2023",
+      "holtz-tddeletion-2021",
+      "wiesner-samoan-2023",
+      "guo-ellipsis-2024",
+      "blazheska-though-2021"
+    ]
+  },
+  {
+    "slug": "fiorini-camuno-2021",
+    "title": "In-situ wh-interrogative in Camuno: Interpretation at the interfaces",
+    "authors": [
+      "Matteo Fiorini"
+    ],
+    "affiliation": [
+      "University of Utah"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "175-191",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "wh-elements",
+      "interface requirements",
+      "north-italian dialects"
+    ],
+    "abstract": "The aim of this paper is twofold. On the one hand, it presents novel data from an understudied Romance variety that could help sketching a more precise typological picture of wh-structures in Northern Italian Dialects. On the other hand, it proposes an analysis in terms of interface requirements at PF to account for the distributional properties attested. The latter is claimed to be more economical than previous proposals put forward for related varieties with similar patterns.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "matteo.fiorini@utah.edu",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "rugna-wh-2023",
+      "Chernova-echoquestions-2013",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "kim-basque-2021",
+      "Wierzba-contrastivetopics-2013",
+      "presotto-objectrelatives-2024"
+    ]
+  },
+  {
+    "slug": "huang-camuno-2021",
+    "title": "Distinguishing between POSS-ing and ACC-ing: Evidence from 'with(out)'",
+    "authors": [
+      "Zi Huang"
+    ],
+    "affiliation": [
+      "Universitat Pompeu Fabra"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "192-204",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "verbal gerunds",
+      "discourse familiarity",
+      "event kind descriptions"
+    ],
+    "abstract": "There has been disagreement concerning whether the two types of verbal gerunds in English, POSS-ing and ACC-ing, are semantically equivalent. This study focuses on a distributional difference that provides evidence for assigning different semantics to POSS-ing and ACC-ing: while both with and without can select ACC-ing as their complement, POSS-ing is only compatible with without. I present a semantic and pragmatic interpretation for the structure 'without' + POSS-ing, and then discuss two explanations for the distributional asymmetry based on the assumption that POSS-ing, but not ACC-ing, should be familiar in the discourse.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "zi.huang@upf.edu",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "kawamitsu-verbal-2023",
+      "dulecavelier-mirrorprinciple-2021",
+      "blazheska-though-2021",
+      "Wierzba-contrastivetopics-2013",
+      "Sutter-umlaut-2013",
+      "mauffray-heritagel2-2021"
+    ]
+  },
+  {
+    "slug": "mauffray-heritagel2-2021",
+    "title": "Word order preferences with intransitive verbs in heritage and L2 Spanish",
+    "authors": [
+      "Erin Mauffray"
+    ],
+    "affiliation": [
+      "University of California, Los Angeles"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "205-224",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "judgement task",
+      "l2 acquisition",
+      "argument position"
+    ],
+    "abstract": "While English only allows preverbal subjects in declarative contexts, it has been claimed that in Spanish unaccusative verbs, but not unergatives, license postverbal subjects. Experimental studies support this syntactico-semantic distinction, albeit not categorically; additional factors play a role in word order preferences, e.g., information structure. I explore the roles of verb type and adjunct placement on word order preferences in a judgment task administered to heritage, L2, and native Spanish speakers. Results suggest all groups are sensitive to these effects: speakers show a preference for preverbal subjects with unergative verbs and a tendency to accept postverbal subjects with preverbal adverbs.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "emauffray@g.ucla.edu",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "alatassi-objectclitics-2024",
+      "varona-gender-2023",
+      "bosch-negationcatalanspanish-2024",
+      "Boef-pronoundoubling-2013",
+      "morgunova-complementizer-2021",
+      "huang-camuno-2021"
+    ]
+  },
+  {
+    "slug": "swe-burmese-2021",
+    "title": "Effects of neighboring creaky tone on low tone of Burmese in post-lexical context",
+    "authors": [
+      "Su Paing Swe"
+    ],
+    "affiliation": [
+      "UYangon University of Foreign Languages"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "225-238",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "neighbouring tones",
+      "Burmese phonetics",
+      "reading task"
+    ],
+    "abstract": "In this paper, I investigated the behaviors of neighboring creaky tone of Burmese, in relation to the low tone which has been regarded as the one likely to have effects from the other tones. As high tone of Burmese has already been observed as having a carry-over effect into a following low or high tone, I claim that the high-pitched creaky tone can affect a following low tone. Therefore, through measurements of F0 with sentences uttered by four native speakers, I analyzed preceding and following effects of creaky tone on low tone.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "supaing.swe@yufl.edu.mm",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "morgunova-complementizer-2021",
+      "ruhrmannetal-nja-2021",
+      "mauffray-heritagel2-2021",
+      "biswasmukherjee-lexicaldecisiontask-2024",
+      "alatassi-objectclitics-2024",
+      "Baturay-loanwords-2013"
+    ]
+  },
+  {
+    "slug": "eisenheld-zeronominals-2021",
+    "title": "What directionality diagnostics can tell us about the formation of zero-nominals in German",
+    "authors": [
+      "Victoria Eisenheld"
+    ],
+    "affiliation": [
+      "University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "239-263",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "zero-nominals",
+      "directional derivational analysis",
+      "German syntax"
+    ],
+    "abstract": "This paper addresses German zero-nominals such as '(der) Lauf' ‘(the) run’ (↔ 'laufen' ‘to run’), whose theoretical modeling is challenging in the absence of morphological marking. Assuming that directionality diagnostics can be used to provide evidence in favor either of derivational theories (Marchand 1963a, 1964; Kiparsky 1982) or of underspecification accounts (Farrell 2001; Borer 2013), a self-collected data set of 60 German verb-noun pairs is investigated on the basis of five diagnostics. The results indicate that most zero-nominals are zero-derived from verbal bases, which largely supports a directional derivational analysis. A non-directional analysis is motivated for those word pairs where no derivational direction can be identified",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "viceisenheld@gmail.com",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "fujii-verbless-2023",
+      "holtz-tddeletion-2021",
+      "Campanini-causatives-2013",
+      "voigt-der-dieser-german-2022",
+      "Wierzba-contrastivetopics-2013",
+      "Sutter-umlaut-2013"
+    ]
+  },
+  {
+    "slug": "blazheska-though-2021",
+    "title": "Is it grammaticalization, though?: On the development of 'though' as a discourse marker",
+    "authors": [
+      "Viktorija Blazheska"
+    ],
+    "affiliation": [
+      "Julius-Maximilians-Universität Würzburg"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "264-278",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "pragmatic analysis",
+      "discourse markers",
+      "Corpus study"
+    ],
+    "abstract": "The paper reopens the question of 'though' as a discourse marker with new data and an attempt at refining the points along the pathway. A total of 217 conversations between friends and family taken from the CallFriend and CallHome English Corpora at talkbank.org was searched for instances of 'though', which were then grouped into four categories based on their function: concessive, topic close and concessive, topic shift and concessive, and purely pragmatic. The analysis is both qualitative and quantitative, and the criterion of the position of 'though' is also considered.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "viktorija.blazeska@gmail.com",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "ruhrmannetal-nja-2021",
+      "fagiologiunta-berlinwall-2021",
+      "pohl-twitterdiscourse-2023",
+      "holtz-tddeletion-2021",
+      "huang-camuno-2021",
+      "tveitan-exclusive-2023"
+    ]
+  },
+  {
+    "slug": "ruhrmannetal-nja-2021",
+    "title": "Reduction, assimilation or variation? Observations on [nja] in German spontaneous speech",
+    "authors": [
+      "Christiane Ruhrmann",
+      "Fabian Brackhane",
+      "Denis Arnold"
+    ],
+    "affiliation": [
+      "Leibniz-Institut für Deutsche Sprache Mannheim"
+    ],
+    "console_venue": "Leiden University",
+    "year": 2021,
+    "pages": "279-297",
+    "edition": "ConSOLE 29",
+    "keywords": [
+      "Phonetics",
+      "Pragmatic analysis",
+      "Corpus study"
+    ],
+    "abstract": "This paper presents observations on phonetic realisations of the German particles <ja> – ‘yes’ and <naja> – ‘well’. During a large-scale study on the particle <ja>, we identified numerous instances that in the examined dataset had been orthographically transcribed as <ja>, but were phonetically realised as [nja]. Based on phonetic and functional parameters we explore the question whether these instances can be attributed to one of the lexemes <ja> or <naja>. While phonetic measurements yield ambivalent results, analyses regarding pragmatic parameters such as function and turn position indicate that realisations of [nja] in most cases were intended as <ja>. Nevertheless, some functional differences between <ja> and [nja] can be observed.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/consolexxix.pdf",
+    "corresponding_email": "ruhrmann@swhk.ids-mannheim.de",
+    "editors": [
+      "Annie Holtz",
+      "Iva Kovač",
+      "Rasmus Puggaard-Rode",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "blazheska-though-2021",
+      "fagiologiunta-berlinwall-2021",
+      "eisenheld-zeronominals-2021",
+      "holtz-tddeletion-2021",
+      "voigt-der-dieser-german-2022",
+      "Wierzba-contrastivetopics-2013"
     ]
   }
 ]

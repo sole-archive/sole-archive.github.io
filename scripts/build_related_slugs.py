@@ -59,6 +59,11 @@ def main():
     with open(papers_path, 'r', encoding='utf-8') as f:
         papers: List[Dict] = json.load(f)
 
+    # ✅ Clear all existing related_slugs at the beginning
+    for p in papers:
+        if 'related_slugs' in p:
+            p['related_slugs'] = []
+
     # Build token sets for all papers
     idx_by_slug: Dict[str, int] = {}
     features: List[Tuple[Set[str], Set[str], Set[str]]] = []

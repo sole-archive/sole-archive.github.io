@@ -33,7 +33,9 @@ const { currentPage = "home" } = Astro.props;
         <a href="/papers" class={`font-medium pb-1 transition-smooth ${currentPage === 'papers' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
           Browse Papers
         </a>
-       
+        <a href="/board" class={`font-medium pb-1 transition-smooth ${currentPage === 'board' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
+          Board
+        </a>
       </div>
 
       <!-- Mobile Menu Button -->
@@ -59,6 +61,10 @@ const { currentPage = "home" } = Astro.props;
       
       <a href="/papers" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'papers' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Browse Papers
+      </a>
+      
+      <a href="/board" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'board' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+        Board
       </a>
     </div>
   </div>
