@@ -3008,4 +3008,99 @@
       "Wierzba-contrastivetopics-2013"
     ]
   }
+  ,
+  {
+    "slug": "nakamura-quantifiers-2020",
+    "title": "An alternative-based theory of distributivity: Non-local floating quantifiers and contextual monotonicity",
+    "authors": [
+      "Takanobu Nakamura"
+    ],
+    "affiliation": [
+      "The University of Edinburgh"
+    ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "1-24",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Floating numeral quantifiers",
+      "Japanese",
+      "Monotonicity analysis"
+    ],
+    "abstract": "In this paper, I discuss the distributivity and locality of floating numeral quantifiers in Japanese. The challenge is that they are weakly distributive and selectively local. Building on Nakanishi’s (2008a) event-based monotonicity analysis, I propose an alternative-based monotonicity analysis: floating numeral quantifiers presuppose monotonic ordering of alternatives, which can be based on logical entailment or informativity. This analysis derives an appropriate degree of distributivity and locality for floating numeral quantifiers in Japanese.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "takanobu.Nakamura@ed.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "khomchenkova-exceptives-2020",
+    "title": "Exceptives in Hill Mari and Moksha Mordvin",
+    "authors": [
+      "Irina Khomchenkova"
+    ],
+    "affiliation": [
+      "Lomonosov Moscow State University", "Vinogradov Russian Language Institute, Russian Academy of Sciences"
+    ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "25-40",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Semantics",
+      "Exceptives",
+      "Hill Mari"
+    ],
+    "abstract": "This paper deals with the syntax of exceptive constructions in Hill Mari and Moksha Mordvin. In Hill Mari the semantics of exception is conveyed by the construction 'gə̈c pasna' <EL separate>. In Moksha Mordvin it is conveyed by the construction '-də baška' <-ABL except>. In both languages exceptives can be adjacent to the quantifier phrase, forming a constituent (Connected Exceptive, CE) and at the periphery of the clause (Free Exceptive, FE). I claim that Hill Mari and Moksha Mordvin FEs are derived from CEs, since unreduced exceptive clauses and multiple exceptions are impossible, and the exception must be a NP.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "irina.khomchenkova@yandex.ru",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "amido-goalsbeliefs-2020",
+    "title": "Goals and beliefs",
+    "authors": [
+      "Sara Amido"
+    ],
+    "affiliation": [
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "41-50",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Semantics",
+      "Conditionals",
+      "Goals and beliefs"
+    ],
+    "abstract": "I propose a new discourse model that can represent goals, beliefs, and their interrelationships. Using insights about the interpretation of biscuit and canonical conditionals, I demonstrate that the semantic analysis of language objects must account for the co-existence and interaction between these two dimensions: beliefs as attitudes about the way things are; and goals as the intention behind actions, including speech acts. I build on existing theories that already model beliefs, to develop a more complete semantic tool for the analysis and formalization of the pragmatic concepts of goals as well as relevance.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "aisha.amido@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
 ]

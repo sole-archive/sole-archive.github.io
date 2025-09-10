@@ -3007,5 +3007,345 @@
       "voigt-der-dieser-german-2022",
       "Wierzba-contrastivetopics-2013"
     ]
+  },
+  {
+    "slug": "nakamura-quantifiers-2020",
+    "title": "An alternative-based theory of distributivity: Non-local floating quantifiers and contextual monotonicity",
+    "authors": [
+      "Takanobu Nakamura"
+    ],
+    "affiliation": [
+      "The University of Edinburgh"
+    ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "1-24",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Floating numeral quantifiers",
+      "Japanese",
+      "Monotonicity analysis"
+    ],
+    "abstract": "In this paper, I discuss the distributivity and locality of floating numeral quantifiers in Japanese. The challenge is that they are weakly distributive and selectively local. Building on Nakanishi’s (2008a) event-based monotonicity analysis, I propose an alternative-based monotonicity analysis: floating numeral quantifiers presuppose monotonic ordering of alternatives, which can be based on logical entailment or informativity. This analysis derives an appropriate degree of distributivity and locality for floating numeral quantifiers in Japanese.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "takanobu.Nakamura@ed.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "khomchenkova-exceptives-2020",
+    "title": "Exceptives in Hill Mari and Moksha Mordvin",
+    "authors": [
+      "Irina Khomchenkova"
+    ],
+    "affiliation": [
+      "Lomonosov Moscow State University", "Vinogradov Russian Language Institute, Russian Academy of Sciences"
+    ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "25-40",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Semantics",
+      "Exceptives",
+      "Hill Mari"
+    ],
+    "abstract": "This paper deals with the syntax of exceptive constructions in Hill Mari and Moksha Mordvin. In Hill Mari the semantics of exception is conveyed by the construction 'gə̈c pasna' <EL separate>. In Moksha Mordvin it is conveyed by the construction '-də baška' <-ABL except>. In both languages exceptives can be adjacent to the quantifier phrase, forming a constituent (Connected Exceptive, CE) and at the periphery of the clause (Free Exceptive, FE). I claim that Hill Mari and Moksha Mordvin FEs are derived from CEs, since unreduced exceptive clauses and multiple exceptions are impossible, and the exception must be a NP.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "irina.khomchenkova@yandex.ru",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "amido-goalsbeliefs-2020",
+    "title": "Goals and beliefs",
+    "authors": [
+      "Sara Amido"
+    ],
+    "affiliation": [
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "41-50",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Semantics",
+      "Conditionals",
+      "Goals and beliefs"
+    ],
+    "abstract": "I propose a new discourse model that can represent goals, beliefs, and their interrelationships. Using insights about the interpretation of biscuit and canonical conditionals, I demonstrate that the semantic analysis of language objects must account for the co-existence and interaction between these two dimensions: beliefs as attitudes about the way things are; and goals as the intention behind actions, including speech acts. I build on existing theories that already model beliefs, to develop a more complete semantic tool for the analysis and formalization of the pragmatic concepts of goals as well as relevance.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "aisha.amido@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "baggiocairncross-propernouns-2020",
+    "title": "The syntax of Puss in Boots and Sleeping Beauty: Proper names between productivity and atomicity",
+    "authors": [
+      "Pietro Baggio", "Alexander Cairncross"
+    ],
+    "affiliation": ["Queen Mary University of London", "University of Cambridge"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "51-74",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Proper names",
+      "Semantic Exocentricity of Proper DPs",
+      "Split-DP hypothesis"
+    ],
+    "abstract": "This paper explores the syntactic formation of proper names. Due to their syntactic productivity and internal complexity, work stemming from Longobardi (1994) has assumed that proper names are created in the syntax via N◦ -to-D◦ movement. However, these approaches leave unexplained a set of semantic and syntactic asymmetries between common and proper names. Our paper will highlight three: the DP Divergence Point, the Semantic Exocentricity of Proper DPs, and the Featural Inaccessibility of Proper DPs. Building on Longobardi (1994) and the split DP hypothesis (Aboh 2004; Haegeman 2004 et seq.), we suggest that proper names require intermediate movement to a lower projection: DeixP. N◦ -to-Deix◦ movement renders the NP as a whole an indexical.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "p.baggio@qmul.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "kwapiszewski-aspect-2020",
+    "title": "Aspect and verbalising morphology in Polish nominalisations",
+    "authors": [
+      "Arkadiusz Kwapiszewski"
+    ],
+    "affiliation": ["University of Oxford"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "75-99",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Distributed Morphology",
+      "Aspectual ambiguity",
+      "Polish Syntax"
+    ],
+    "abstract": "This paper investigates the contrast between Verbal and Deverbal Nominals in Polish. VNs encode aspectual distinctions and incorporate verbal suffixes, DNs do neither of those things. I argue that Voice and Asp are necessary for the emergence of event and argument structure in derived nominals (van Hout & Roeper 1998, Alexiadou 2009, Borer 2013). The aspectual ambiguity of DNs follows from the absence of the category-defining head v, which blocks telicity/quantity. To derive this result, I develop an analysis of Polish verb stems within Distributed Morphology (DM), involving fusion, the ¬ specification (Siddiqi 2009) and PF crashing",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "arkadiusz.kwapiszewski@ling-phil.ox.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "noguchi-cleft-2020",
+    "title": "On the embeddability of cleft wh-questions in Japanese",
+    "authors": [
+      "Yuya Noguchi"
+    ],
+    "affiliation": ["University of Connecticut"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "100-115",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Focus features",
+      "Japanese syntax",
+      "Cleft wh-questions"
+    ],
+    "abstract": "Hiraiwa & Ishihara (2002, 2012) argue that the derivation of Japanese clefts involves movement of a focused element to FocP. Even though their analysis seems successful, I point out a hitherto unacknowledged fact that embedding a cleft wh-question degrades a sentence, which is hard to explain with their analysis if it is taken at its face value. Against this backdrop, this paper aims to elaborate on their analysis: I claim that the two focus-related features, [±exhaustivity] and [±sharing-presupposition], induce the focus movement in clefts. The paper further discusses ReportP-size clauses (e.g., Saito 2010) based on my proposal.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "yuya.noguchi@uconn.edu",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "hua-disjunction-2020",
+    "title": "Free choice disjunction of propositions in generic sentences",
+    "authors": [
+      "Wenyue Hua"
+    ],
+    "affiliation": ["Rutgers University, New Brunswick"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "116-135",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Free choice disjunctions",
+      "Semantic analysis",
+      "Genericity"
+    ],
+    "abstract": "Disjunction is used to connect multiple options when there is insufficient information to determine which one is true. However, free choice disjunction defies this simple fact: when a disjunction acts as a free choice operator, all options are true. The usage of free choice disjunction is observed to usually co-occur with modals, pluralities, etc. This paper introduces a novel observation of sentences with free choice disjunction in English. Multiple data points are presented to demonstrate the semantic distribution. I propose that free choice reading in disjunctions depends on three factors: the sentence’s genericity, scope of the disjunction and disjuncts being imperfect nominals.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "wenyue.hua@rutgers.edu",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "rossyaykin-modals-2020",
+    "title": "Existential modals and negation in Russian: Evidence for universal functional hierarchy",
+    "authors": [
+      "Petr Rossyaykin"
+    ],
+    "affiliation": ["Lomonosov Moscow State University"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "136-155",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Functional hierarchy",
+      "Russian modality",
+      "Epistemic/Root distinction"
+    ],
+    "abstract": "In this paper I discuss the interaction of sentential negation with the Russian modal verb 'moč' ‘can, may’ on root vs epistemic reading. More specifically, I observe that negative concord items and the genitive of negation are not licensed when negated 'moč' has an epistemic interpretation. I also discuss other (mostly morphological) differences dependent on the interpretation of 'moč' and argue that they all are in line with the assumption that 'moč' may occupy different positions in the clausal spine. While root 'moč' is either a lexical verb or low Modabil/perm head, epistemic 'moč' resides in the high Modepist head.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "petrrossyaykin@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  }
+  ,
+  {
+    "slug": "kerr-gorwaa-2020",
+    "title": "(Non-)specificity and Case in Gorwaa: The '-oo/-(h)ee' suffix",
+    "authors": [
+      "Elisabeth J. Kerr"
+    ],
+    "affiliation": ["Leiden University Centre for Linguistics"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "156-174",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Nominal suffixes",
+      "Gorwaa",
+      "Corpus study"
+    ],
+    "abstract": "This paper presents results of a corpus study on the South-Cushitic language Gorwaa which investigated the ‘enigmatic’ '-oo/-(h)ee' suffix (Mous & Qorro 2010:47, Harvey 2018). Various contexts in which this nominal suffix occurs are identified, including negation, polar questions, universal quantification, adverbials, the object of comparison, and locatives. I characterise these as non-specific contexts and frame-setting topics. I compare these contexts to those in which the augment (nominal pre-prefix) is dropped in Bantu languages and, based on the empirical similarities, I discuss whether analyses of the Bantu augment can account for the Gorwaa cases. One analysis proposes that the suffix marks (non-)specificity, which I show is not fully satisfactory. Instead, I propose that what truly conditions the appearance of the suffix is the syntactic position of the nominal with respect to the verb phrase.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "e.j.kerr@hum.leidenuniv.nl",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  },
+  {
+    "slug": "nakajima-lexicalambiguity-2020",
+    "title": "Lexical ambiguity & n-words: A perspective from a set theory",
+    "authors": [
+      "Yu Nakajima"
+    ],
+    "affiliation": [
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "175-185",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "N-words",
+      "Set-theory",
+      "Lexical ambiguity"
+    ],
+    "abstract": "This paper focuses mainly on the properties of n-words and aims to maintain that Herburger’s (2001) lexical ambiguity hypothesis can be motivated theoretically. In so doing, I discuss a typology of negative constituents and contend that they can be categorized into three different types such as arguments, adjuncts, and predicates. Under the typological view, I propose that set-theoretic operations produce two ordered pairs from the ingredients of n-words, which can straightforwardly explain their puzzling distribution.",
+     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "y.midisland.55@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
+  },
+  {
+    "slug": "meyase-dissimilation-2020",
+    "title": "Dissimilation and phonological conspiracy in Tenyidie tone",
+    "authors": [
+      "Savio M. Meyase"
+    ],
+    "affiliation": ["University of Leipzig"
+       ],
+    "console_venue": "Universitat Pompeu Fabra",
+    "year": 2020,
+    "pages": "186-202",
+    "edition": "ConSOLE 28",
+    "keywords": [
+      "Tenyidie",
+      "Prefix-stem boundary",
+      "Obligatory Contour Principle"
+    ],
+    "abstract": "I propose an analysis for tonal alternations at the prefix–stem boundary in Tenyidie, where Mid tones in prefixes and stems dissimilate. I argue that this alternation is driven by the Obligatory Contour Principle (OCP). Sequences of Mid tones are seen elsewhere. I claim that this asymmetry can be solved with recourse to prosodic phonology (Nespor & Vogel 1986/2007), by assuming that stems and suffixes form a prosodic unit where Mid tones fuse to avoid OCP-Mid. But OCP-Mid also triggers dissimilation across the prefix–stem environment due to prosodic boundaries. This is an example of phonological conspiracy (Kisseberth 2011).",
+     "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf",
+    "corresponding_email": "savio.meyase@uni-leipzig.de",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+
+    ]
   }
 ]
