@@ -1,0 +1,107 @@
+Unique console_venues:
+Bielefeld University
+Humboldt-Universität zu Berlin
+Leiden University
+Paris
+Queen Mary University of London
+Universitat Pompeu Fabra
+University of Groningen
+University of Leipzig
+University of Nantes
+University of Nova Gorica
+
+Unique affiliations:
+
+Amsterdam Center for Language and Communication
+Autonomous University of Barcelona
+Bar-Ilan University, Israel
+Ben-Gurion University of the Negev
+Boğaziçi University
+CASTL, University of Tromsø
+Centre for Advanced Study in Theoretical Linguistics (CASTL), University of Tromsø
+Department of Linguistics, New York University
+Department of Psychology, University of Michigan
+Eötvös Loránd University, Budapest
+GIST/Ghent University
+Georg-August-Universität Göttingen
+Goethe University Frankfurt
+Goethe-Universität Frankfurt
+Groningen University
+Heinrich Heine University Düsseldorf
+Humboldt-Universität zu Berlin
+Indian Institute of Technology Delhi
+Indian Institute of Technology Guwahati
+Institute of Serbian language of Serbian Academy of Sciences and Arts
+J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen
+Jadavpur University, Kolkata
+Julius-Maximilians-Universität Würzburg
+Kyushu University
+La Sapienza University
+Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)
+Laboratoire de Linguistique Formelle (LLF), Université Paris 7
+Language & Brain Laboratory, University of Oxford
+Leibniz-Institut für Deutsche Sprache Mannheim
+Leiden University Centre for Linguistics
+Leipzig University
+Lomonosov Moscow State University
+MIT
+Massachusetts Institute of Technology
+McGill University
+Meertens Instituut
+Meertens Instituut, Amsterdam
+Nantes University
+National Chi Nan University
+Queen Mary University of London
+Rheinische Friedrich-Wilhelms-Universität Bonn
+Roma Tre University
+Rutgers University, New Brunswick
+Sophia University
+Tel-Aviv University
+Tel-Aviv University, Israel
+The English and Foreign Languages University, Hyderabad
+The Hebrew University of Jerusalem
+The University of Edinburgh
+The University of Tokyo
+UYangon University of Foreign Languages
+Universitat Autònoma de Barcelona
+Universitat Autònoma de Barcelona (Centre de Lingüística Teòrica), Catalonia
+Universitat Pompeu Fabra
+Universitat de Barcelona & Universitat Autònoma de Barcelona
+Universitat de Girona
+Universiteit van Amsterdam
+University of Amsterdam
+University of British Columbia
+University of Bucharest
+University of California, Los Angeles
+University of Cambridge
+University of Cologne
+University of Connecticut
+University of Essex
+University of Geneva
+University of Graz
+University of Groningen
+University of Göttingen
+University of Leipzig
+University of Nantes
+University of Nova Gorica
+University of Oslo
+University of Oxford
+University of Pennsylvania
+University of Potsdam
+University of Stuttgart
+University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)
+University of Tokyo
+University of Toronto
+University of Udine
+University of Utah
+University of Vienna
+University of Wisconsin-Milwaukee
+Università degli Studi di Firenze
+Universität Leipzig
+Universität Potsdam
+Université de Namur, Namur Institute of Language, Text and Transmediality
+Utrecht Institute of Linguistics OTS
+Utrecht University
+Vinogradov Russian Language Institute, Russian Academy of Sciences
+ZAS Berlin
+Zhejiang University

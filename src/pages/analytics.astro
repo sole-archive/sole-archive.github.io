@@ -70,40 +70,128 @@ const displayAffiliations = topAffiliations.slice(0, 5);
 const displayAffNames = displayAffiliations.map(([name]) => name);
 const displayAffCounts = displayAffiliations.map(([, count]) => count);
 
-// Known coordinates for venues and common affiliations (extend as needed)
+// ==========================
+// NORMALIZATION MAPPINGS
+// ==========================
+
+// Console venue normalization
+const venueNormalization: Record<string, string> = {
+  'Université Leipzig': 'Leipzig University',
+  'Universität Leipzig': 'Leipzig University',
+  'University of Leipzig': 'Leipzig University',
+  'Paris': 'Université Paris',
+};
+
+// Affiliation normalization
+const affiliationNormalization: Record<string, string> = {
+  // Frankfurt
+  'Goethe-Universität Frankfurt': 'Goethe University Frankfurt',
+  'J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen': 'Goethe University Frankfurt',
+
+  // Göttingen
+  'Georg-August-Universität Göttingen': 'University of Göttingen',
+
+  // Leipzig
+  'Universität Leipzig': 'Leipzig University',
+  'Leipzig University': 'Leipzig University',
+
+  // Potsdam
+  'Universität Potsdam': 'University of Potsdam',
+
+  // MIT
+  'Massachusetts Institute of Technology': 'MIT',
+
+  // Paris
+  'Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)': 'Université Paris 7',
+  'Laboratoire de Linguistique Formelle (LLF), Université Paris 7': 'Université Paris 7',
+
+  // Amsterdam
+  'Universiteit van Amsterdam': 'University of Amsterdam',
+
+  // Oxford
+  'Language & Brain Laboratory, University of Oxford': 'University of Oxford',
+
+  // Barcelona
+  'Universitat Autònoma de Barcelona (Centre de Lingüística Teòrica), Catalonia': 'Universitat Autònoma de Barcelona',
+  'Universitat de Barcelona & Universitat Autònoma de Barcelona': 'Universitat Autònoma de Barcelona',
+
+  // Stuttgart
+  'University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)': 'University of Stuttgart',
+};
+
+// ==========================
+// COORDINATES (CANONICAL ONLY)
+// ==========================
+
 const knownVenueCoords: Record<string, [number, number]> = {
   'Bielefeld University': [52.0302, 8.5325],
   'Queen Mary University of London': [51.5226, -0.0406],
   'University of Nantes': [47.245, -1.555],
   'Leiden University': [52.1601, 4.497],
+  'Humboldt-Universität zu Berlin': [52.5186, 13.3933],
+  'Université Paris': [48.8566, 2.3522],
+  'Universitat Pompeu Fabra': [41.3855, 2.1944],
+  'University of Groningen': [53.2194, 6.5665],
+  'Leipzig University': [51.338, 12.378],
+  'University of Nova Gorica': [45.956, 13.648],
 };
 
 const knownAffiliationCoords: Record<string, [number, number]> = {
+  'Goethe University Frankfurt': [50.126, 8.669],
+  'University of Göttingen': [51.5413, 9.915],
+  'Leipzig University': [51.338, 12.378],
+  'University of Potsdam': [52.400, 13.06],
+  'MIT': [42.3601, -71.0942],
+  'Université Paris 7': [48.829, 2.375],
+  'University of Amsterdam': [52.3667, 4.8945],
+  'University of Oxford': [51.7548, -1.2544],
+  'Universitat Autònoma de Barcelona': [41.500, 2.107],
+  'University of Stuttgart': [48.747, 9.103],
   'University of Vienna': [48.213, 16.3607],
   'University of Oslo': [59.939, 10.721],
   'Université de Namur': [50.4669, 4.866],
   'The English and Foreign Languages University, Hyderabad': [17.4139, 78.4983],
   'University of Cologne': [50.9271, 6.928],
-  'Goethe University Frankfurt': [50.126, 8.669],
-  'University of Göttingen': [51.5413, 9.915],
-  'Universiteit van Amsterdam': [52.3667, 4.8945],
-  'Zhejiang University': [30.264, 120.123],
-  'Kyushu University': [33.596, 130.218],
-  'Indian Institute of Technology Guwahati': [26.1914, 91.6918],
-  'Leipzig University': [51.338, 12.378],
-  'University of Tokyo': [35.7126, 139.761],
+  'Eötvös Loránd University, Budapest': [47.487, 19.058],
   'University of Cambridge': [52.205, 0.1218],
-  'Georg-August-Universität Göttingen': [51.5413, 9.915],
-  'Nantes University': [47.245, -1.555],
-  'Université Leipzig': [51.338, 12.378],
-  'Queen Mary University of London': [51.5226, -0.0406],
-  'University of Potsdam': [52.400, 13.06],
-  'HSE University': [55.7558, 37.6176],
-  'Leiden University': [52.1601, 4.497],
   'McGill University': [45.5048, -73.5772],
   'University of Pennsylvania': [39.9522, -75.1932],
   'University of Toronto': [43.6629, -79.3957],
+  'Rutgers University, New Brunswick': [40.5007, -74.4474],
+  'University of Essex': [51.8786, 0.947],
+  'The University of Edinburgh': [55.944, -3.189],
+  'University of Geneva': [46.1996, 6.1432],
+  'University of Graz': [47.077, 15.450],
+  'University of Udine': [46.063, 13.234],
+  'University of Utah': [40.7649, -111.8421],
+  'University of Wisconsin-Milwaukee': [43.078, -87.881],
+  'Università degli Studi di Firenze': [43.776, 11.256],
+  'Roma Tre University': [41.857, 12.467],
+  'Universitat de Girona': [41.963, 2.828],
+  'Bar-Ilan University, Israel': [32.067, 34.843],
+  'Ben-Gurion University of the Negev': [31.262, 34.801],
+  'Tel-Aviv University': [32.113, 34.804],
+  'The Hebrew University of Jerusalem': [31.777, 35.234],
+  'Sophia University': [35.694, 139.730],
+  'Lomonosov Moscow State University': [55.703, 37.530],
+  'Vinogradov Russian Language Institute, Russian Academy of Sciences': [55.765, 37.606],
+  'ZAS Berlin': [52.512, 13.393],
+  'Heinrich Heine University Düsseldorf': [51.187, 6.793],
+  'University of British Columbia': [49.2606, -123.246],
+  'University of California, Los Angeles': [34.0689, -118.445],
+  'University of Michigan': [42.278, -83.738],
+  'University of Bucharest': [44.435, 26.101],
+  'Julius-Maximilians-Universität Würzburg': [49.783, 9.969],
+  'CASTL, University of Tromsø': [69.682, 18.956],
+  'Centre for Advanced Study in Theoretical Linguistics (CASTL), University of Tromsø': [69.682, 18.956],
+  'UYangon University of Foreign Languages': [16.840, 96.173],
+  'National Chi Nan University': [23.951, 120.933],
+  'Zhejiang University': [30.264, 120.123],
+  'Kyushu University': [33.596, 130.218],
+  'Indian Institute of Technology Guwahati': [26.1914, 91.6918],
+  'Indian Institute of Technology Delhi': [28.545, 77.1926],
 };
+
 
 // Build GeoJSON features for MapLibre
 type PointFeature = {
