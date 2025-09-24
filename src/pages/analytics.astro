@@ -49,7 +49,7 @@ const venueCountValues = venueNames.map((v) => venueCounts[v]);
 // Sorted list for display (does not affect map features)
 const venueDisplay = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]);
 
-// Affiliation counts (top 50 by frequency)
+// Count all affiliations
 const affiliationCounts = {} as Record<string, number>;
 for (const p of papers) {
   const affs = Array.isArray(p.affiliation)
@@ -60,13 +60,17 @@ for (const p of papers) {
     affiliationCounts[aff] = (affiliationCounts[aff] || 0) + 1;
   }
 }
-const topAffiliations = Object.entries(affiliationCounts)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 50);
-const affNames = topAffiliations.map(([name]) => name);
-const affCounts = topAffiliations.map(([, count]) => count);
-// Limit text display to top 5 while keeping map data intact
-const displayAffiliations = topAffiliations.slice(0, 5);
+
+// Sort all affiliations by frequency (no slice yet)
+const sortedAffiliations = Object.entries(affiliationCounts)
+  .sort((a, b) => b[1] - a[1]);
+
+// ✅ Map data: all affiliations
+const affNames = sortedAffiliations.map(([name]) => name);
+const affCounts = sortedAffiliations.map(([, count]) => count);
+
+// ✅ Sidebar data: only top 5
+const displayAffiliations = sortedAffiliations.slice(0, 5);
 const displayAffNames = displayAffiliations.map(([name]) => name);
 const displayAffCounts = displayAffiliations.map(([, count]) => count);
 
@@ -97,6 +101,11 @@ const affiliationNormalization: Record<string, string> = {
 
   // Potsdam
   'Universität Potsdam': 'University of Potsdam',
+
+
+  // Rome universities
+  'La Sapienza University': 'Sapienza University of Rome',
+  'Sapienza Università di Roma': 'Sapienza University of Rome',
 
   // MIT
   'Massachusetts Institute of Technology': 'MIT',
@@ -154,6 +163,7 @@ const knownAffiliationCoords: Record<string, [number, number]> = {
   'University of Cologne': [50.9271, 6.928],
   'Eötvös Loránd University, Budapest': [47.487, 19.058],
   'University of Cambridge': [52.205, 0.1218],
+  'Sapienza University of Rome': [41.903, 12.513],
   'McGill University': [45.5048, -73.5772],
   'University of Pennsylvania': [39.9522, -75.1932],
   'University of Toronto': [43.6629, -79.3957],
