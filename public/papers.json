@@ -27,12 +27,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "Mahanta-VowelHarmony-2008",
       "Ferme-palatal-2009",
       "koelewijn-loanword-2021",
       "barman-learnability-2023",
       "Szeredi-Hungarian-2012",
-      "Laks-Valence-2009",
-      "mcknight-minimalsearch-2024"
+      "Laks-Valence-2009"
     ]
   },
   {
@@ -62,10 +62,10 @@
     "related_slugs": [
       "Boef-doubling-2012",
       "Schippers-whphrases-2012",
+      "LeBruyn-Partitives-2008",
       "Ferme-palatal-2009",
-      "Boef-relativization-2012",
-      "Boxell-whdependencies-2012",
-      "Bašić-prepositions-2009"
+      "Mahanta-VowelHarmony-2008",
+      "Boef-relativization-2012"
     ]
   },
   {
@@ -134,12 +134,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "Sinopoulou-Multiple-2008",
       "noguchi-cleft-2020",
+      "Truswell-whmovement-2008",
+      "Šimík-whphrases-2008",
       "Ratiu-Questions-2012",
-      "rugna-wh-2023",
-      "fiorini-camuno-2021",
-      "Knyazev-čtoclauses-2013",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "rugna-wh-2023"
     ]
   },
   {
@@ -239,11 +239,11 @@
     ],
     "related_slugs": [
       "bosch-negationcatalanspanish-2024",
+      "Beritognolo-Hiatus-2008",
       "varona-gender-2023",
       "presotto-objectrelatives-2024",
       "Boef-doubling-2012",
-      "mauffray-heritagel2-2021",
-      "Baturay-loanwords-2013"
+      "mauffray-heritagel2-2021"
     ]
   },
   {
@@ -421,7 +421,7 @@
       "Bašić-prepositions-2009",
       "tveitan-exclusive-2023",
       "Antomo-embeddedroot-2012",
-      "Assmann-possessoradvancement-2012"
+      "Vaxman-Onsets-2008"
     ]
   },
   {
@@ -490,9 +490,9 @@
       "gan-scope-hk-sign-language-2022",
       "fujii-verbless-2023",
       "Sutter-umlaut-2013",
+      "Dobler-Causatives-2008",
       "Ott-topicalization-2012",
-      "voigt-der-dieser-german-2022",
-      "lutzervoigt-resolution-2023"
+      "voigt-der-dieser-german-2022"
     ]
   },
   {
@@ -523,11 +523,11 @@
     ],
     "related_slugs": [
       "hafsi-indefinites-2023",
+      "Schaden-AspectualRelations-2008",
       "Baturay-loanwords-2013",
       "Birger-Unaccusatives-2009",
       "kwapiszewski-aspect-2020",
-      "Arylova-AnchorP-2012",
-      "Fălăuş-polarity-2009"
+      "Arylova-AnchorP-2012"
     ]
   },
   {
@@ -559,10 +559,10 @@
     "related_slugs": [
       "Boef-doubling-2012",
       "KosterMoeller-Restrictive-2012",
+      "Šimík-whphrases-2008",
       "presotto-objectrelatives-2024",
       "tveitan-exclusive-2023",
-      "Hayashi-teclauses-2013",
-      "Smith-collectivenouns-2013"
+      "Hayashi-teclauses-2013"
     ]
   },
   {
@@ -594,12 +594,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "Schaden-AspectualRelations-2008",
       "morley-chamorro-2024",
       "gan-scope-hk-sign-language-2022",
       "Sugimura-Incorporation-2009",
       "kumari-honorificity-nominal-2022",
-      "Wierzba-contrastivetopics-2013",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "Wierzba-contrastivetopics-2013"
     ]
   },
   {
@@ -670,10 +670,10 @@
     "related_slugs": [
       "mondalmukherjee-syllablestructures-2024",
       "biswasmukherjee-lexicaldecisiontask-2024",
+      "Sóskuthy-Voicing-2008",
       "Baturay-loanwords-2013",
       "Wierzba-contrastivetopics-2013",
-      "dey-copula-2023",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "dey-copula-2023"
     ]
   },
   {
@@ -748,7 +748,7 @@
       "ruhrmannetal-nja-2021",
       "Wierzba-contrastivetopics-2013",
       "Deichsel-dieser-2012",
-      "voigt-der-dieser-german-2022"
+      "Dobler-Causatives-2008"
     ]
   },
   {
@@ -1391,8 +1391,8 @@
       "mondalmukherjee-syllablestructures-2024",
       "biswasmukherjee-lexicaldecisiontask-2024",
       "kovac-basque-2021",
-      "Knyazev-čtoclauses-2013",
-      "kwapiszewski-aspect-2020"
+      "Schaden-AspectualRelations-2008",
+      "Knyazev-čtoclauses-2013"
     ]
   },
   {
@@ -1426,10 +1426,10 @@
     "related_slugs": [
       "fiorini-camuno-2021",
       "Chernova-echoquestions-2013",
+      "Sinopoulou-Multiple-2008",
+      "Truswell-whmovement-2008",
       "kim-basque-2021",
-      "presotto-objectrelatives-2024",
-      "Schippers-whphrases-2012",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "presotto-objectrelatives-2024"
     ]
   },
   {
@@ -1541,7 +1541,7 @@
       "varona-gender-2023",
       "presotto-objectrelatives-2024",
       "pena-catalansignlanguage-2019",
-      "mauffray-heritagel2-2021"
+      "Weiser-Events-2008"
     ]
   },
   {
@@ -1575,10 +1575,10 @@
     "related_slugs": [
       "noguchi-cleft-2020",
       "Ratiu-Questions-2012",
+      "Ha-Ellipsis-2008",
       "jin-classifiers-2023",
       "milosavljevic-ga-serbian-2022",
-      "Wierzba-contrastivetopics-2013",
-      "wiesner-samoan-2023"
+      "Wierzba-contrastivetopics-2013"
     ]
   },
   {
@@ -1652,7 +1652,7 @@
       "Sugimura-Root-2012",
       "shikunova-mermaid-construction-2022",
       "Xiqués-presentperfect-2013",
-      "pohl-twitterdiscourse-2023"
+      "Schaden-AspectualRelations-2008"
     ]
   },
   {
@@ -1721,12 +1721,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "Šimík-whphrases-2008",
       "KosterMoeller-Restrictive-2012",
       "Boef-doubling-2012",
       "Zimmermann-grammarcompetition-2013",
       "Boef-relativization-2012",
-      "Hayashi-teclauses-2013",
-      "noguchi-cleft-2020"
+      "Hayashi-teclauses-2013"
     ]
   },
   {
@@ -1832,12 +1832,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "Truswell-whmovement-2008",
       "andermann-potawatomi-2024",
       "Assmann-parasiticgaps-2012",
       "Hayashi-teclauses-2013",
       "dulecavelier-mirrorprinciple-2021",
-      "Boef-doubling-2012",
-      "Deichsel-dieser-2012"
+      "Boef-doubling-2012"
     ]
   },
   {
@@ -1870,11 +1870,11 @@
     ],
     "related_slugs": [
       "szarvas-coreference-2024",
+      "Truswell-whmovement-2008",
       "Assmann-parasiticgaps-2012",
+      "Johnson-Copy-2008",
       "Georgi-casesplits-2012",
-      "Chernova-echoquestions-2013",
-      "Martín-Dative-2012",
-      "noguchi-kotoga-2021"
+      "Chernova-echoquestions-2013"
     ]
   },
   {
@@ -2024,8 +2024,8 @@
       "biswasmukherjee-lexicaldecisiontask-2024",
       "banerjee-wh-exclamatives-bangla-2022",
       "dey-copula-2023",
-      "Bašić-prepositions-2009",
-      "Keine-Impoverishment-2012"
+      "Rothmayr-Stative-2008",
+      "Bašić-prepositions-2009"
     ]
   },
   {
@@ -2095,7 +2095,7 @@
       "moore-westslavic-2024",
       "kim-basque-2021",
       "Xiqués-presentperfect-2013",
-      "salimifar-presupposition-2023"
+      "Schaden-AspectualRelations-2008"
     ]
   },
   {
@@ -2127,12 +2127,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "Mahanta-VowelHarmony-2008",
       "Georgi-casesplits-2012",
       "Keine-Impoverishment-2012",
       "List-multiplesequence-2012",
       "meisenbichler-temporal-2023",
-      "Pineda-ditransitive-2013",
-      "Ferme-palatal-2009"
+      "Schaden-AspectualRelations-2008"
     ]
   },
   {
@@ -2563,12 +2563,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "Kim-Ditransitive-2008",
       "noguchi-cleft-2020",
       "rugna-wh-2023",
       "moritake-dps-2023",
       "eisenheld-zeronominals-2021",
-      "fujii-verbless-2023",
-      "fiorini-camuno-2021"
+      "fujii-verbless-2023"
     ]
   },
   {
@@ -2750,8 +2750,8 @@
       "kerr-gorwaa-2020",
       "barman-learnability-2023",
       "Szeredi-Hungarian-2012",
-      "holtz-tddeletion-2021",
-      "Georgi-casesplits-2012"
+      "Mahanta-VowelHarmony-2008",
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -2784,10 +2784,10 @@
     "related_slugs": [
       "rugna-wh-2023",
       "Chernova-echoquestions-2013",
+      "Sinopoulou-Multiple-2008",
       "noguchi-cleft-2020",
       "banerjee-wh-exclamatives-bangla-2022",
-      "kim-basque-2021",
-      "Schippers-whphrases-2012"
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -3181,12 +3181,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "Šimík-whphrases-2008",
       "eisenheld-zeronominals-2021",
       "milosavljevic-ga-serbian-2022",
       "Ott-topicalization-2012",
       "li-functional-ge-2023",
-      "ottur-malayalam-2024",
-      "Wierzba-contrastivetopics-2013"
+      "ottur-malayalam-2024"
     ]
   },
   {
@@ -3218,11 +3218,11 @@
     ],
     "related_slugs": [
       "Chernova-echoquestions-2013",
+      "Šimík-whphrases-2008",
+      "Sinopoulou-Multiple-2008",
       "noguchi-kotoga-2021",
       "kawamitsu-verbal-2023",
-      "Sugimura-Root-2012",
-      "guo-ellipsis-2024",
-      "Hayashi-teclauses-2013"
+      "Sugimura-Root-2012"
     ]
   },
   {
@@ -3396,11 +3396,11 @@
     ],
     "related_slugs": [
       "dulecavelier-mirrorprinciple-2021",
+      "Liu-ContourTones-2008",
       "milosavljevic-ga-serbian-2022",
       "Savu-rhotictap-2013",
       "Sugimura-Incorporation-2009",
-      "Patin-Tone-2009",
-      "szarvas-coreference-2024"
+      "Patin-Tone-2009"
     ]
   },
   {
@@ -3615,10 +3615,10 @@
     "related_slugs": [
       "Ratiu-Questions-2012",
       "Wierzba-contrastivetopics-2013",
+      "Sóskuthy-Voicing-2008",
       "szarvas-coreference-2024",
       "KosterMoeller-Restrictive-2012",
-      "Sugimura-Root-2012",
-      "kerr-gorwaa-2020"
+      "Truswell-whmovement-2008"
     ]
   },
   {
@@ -3725,7 +3725,7 @@
       "Boef-pronoundoubling-2013",
       "presotto-objectrelatives-2024",
       "Zimmermann-grammarcompetition-2013",
-      "Hayashi-teclauses-2013"
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -3759,8 +3759,8 @@
       "eisenheld-zeronominals-2021",
       "Boef-doubling-2012",
       "Boef-pronoundoubling-2013",
-      "kim-basque-2021",
-      "sakumoto-mandarin-chinese-islands-2022"
+      "Truswell-whmovement-2008",
+      "kim-basque-2021"
     ]
   },
   {
@@ -3934,12 +3934,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "Sinopoulou-Multiple-2008",
       "Ratiu-Questions-2012",
       "Chernova-echoquestions-2013",
       "tsilia-simultaneous-reading-2022",
       "mattiuzzi-inflection-2023",
-      "berg-attitudes-2023",
-      "Assmann-parasiticgaps-2012"
+      "berg-attitudes-2023"
     ]
   },
   {
@@ -4041,9 +4041,9 @@
       "Faust-Vowels-2012",
       "Fadlon-hidden-2012",
       "Laks-Valence-2009",
+      "Sinopoulou-Multiple-2008",
       "Boef-doubling-2012",
-      "Boef-pronoundoubling-2013",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "Boef-pronoundoubling-2013"
     ]
   },
   {
@@ -4286,9 +4286,9 @@
       "nakajima-lexicalambiguity-2020",
       "Faust-Vowels-2012",
       "Spector-Hebrewclefts-2012",
+      "Dobler-Causatives-2008",
       "joveneau-eastbelgian-2023",
-      "biswasmukherjee-lexicaldecisiontask-2024",
-      "Puigdollers-Cognate-2009"
+      "biswasmukherjee-lexicaldecisiontask-2024"
     ]
   },
   {
@@ -4393,9 +4393,9 @@
       "Georgi-casesplits-2012",
       "Laks-Valence-2009",
       "tsilia-simultaneous-reading-2022",
+      "Truswell-whmovement-2008",
       "Asada-secondarypredication-2012",
-      "Boxell-whdependencies-2012",
-      "Smith-collectivenouns-2013"
+      "Boxell-whdependencies-2012"
     ]
   },
   {
@@ -4462,10 +4462,10 @@
     "related_slugs": [
       "Boef-doubling-2012",
       "presotto-objectrelatives-2024",
+      "Šimík-whphrases-2008",
       "Zimmermann-grammarcompetition-2013",
       "Boef-relativization-2012",
-      "Hayashi-teclauses-2013",
-      "Pauly-umclauses-2013"
+      "Hayashi-teclauses-2013"
     ]
   },
   {
@@ -4498,10 +4498,10 @@
     "related_slugs": [
       "Wierzba-contrastivetopics-2013",
       "gan-scope-hk-sign-language-2022",
+      "Truswell-whmovement-2008",
       "Pineda-ditransitive-2013",
       "alatassi-objectclitics-2024",
-      "Sugimura-Incorporation-2009",
-      "Faust-Vowels-2012"
+      "Sugimura-Incorporation-2009"
     ]
   },
   {
@@ -4530,11 +4530,11 @@
     ],
     "related_slugs": [
       "Chernova-echoquestions-2013",
+      "Sinopoulou-Multiple-2008",
       "noguchi-cleft-2020",
       "guo-ellipsis-2024",
       "Assmann-parasiticgaps-2012",
-      "List-multiplesequence-2012",
-      "Fălăuş-polarity-2009"
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -4565,9 +4565,9 @@
       "Bašić-prepositions-2009",
       "Boxell-whdependencies-2012",
       "Boef-pronoundoubling-2013",
+      "Šimík-whphrases-2008",
       "Chernova-echoquestions-2013",
-      "noguchi-cleft-2020",
-      "rugna-wh-2023"
+      "Truswell-whmovement-2008"
     ]
   },
   {
@@ -4635,11 +4635,11 @@
     ],
     "related_slugs": [
       "Baturay-loanwords-2013",
+      "Mahanta-VowelHarmony-2008",
       "sarvas-suffixes-hungarian-2022",
       "koelewijn-loanword-2021",
       "Antomo-embeddedroot-2012",
-      "ruhrmannetal-nja-2021",
-      "Boxell-whdependencies-2012"
+      "ruhrmannetal-nja-2021"
     ]
   },
   {
@@ -4741,12 +4741,12 @@
       "Bert Le Bruyn"
     ],
     "related_slugs": [
+      "Dobler-Causatives-2008",
       "mauffray-heritagel2-2021",
+      "Rothmayr-Stative-2008",
       "Assmann-parasiticgaps-2012",
       "Sugimura-Root-2012",
-      "Pauly-umclauses-2013",
-      "Hayashi-teclauses-2013",
-      "Fălăuş-polarity-2009"
+      "Pauly-umclauses-2013"
     ]
   },
   {
@@ -4817,8 +4817,8 @@
       "Baturay-loanwords-2013",
       "jin-classifiers-2023",
       "Boef-pronoundoubling-2013",
-      "zhao-homogeneity-2024",
-      "barman-learnability-2023"
+      "Liu-ContourTones-2008",
+      "Mahanta-VowelHarmony-2008"
     ]
   },
   {
@@ -4997,7 +4997,7 @@
       "noguchi-kotoga-2021",
       "biswasmukherjee-lexicaldecisiontask-2024",
       "nakajima-lexicalambiguity-2020",
-      "Campanini-causatives-2013"
+      "Vaxman-Onsets-2008"
     ]
   },
   {
@@ -5068,6 +5068,645 @@
       "kawamitsu-verbal-2023",
       "gan-scope-hk-sign-language-2022",
       "Wierzba-contrastivetopics-2013"
+    ]
+  },
+  {
+    "slug": "Beritognolo-Hiatus-2008",
+    "title": "Hiatus in Argentinian Spanish",
+    "authors": [
+      "Gustavo Beritognolo"
+    ],
+    "affiliation": [
+      "McGill University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "1-23",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Hiatus",
+      "Argentinian Spanish",
+      "Unstressed High Vowel",
+      "Syllabification"
+    ],
+    "abstract": "In this paper, I deal with the syllabification of an unstressed high vowel (H) followed by a vowel (V) in a CHV context. Unstressed H is expected to surface as a glide. However, in some cases it is a full vowel: word-initially and with stress on V or one syllable at the right of the word-initial sequence; at the boundary between two stems in compounds when stress is on V. I propose that hiatus in these environments is a means of providing a perceptual cue for edges and boundaries of words.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "gberitognolo@yahoo.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Baturay-loanwords-2013",
+      "MartínezParicio-identityeffects-2013",
+      "varona-gender-2023",
+      "Mahanta-VowelHarmony-2008",
+      "presotto-objectrelatives-2024",
+      "bosch-negationcatalanspanish-2024"
+    ]
+  },
+  {
+    "slug": "deCuba-Intensionality-2008",
+    "title": "Intensionality and extraction as reflexes of syntactic structure",
+    "authors": [
+      "Carlos de Cuba",
+      "Tomoko Kawamura"
+    ],
+    "affiliation": [
+      "Stony Brook University",
+      "Stony Brook University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "25-40",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Intensionality",
+      "Extraction",
+      "Sententialist View"
+    ],
+    "abstract": "In the sententialist view of intensionality, intensionality arises only in bi-clausal contexts. However, not all bi-clausal contexts give rise to intensionality, and the level of intensionality can vary. Non-factives display full intensional properties, factives are only partially intensional, and temporal adverbial constructions have no intensional properties. We argue that these three levels of intensionality are associated with different syntactic structures. Extraction data provide support for this three way syntactic division. We argue that three levels of intensionality are present at the DP level as well.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "lin200cdc@hotmail.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
+      "Truswell-whmovement-2008",
+      "gan-scope-hk-sign-language-2022",
+      "Assmann-parasiticgaps-2012",
+      "Faust-Vowels-2012",
+      "Boef-doubling-2012"
+    ]
+  },
+  {
+    "slug": "Dobler-Causatives-2008",
+    "title": "Again and the structure of result states",
+    "authors": [
+      "Eva Dobler"
+    ],
+    "affiliation": [
+      "McGill University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "41-66",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Lexical Causatives",
+      "Again",
+      "German",
+      "Wieder"
+    ],
+    "abstract": "Recent analyses (Beck & Johnson 2004; von Stechow 2007) for lexical causatives propose that the direct object is the argument of the verb rather than the result-state denoting predicate as previously assumed (Hoekstra 1988; von Stechow 1996). I focus on the interaction between wieder ‘again' and existential operators in object position, and demonstrate that both theories can only account for part of the data. There is a crucial difference between causatives referring to a change of state and causatives that constitute a change of location. That is, only the latter allow an existential operator to be interpreted inside the presupposition of restitutive again.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "eva.dobler@mail.mcgill.ca",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
+      "Campanini-causatives-2013",
+      "Dobler-Causative-2009",
+      "Fadlon-hidden-2012",
+      "Sutter-umlaut-2013",
+      "holtz-tddeletion-2021"
+    ]
+  },
+  {
+    "slug": "Ha-Ellipsis-2008",
+    "title": "On ellipsis features and Right Node Raising",
+    "authors": [
+      "Seungwan Ha"
+    ],
+    "affiliation": [
+      "Boston University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "67-90",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Right Node Raising",
+      "Ellipsis Phenomenon"
+    ],
+    "abstract": "In this paper, I propose that Right Node Raising (RNR) is an ellipsis phenomenon and licensed by a variant of the E(llipsis) feature (i.e. ERNR). The ERNR feature imposes syntactic, semantic and phonological requirements that must be fulfilled for RNR to be licensed. Following Merchant (2001), I will argue that i) the ERNR feature enters the derivation with a focused lexical element and checked by the focus feature of C in syntax, ii) the feature instructs PF to unpronounce the RNR target, and iii) as the semantic requirement, e-GIVENness must be satisfied.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "seungwan@bu.edu",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "guo-ellipsis-2024",
+      "noguchi-kotoga-2021",
+      "noguchi-cleft-2020",
+      "Assmann-parasiticgaps-2012",
+      "AcedoMatellán-Resultatives-2012",
+      "Baturay-loanwords-2013"
+    ]
+  },
+  {
+    "slug": "Johnson-Copy-2008",
+    "title": "Copies",
+    "authors": [
+      "Kyle Johnson"
+    ],
+    "affiliation": [
+      "University of Massachusetts at Amherst"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "91-110",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Copy Theory",
+      "Movement",
+      "Linearization Algorithm"
+    ],
+    "abstract": "After offering a slight modification of the version of the copy theory of movement in Fox (2002), I investigate how that theory would deal with semantically vacuous movement. It can't. I conclude that semantically vacuous movement cannot involve the same operation that produces copies. Instead, I propose that it is a perversion of the linearization algorithm that translates syntactic representations into strings, and I formulate that perversion.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "kbj@linguist.umass.edu",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "andermann-potawatomi-2024",
+      "Truswell-whmovement-2008",
+      "nakajima-lexicalambiguity-2020",
+      "dulecavelier-mirrorprinciple-2021",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "szarvas-coreference-2024"
+    ]
+  },
+  {
+    "slug": "Kim-Ditransitive-2008",
+    "title": "On the ditransitive construction in Korean",
+    "authors": [
+      "Lan Kim"
+    ],
+    "affiliation": [
+      "Simon Fraser University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "111-133",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Ditransitives",
+      "Korean",
+      "Scrambling"
+    ],
+    "abstract": "This paper investigates the Korean ditransitive construction consisting of the Goal (IO), a dative-case marked NP -ey(key), and the Theme (DO), an accusative-case marked NP −(l)ul. I propose that [IO-DO] is the underlying order and [DO-IO] is derived by scrambling. I argue that the underlying order is an instantiation of the prepositional locative structure in which the Goal c-commands the Theme. This is a counterexample to Harley's (2002) typological generalization in which the Theme c-commands the Goal in the prepositional locative structure. As a further support for my proposal, I show that Korean has another locative structure in the form of a double subject construction.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "lank@sfu.ca",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "kim-basque-2021",
+      "gan-scope-hk-sign-language-2022",
+      "Pineda-ditransitive-2013",
+      "moritake-dps-2023",
+      "wiesner-samoan-2023",
+      "shikunova-mermaid-construction-2022"
+    ]
+  },
+  {
+    "slug": "LeBruyn-Partitives-2008",
+    "title": "Full partitives, bare partitives and non-maximal definites",
+    "authors": [
+      "Bert Le Bruyn"
+    ],
+    "affiliation": [
+      ""
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "135-147",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Full Partitives",
+      "Bare Partitives",
+      "Dutch",
+      "Non-Maximal Definites"
+    ],
+    "abstract": "In this paper I investigate the restrictions on the use of bare partitives in Dutch. My main claim is that these restrictions originate in the competition of bare partitives with full partitives and non-maximal definites.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Boef-pronoundoubling-2013",
+      "Mahanta-VowelHarmony-2008",
+      "TănaseDogaru-Pseudopartitives-2008",
+      "Ferme-palatal-2009",
+      "Boef-doubling-2012",
+      "Boef-relativization-2012"
+    ]
+  },
+  {
+    "slug": "Liu-ContourTones-2008",
+    "title": "A fresh look at the paradoxal nature of Chinese contour tones",
+    "authors": [
+      "Te-hsin Liu"
+    ],
+    "affiliation": [
+      "Department of Linguistics, Paris 8 University"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "149-163",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Contour Tones",
+      "Chinese",
+      "Dialect",
+      "Sandhi Behavior"
+    ],
+    "abstract": "In the literature of tonology, it is generally assumed that contour tones are more marked than level tones, as they are more 'complicated', or more difficult to produce and perceive (Yip 2002, Zhang 2002). This hypothesis fails to explain why there are Chinese dialects with only contour tones, and why there is no tonal system having only level tones in Chinese dialects. On the basis of a universal tonal periodic skeleton HLHL postulated by Carvalho (2002), we propose a tonal representation capable of naturally accounting for the notion of tonal markedness, the interaction between contour and register, and diverse sandhi systems of Chinese dialects. By comparison with current models in which tonal markedness and licit contours are obtained by stipulation, the present framework yields a completely different picture of tonal markedness. It provides furthermore a unified explanation to the paradoxical nature of Chinese contour tones and offers a straightforward account of the concordant relationship between citation tones and sandhi behavior.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "liu.tehsin@gmail.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Ferme-palatal-2009",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Baturay-loanwords-2013",
+      "meyase-dissimilation-2020",
+      "jin-classifiers-2023",
+      "swe-burmese-2021"
+    ]
+  },
+  {
+    "slug": "Mahanta-VowelHarmony-2008",
+    "title": "Local vs. non-local consonantal intervention in vowel harmony",
+    "authors": [
+      "Shakuntala Mahanta"
+    ],
+    "affiliation": [
+      "Utecht Institute of Linguistics OTS"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "165-188",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Vowel Harmony",
+      "Non-Propagation",
+      "Consonantal Intervention"
+    ],
+    "abstract": "In this paper I address the issue of consonantal intervention in vowel harmony. A consonant may be eligible to block harmony at the segmental level, by virtue of being highly placed in the sonority scale and also as a result of sharing some feature with the triggering segment. However, all attested cases of harmony blocking by consonants in a non-local position (in Assamese, Lango, Yucatec Maya, etc.) are prosodically governed in the coda. In all these languages, the presence of closed syllables results in the non-propagation of harmony because coda consonants are assigned a mora.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "shakuntala.mahanta@let.uu.nl",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Baturay-loanwords-2013",
+      "Boef-pronoundoubling-2013",
+      "LeBruyn-Partitives-2008",
+      "Ferme-palatal-2009",
+      "Szeredi-Hungarian-2012",
+      "Beritognolo-Hiatus-2008"
+    ]
+  },
+  {
+    "slug": "Rothmayr-Stative-2008",
+    "title": "It takes two, baby! CAUSE and the prerequisites for eventivity",
+    "authors": [
+      "Antonia Rothmayr"
+    ],
+    "affiliation": [
+      "University of Vienna"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "189-205",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Stative Verbs",
+      "Eventive Reading",
+      "CAUSE"
+    ],
+    "abstract": "This paper discusses two major classes of stative verbs: those displaying a systematic stative/eventive ambiguity, and those allowing for a stative reading only. By examining the possible lexical-semantic structures for these verbs, the paper argues that it is the presence of CAUSE that enables the ambiguity. If CAUSE is absent, no other aspectual operators may be inserted, and no eventive reading can be created. This hints towards the idea that CAUSE is a prerequisite for the eventive reading, and that CAUSE is the only way natural language allows for two sub-events to be expressed within a single verb.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "antonia.rothmayr@univie.ac.at",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Dobler-Causative-2009",
+      "Ott-topicalization-2012",
+      "mondalmukherjee-syllablestructures-2024",
+      "Li-Adjectives-2009",
+      "Bašić-prepositions-2009",
+      "ottur-malayalam-2024"
+    ]
+  },
+  {
+    "slug": "Schaden-AspectualRelations-2008",
+    "title": "A Formal Definition of Temporal Default Relations",
+    "authors": [
+      "Gerhard Schaden"
+    ],
+    "affiliation": [
+      ""
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "207-221",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Aspect",
+      "Aspectual Relations",
+      "Temporal Relations",
+      "Scalar Relation"
+    ],
+    "abstract": "In this paper, I will redefine standard formulations of aspect, using partial ordering structures (i.e., lattices) on intervals. I will show that such a reformulation allows unexpected insights on the nature of aspectual relations, and temporal relations more in general. More specifically, it will be shown that the underspecification account of unmarked aspect can be motivated in this way, and that the old idea of the present tense as a default tense (cf. Jakobson 1932/1971) can be formalized in a precise way. Furthermore, perfective and imperfective aspect turn out to be in a scalar relation, where imperfective aspect is more informative than perfective aspect.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "meisenbichler-temporal-2023",
+      "gan-scope-hk-sign-language-2022",
+      "dey-copula-2023",
+      "Hayashi-teclauses-2013",
+      "Xiqués-presentperfect-2013",
+      "moritake-dps-2023"
+    ]
+  },
+  {
+    "slug": "Sinopoulou-Multiple-2008",
+    "title": "Multiple questions and apparent wh-in situ: evidence from Greek",
+    "authors": [
+      "Ourania Sinopoulou"
+    ],
+    "affiliation": [
+      "University of Athens"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "223-246",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Multiple Questions",
+      "Greek",
+      "Wh-constructions"
+    ],
+    "abstract": "The aim of this paper is to examine the syntactic position of wh-in situ in Greek multiple questions. It is argued that non-fronted wh-elements in matrix multiple questions do not reside in situ, but move to a higher structural position. On the basis of the similarities between focus and wh-constructions, it is proposed that in situ wh-elements move to a low focus position at the left periphery of vP (cf. Belletti 2004). Hence, multiple questions are treated on a par with clause-internal focus constructions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "ouransin@phil.uoa.gr",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Chernova-echoquestions-2013",
+      "Šimík-whphrases-2008",
+      "noguchi-cleft-2020",
+      "Ratiu-Questions-2012",
+      "rugna-wh-2023",
+      "fiorini-camuno-2021"
+    ]
+  },
+  {
+    "slug": "Sóskuthy-Voicing-2008",
+    "title": "Voicing and the Skeleton",
+    "authors": [
+      "Márton Sóskuthy"
+    ],
+    "affiliation": [
+      "Eötvös Loránd University (ELTE), Budapest"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "247-271",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Voicing",
+      "Voice Assimilation",
+      "Word-Final Devoicing",
+      "Intervocalic Voicing"
+    ],
+    "abstract": "The main goal of this paper is to show that the behaviour of voicing in obstruents can better be accounted for if we assume that voicing is represented by a specific skeletal configuration rather than by phonological features. It will be shown that previous analyses of voice phenomena run into serious problems, especially when it comes to the representation of voice assimilation and intervocalic voicing. The analysis outlined in the final section of this paper gives a representationally motivated account of voice phenomena in CVCV and manages to unite the effects of voice assimilation, word-final devoicing and intervocalic voicing. The representation proposed here also makes a number of predicitions, which may well prove to be correct: (i) languages with prevoicing in initial stops necessarily have regressive voice assimilation (ii) progressive assimilation and coda devoicing appear only in languages with a contrast based on different phonetic properties (e.g. aspiration).",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "mrhowardppa@yahoo.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Assmann-parasiticgaps-2012",
+      "russocardona-toughconstructions-2024",
+      "Baturay-loanwords-2013",
+      "mukherjee-orthographic-2023",
+      "Bašić-prepositions-2009",
+      "Assmann-possessoradvancement-2012"
+    ]
+  },
+  {
+    "slug": "Šimík-whphrases-2008",
+    "title": "The source of wh-morphology in questions and relative clauses",
+    "authors": [
+      "Radek Šimík"
+    ],
+    "affiliation": [
+      "University of Groningen"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "273-294",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Wh-Phrases",
+      "Questions",
+      "Relative Clauses",
+      "Morphology"
+    ],
+    "abstract": "This paper proposes a solution to three related phenomena: (i) an asymmetry in scopal behavior of wh-phrases in questions and relatives, (ii) a symmetry between resumption (in Czech, Hebrew, and Greek relatives) and wh-relatives (in English), and (iii) a symmetry between gaps (as opposed to resumptives) and that-relatives. I make an explicit proposal concerning the fine-structure of operator DPs and argue that wh-morphology in questions and relatives is indicative of DP-internal quantification.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "r.simik@rug.nl",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "presotto-objectrelatives-2024",
+      "Sinopoulou-Multiple-2008",
+      "KosterMoeller-Restrictive-2012",
+      "noguchi-cleft-2020",
+      "Chernova-echoquestions-2013",
+      "Zimmermann-grammarcompetition-2013"
+    ]
+  },
+  {
+    "slug": "TănaseDogaru-Pseudopartitives-2008",
+    "title": "Pseudo-partitives and (silent) classifiers in Romanian",
+    "authors": [
+      "Mihaela Tănase-Dogaru"
+    ],
+    "affiliation": [
+      "University of Bucharest"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "295-320",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Pseudo-Partitives",
+      "Classifiers",
+      "Romanian"
+    ],
+    "abstract": "This paper addresses the question of classifiers in languages with plural morphology. I will propose that pseudo-partitives of the quantitative type (see Selkirk 1977) consist of a classifier-noun sequence, where the classifier is a semi-lexical or functional noun. The second section of my paper posits a classifier phrase for all languages. The ClasP will be conceived of as emerging above NumP in all 'count' situations (see Kayne 2003). The head of the ClasP in languages with plural morphology may be filled with semi-lexical material (see van Riemsdijk 1998, 2003) - as in the case of pseudopartitive constructions or, building on Kayne's (2003) proposal, with an abstract noun NUMBER.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "mihaela.dogaru@gmail.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "LeBruyn-Partitives-2008",
+      "jin-classifiers-2023",
+      "Savu-rhotictap-2013",
+      "Ratiu-Questions-2012",
+      "Boef-pronoundoubling-2013",
+      "Fălăuş-polarity-2009"
+    ]
+  },
+  {
+    "slug": "Truswell-whmovement-2008",
+    "title": "A semantic constraint on wh-movement. Extended events and extraction from in 'order' clauses",
+    "authors": [
+      "Robert Truswell"
+    ],
+    "affiliation": [
+      "University College London"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "321-340",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Wh-movement",
+      "Locality Theories",
+      "Internal Structure of Events"
+    ],
+    "abstract": "The existence of well-formed cases of wh-movement out of adjuncts constitutes a challenge to current locality theories. However, the fact that such extractions are not universally well-formed leaves an empirical hole in any theory which simply removes the adjunct condition without putting anything in its place. I show that the patterns of legitimate extraction out of adjuncts can be described in terms of an independently motivated theory of the internal structure of events. This means that our syntactic theory of locality needs to be supplemented by independent semantic well-formedness conditions on wh-movement.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "r.truswell@ucl.ac.uk",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Chernova-echoquestions-2013",
+      "Šimík-whphrases-2008",
+      "noguchi-cleft-2020",
+      "KosterMoeller-Restrictive-2012",
+      "Schippers-whphrases-2012",
+      "rugna-wh-2023"
+    ]
+  },
+  {
+    "slug": "Vaxman-Onsets-2008",
+    "title": "Clusters and the onset",
+    "authors": [
+      "Alexandre L. Vaxman"
+    ],
+    "affiliation": [
+      "Université de Provence, Laboratoire Parole et Langage (LPL)"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "341-355",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Branching Onsets",
+      "Complex Segment Hypothesis",
+      "Russian",
+      "British English"
+    ],
+    "abstract": "It has been argued in the literature that branching onsets should be dispensed with by introducing complex segments. These were claimed to be obstruents with liquids as their secondary articulation, segments available as is in the phonemic inventory of a given language ('Complex Segment Hypothesis'). It is shown that this hypothesis is desirable for phonological theory. Some aspects of CSH are discussed on Russian material by adducing arguments from verbal morphology and from experimental phonetics. Finally, a phonetic study of a speech corpus (British English) renders support to the Complex Segment Hypothesis.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "alvaxman@yahoo.com",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Smith-collectivenouns-2013",
+      "Puigdollers-Cognate-2009",
+      "shikunova-smallclause-2023",
+      "Birger-Unaccusatives-2009",
+      "Boxell-whdependencies-2012",
+      "tveitan-exclusive-2023"
+    ]
+  },
+  {
+    "slug": "Weiser-Events-2008",
+    "title": "The Negation of Action Sentences. Are there Negative Events?",
+    "authors": [
+      "Stéphanie Weiser"
+    ],
+    "affiliation": [
+      "University Paris X Nanterre, Laboratoire MoDyCo"
+    ],
+    "console_venue": "Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels",
+    "year": 2008,
+    "pages": "357-364",
+    "edition": "ConSOLE 15",
+    "keywords": [
+      "Events",
+      "Action Sentences",
+      "Negation"
+    ],
+    "abstract": "Events have three properties: they have causes and effects, they need a time and space zone and they can happen. In his work, Davidson (1967, 1969) argues that events are necessary to provide a logical form for action sentences. We can then ask what happens when action sentences are negated: do they still refer to events? Native speakers often have the feeling that, when an action sentence is negated, it means that it refers to something that did not happened. Is it possible that an action sentence could describe something that is not happening? Or is it possible that a negative sentence could represent an action sentence and could therefore refer to an event?",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xv.pdf",
+    "corresponding_email": "sweiser@u-paris10.fr",
+    "editors": [
+      "Sylvia Blaho",
+      "Camelia Constantinescu",
+      "Erik Schoorlemmer"
+    ],
+    "related_slugs": [
+      "Truswell-whmovement-2008",
+      "bosch-negationcatalanspanish-2024",
+      "rossyaykin-modals-2020",
+      "hua-disjunction-2020",
+      "Fălăuş-polarity-2009",
+      "holtz-tddeletion-2021"
     ]
   }
 ]
