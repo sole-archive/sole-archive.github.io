@@ -49,31 +49,6 @@ const venueCountValues = venueNames.map((v) => venueCounts[v]);
 // Sorted list for display (does not affect map features)
 const venueDisplay = Object.entries(venueCounts).sort((a, b) => b[1] - a[1]);
 
-// Count all affiliations
-const affiliationCounts = {} as Record<string, number>;
-for (const p of papers) {
-  const affs = Array.isArray(p.affiliation)
-    ? (p.affiliation as string[])
-    : (p.affiliation ? [String(p.affiliation)] : []);
-  for (const aff of affs) {
-    if (!aff) continue;
-    affiliationCounts[aff] = (affiliationCounts[aff] || 0) + 1;
-  }
-}
-
-// Sort all affiliations by frequency (no slice yet)
-const sortedAffiliations = Object.entries(affiliationCounts)
-  .sort((a, b) => b[1] - a[1]);
-
-// ✅ Map data: all affiliations
-const affNames = sortedAffiliations.map(([name]) => name);
-const affCounts = sortedAffiliations.map(([, count]) => count);
-
-// ✅ Sidebar data: only top 5
-const displayAffiliations = sortedAffiliations.slice(0, 5);
-const displayAffNames = displayAffiliations.map(([name]) => name);
-const displayAffCounts = displayAffiliations.map(([, count]) => count);
-
 // ==========================
 // NORMALIZATION MAPPINGS
 // ==========================
@@ -126,7 +101,46 @@ const affiliationNormalization: Record<string, string> = {
 
   // Stuttgart
   'University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)': 'University of Stuttgart',
+
+  // ELTE
+  'Eötvös Loránd University (ELTE), Budapest': 'Eötvös Loránd University, Budapest',
+
+  // Meertens
+  'Meertens Instituut, Amsterdam': 'Meertens Instituut',
+
+  // Nantes
+  'Nantes University': 'University of Nantes',
+
+  // Düsseldorf
+  'Heinrich Heine Universität Düsseldorf': 'Heinrich Heine University Düsseldorf',
 };
+
+// Count all affiliations (normalized)
+const affiliationCounts = {} as Record<string, number>;
+for (const p of papers) {
+  const affs = Array.isArray(p.affiliation)
+    ? (p.affiliation as string[])
+    : (p.affiliation ? [String(p.affiliation)] : []);
+  for (const rawAff of affs) {
+    if (!rawAff) continue;
+    const trimmed = String(rawAff).trim();
+    const canonical = affiliationNormalization[trimmed] || trimmed;
+    affiliationCounts[canonical] = (affiliationCounts[canonical] || 0) + 1;
+  }
+}
+
+// Sort all affiliations by frequency (no slice yet)
+const sortedAffiliations = Object.entries(affiliationCounts)
+  .sort((a, b) => b[1] - a[1]);
+
+// ✅ Map data: all affiliations
+const affNames = sortedAffiliations.map(([name]) => name);
+const affCounts = sortedAffiliations.map(([, count]) => count);
+
+// ✅ Sidebar data: only top 5
+const displayAffiliations = sortedAffiliations.slice(0, 5);
+const displayAffNames = displayAffiliations.map(([name]) => name);
+const displayAffCounts = displayAffiliations.map(([, count]) => count);
 
 // ==========================
 // COORDINATES (CANONICAL ONLY)
@@ -200,6 +214,31 @@ const knownAffiliationCoords: Record<string, [number, number]> = {
   'Kyushu University': [33.596, 130.218],
   'Indian Institute of Technology Guwahati': [26.1914, 91.6918],
   'Indian Institute of Technology Delhi': [28.545, 77.1926],
+  'Amsterdam Center for Language and Communication': [52.3667, 4.8945],
+  'Autonomous University of Barcelona': [41.501, 2.107],
+  'Boston University': [42.3505, -71.1054],
+  'Boğaziçi University': [41.084, 29.051],
+  'Department of Linguistics, New York University': [40.7295, -73.9965],
+  'Department of Linguistics, Paris 8 University': [48.953, 2.361],
+  'Department of Psychology, University of Michigan': [42.278, -83.738],
+  'GIST/Ghent University': [51.04, 3.727],
+  
+  'Institute of Serbian language of Serbian Academy of Sciences and Arts': [44.8176, 20.4569],
+  'Jadavpur University, Kolkata': [22.498, 88.372],
+  'Meertens Instituut': [52.362, 4.912],
+  'Nantes University': [47.245, -1.555],
+  'Queen Mary University of London': [51.5226, -0.0406],
+  'Rheinische Friedrich-Wilhelms-Universität Bonn': [50.732, 7.101],
+  'Simon Fraser University': [49.278, -122.919],
+  'Stony Brook University': [40.915, -73.123],
+  'University College London': [51.5246, -0.134],
+  'University Paris X Nanterre, Laboratoire MoDyCo': [48.902, 2.214],
+  'University of Athens': [37.968, 23.766],
+  'University of Massachusetts at Amherst': [42.386, -72.529],
+  
+  'Université de Provence, Laboratoire Parole et Langage (LPL)': [43.296, 5.369],
+  'Utrecht Institute of Linguistics OTS': [52.093, 5.122],
+  'Utecht Institute of Linguistics OTS': [52.093, 5.122], // typo alias
 };
 
 

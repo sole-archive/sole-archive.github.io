@@ -9,7 +9,7 @@
       "Boğaziçi University"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "1-21",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -43,7 +43,7 @@
     ],
     "affiliation": [],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "23-44",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -65,7 +65,7 @@
       "LeBruyn-Partitives-2008",
       "Ferme-palatal-2009",
       "Mahanta-VowelHarmony-2008",
-      "Boef-relativization-2012"
+      "muller-secondarymeaning-2019"
     ]
   },
   {
@@ -80,7 +80,7 @@
       "University of Stuttgart"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "45-70",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -116,7 +116,7 @@
       "Universitat de Girona"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "71-87",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -150,7 +150,7 @@
     ],
     "affiliation": [],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "89-103",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -185,7 +185,7 @@
       "Utrecht Institute of Linguistics OTS"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "105-129",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -221,7 +221,7 @@
       "CASTL, University of Tromsø"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "131-152",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -256,7 +256,7 @@
       "Queen Mary University of London"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "153-168",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -291,7 +291,7 @@
       "University of Potsdam"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "169-185",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -327,7 +327,7 @@
       "Universitat Autònoma de Barcelona (Centre de Lingüística Teòrica), Catalonia"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "187-211",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -344,12 +344,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "Khomchenkova-comitative-2019",
       "noguchi-kotoga-2021",
       "Puigdollers-Cognate-2009",
       "russocardona-toughconstructions-2024",
-      "Chernova-echoquestions-2013",
-      "alatassi-objectclitics-2024",
-      "AcedoMatellán-Resultatives-2012"
+      "zhao-presentperfect-2019",
+      "Chernova-echoquestions-2013"
     ]
   },
   {
@@ -362,7 +362,7 @@
       "University of Bucharest"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "213-227",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -384,8 +384,8 @@
       "Wierzba-contrastivetopics-2013",
       "Fălăuş-polarity-2009",
       "shikunova-mermaid-construction-2022",
-      "Georgi-casesplits-2012",
-      "AcedoMatellán-Resultatives-2012"
+      "Arylova-AnchorP-2012",
+      "Ott-topicalization-2012"
     ]
   },
   {
@@ -398,7 +398,7 @@
       "University of Connecticut"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "229-253",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -434,7 +434,7 @@
       "Eötvös Loránd University, Budapest"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "255-266",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -470,7 +470,7 @@
       "Universität Potsdam"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "267-289",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -492,7 +492,7 @@
       "Sutter-umlaut-2013",
       "Dobler-Causatives-2008",
       "Ott-topicalization-2012",
-      "voigt-der-dieser-german-2022"
+      "otani-japanese-2019"
     ]
   },
   {
@@ -505,7 +505,7 @@
       "Universitat Autònoma de Barcelona"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "291-313",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -522,12 +522,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "zhao-presentperfect-2019",
       "hafsi-indefinites-2023",
       "Schaden-AspectualRelations-2008",
+      "zhang-aspectual-2019",
       "Baturay-loanwords-2013",
-      "Birger-Unaccusatives-2009",
-      "kwapiszewski-aspect-2020",
-      "Arylova-AnchorP-2012"
+      "Birger-Unaccusatives-2009"
     ]
   },
   {
@@ -540,7 +540,7 @@
       "University of Geneva"
     ],
     "console_venue": "University of Leipzig",
-    "year": 2013,
+    "year": 2012,
     "pages": "315-332",
     "edition": "ConSOLE 20",
     "keywords": [
@@ -782,10 +782,10 @@
     "related_slugs": [
       "banerjee-wh-exclamatives-bangla-2022",
       "szarvas-coreference-2024",
+      "muller-secondarymeaning-2019",
       "mauffray-heritagel2-2021",
       "tveitan-exclusive-2023",
-      "Spector-Hebrewclefts-2012",
-      "List-multiplesequence-2012"
+      "toth-relatives-2019"
     ]
   },
   {
@@ -898,8 +898,8 @@
       "Arylova-AnchorP-2012",
       "Knyazev-čtoclauses-2013",
       "rossyaykin-modals-2020",
-      "milosavljevic-ga-serbian-2022",
-      "Chernova-echoquestions-2013"
+      "gerasimova-eventnominalization-2019",
+      "milosavljevic-ga-serbian-2022"
     ]
   },
   {
@@ -1200,10 +1200,10 @@
     "related_slugs": [
       "eisenheld-zeronominals-2021",
       "voigt-der-dieser-german-2022",
+      "Khomchenkova-comitative-2019",
       "Wierzba-contrastivetopics-2013",
       "Deichsel-dieser-2012",
-      "Antomo-V2-2012",
-      "holtz-tddeletion-2021"
+      "Antomo-V2-2012"
     ]
   },
   {
@@ -1277,9 +1277,9 @@
       "Zimmermann-grammarcompetition-2013",
       "Smith-collectivenouns-2013",
       "banerjee-wh-exclamatives-bangla-2022",
+      "zhang-aspectual-2019",
       "Puigdollers-Cognate-2009",
-      "holtz-tddeletion-2021",
-      "blazheska-though-2021"
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -1316,8 +1316,8 @@
       "saeed-arabic-2023",
       "sakumoto-mandarin-chinese-islands-2022",
       "Ferme-palatal-2009",
-      "Antomo-embeddedroot-2012",
-      "Sugimura-Root-2012"
+      "zhang-aspectual-2019",
+      "Antomo-embeddedroot-2012"
     ]
   },
   {
@@ -1647,12 +1647,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "ausensi-agententailments-2019",
       "russocardona-toughconstructions-2024",
+      "zhang-aspectual-2019",
       "Campanini-causatives-2013",
       "Sugimura-Root-2012",
-      "shikunova-mermaid-construction-2022",
-      "Xiqués-presentperfect-2013",
-      "Schaden-AspectualRelations-2008"
+      "shikunova-mermaid-construction-2022"
     ]
   },
   {
@@ -1758,12 +1758,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "Khomchenkova-comitative-2019",
       "Campanini-causatives-2013",
       "Pineda-ditransitive-2013",
       "Faust-Vowels-2012",
       "mattiuzzi-inflection-2023",
-      "noguchi-kotoga-2021",
-      "AcedoMatellán-Resultatives-2012"
+      "noguchi-kotoga-2021"
     ]
   },
   {
@@ -1795,12 +1795,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "zhang-aspectual-2019",
       "sakumoto-mandarin-chinese-islands-2022",
       "nakamura-quantifiers-2020",
       "Ferme-palatal-2009",
       "noguchi-kotoga-2021",
-      "Harwood-subjectpositions-2012",
-      "guo-ellipsis-2024"
+      "Harwood-subjectpositions-2012"
     ]
   },
   {
@@ -1870,11 +1870,11 @@
     ],
     "related_slugs": [
       "szarvas-coreference-2024",
+      "adenuga-oge-2019",
       "Truswell-whmovement-2008",
       "Assmann-parasiticgaps-2012",
       "Johnson-Copy-2008",
-      "Georgi-casesplits-2012",
-      "Chernova-echoquestions-2013"
+      "Georgi-casesplits-2012"
     ]
   },
   {
@@ -1906,12 +1906,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "Khomchenkova-comitative-2019",
       "Wierzba-contrastivetopics-2013",
       "jin-classifiers-2023",
       "fujii-verbless-2023",
       "shikunova-smallclause-2023",
-      "Campanini-causatives-2013",
-      "Ott-topicalization-2012"
+      "Campanini-causatives-2013"
     ]
   },
   {
@@ -1945,10 +1945,10 @@
     "related_slugs": [
       "Fălăuş-polarity-2009",
       "milosavljevic-duratives-2022",
+      "gerasimova-eventnominalization-2019",
       "AcedoMatellán-Resultatives-2012",
       "saeed-arabic-2023",
-      "guo-ellipsis-2024",
-      "milosavljevic-ga-serbian-2022"
+      "guo-ellipsis-2024"
     ]
   },
   {
@@ -2025,7 +2025,7 @@
       "banerjee-wh-exclamatives-bangla-2022",
       "dey-copula-2023",
       "Rothmayr-Stative-2008",
-      "Bašić-prepositions-2009"
+      "Beritognolo-Hiatus-2008"
     ]
   },
   {
@@ -2093,9 +2093,9 @@
       "milosavljevic-ga-serbian-2022",
       "AcedoMatellán-Resultatives-2012",
       "moore-westslavic-2024",
+      "zhang-aspectual-2019",
       "kim-basque-2021",
-      "Xiqués-presentperfect-2013",
-      "Schaden-AspectualRelations-2008"
+      "Xiqués-presentperfect-2013"
     ]
   },
   {
@@ -2127,12 +2127,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "zhao-presentperfect-2019",
       "Mahanta-VowelHarmony-2008",
       "Georgi-casesplits-2012",
-      "Keine-Impoverishment-2012",
       "List-multiplesequence-2012",
-      "meisenbichler-temporal-2023",
-      "Schaden-AspectualRelations-2008"
+      "Keine-Impoverishment-2012",
+      "meisenbichler-temporal-2023"
     ]
   },
   {
@@ -2239,10 +2239,10 @@
     "related_slugs": [
       "gan-scope-hk-sign-language-2022",
       "kerr-gorwaa-2020",
+      "toth-relatives-2019",
       "kasenov-modality-2023",
       "rossyaykin-modals-2020",
-      "Szeredi-Hungarian-2012",
-      "hafsi-indefinites-2023"
+      "Szeredi-Hungarian-2012"
     ]
   },
   {
@@ -2315,8 +2315,8 @@
       "Knyazev-čtoclauses-2013",
       "KosterMoeller-Restrictive-2012",
       "meisenbichler-temporal-2023",
-      "moritake-dps-2023",
-      "shikunova-smallclause-2023"
+      "wangnakamura-honornominalization-2019",
+      "moritake-dps-2023"
     ]
   },
   {
@@ -2382,11 +2382,11 @@
     ],
     "related_slugs": [
       "Ferme-palatal-2009",
+      "zhang-aspectual-2019",
       "jin-classifiers-2023",
       "kawamitsu-verbal-2023",
       "nakajima-lexicalambiguity-2020",
-      "noguchi-cleft-2020",
-      "khalid-casetheory-2022"
+      "noguchi-cleft-2020"
     ]
   },
   {
@@ -2459,7 +2459,7 @@
       "Chernova-echoquestions-2013",
       "shikunova-smallclause-2023",
       "Knyazev-čtoclauses-2013",
-      "kasenov-modality-2023"
+      "gerasimova-eventnominalization-2019"
     ]
   },
   {
@@ -2821,9 +2821,9 @@
       "kawamitsu-verbal-2023",
       "dulecavelier-mirrorprinciple-2021",
       "rossyaykin-modals-2020",
+      "muller-secondarymeaning-2019",
       "Fălăuş-polarity-2009",
-      "blazheska-though-2021",
-      "Wierzba-contrastivetopics-2013"
+      "blazheska-though-2021"
     ]
   },
   {
@@ -2967,7 +2967,7 @@
       "pohl-twitterdiscourse-2023",
       "holtz-tddeletion-2021",
       "huang-camuno-2021",
-      "Boxell-whdependencies-2012"
+      "zhang-aspectual-2019"
     ]
   },
   {
@@ -3073,12 +3073,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "Khomchenkova-comitative-2019",
       "banerjee-wh-exclamatives-bangla-2022",
       "Li-Adjectives-2009",
+      "muller-secondarymeaning-2019",
       "KosterMoeller-Restrictive-2012",
-      "amido-goalsbeliefs-2020",
-      "gan-scope-hk-sign-language-2022",
-      "jin-classifiers-2023"
+      "amido-goalsbeliefs-2020"
     ]
   },
   {
@@ -3107,12 +3107,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "muller-secondarymeaning-2019",
       "saeed-arabic-2023",
+      "zhang-aspectual-2019",
       "Li-Adjectives-2009",
       "kerr-gorwaa-2020",
-      "holtz-tddeletion-2021",
-      "meisenbichler-temporal-2023",
-      "Pauly-umclauses-2013"
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -3185,8 +3185,8 @@
       "eisenheld-zeronominals-2021",
       "milosavljevic-ga-serbian-2022",
       "Ott-topicalization-2012",
-      "li-functional-ge-2023",
-      "ottur-malayalam-2024"
+      "zhang-aspectual-2019",
+      "li-functional-ge-2023"
     ]
   },
   {
@@ -3256,9 +3256,9 @@
       "fuellenbach-lateinsertion-2019",
       "Antomo-embeddedroot-2012",
       "noguchi-kotoga-2021",
+      "zhang-aspectual-2019",
       "shikunova-mermaid-construction-2022",
-      "tveitan-exclusive-2023",
-      "zhao-homogeneity-2024"
+      "tveitan-exclusive-2023"
     ]
   },
   {
@@ -3290,11 +3290,11 @@
     ],
     "related_slugs": [
       "kasenov-modality-2023",
+      "gerasimova-eventnominalization-2019",
       "Arylova-AnchorP-2012",
       "morgunova-complementizer-2021",
       "gan-scope-hk-sign-language-2022",
-      "shikunova-smallclause-2023",
-      "Antomo-embeddedroot-2012"
+      "shikunova-smallclause-2023"
     ]
   },
   {
@@ -3328,9 +3328,9 @@
       "kumari-honorificity-nominal-2022",
       "ruhrmannetal-nja-2021",
       "sarvas-suffixes-hungarian-2022",
+      "gerasimova-eventnominalization-2019",
       "shikunova-smallclause-2023",
-      "Assmann-parasiticgaps-2012",
-      "Ott-topicalization-2012"
+      "Assmann-parasiticgaps-2012"
     ]
   },
   {
@@ -3508,9 +3508,412 @@
       "alatassi-objectclitics-2024",
       "mauffray-heritagel2-2021",
       "hua-disjunction-2020",
+      "adenuga-oge-2019",
       "wiesner-samoan-2023",
-      "szarvas-coreference-2024",
-      "biswasmukherjee-lexicaldecisiontask-2024"
+      "szarvas-coreference-2024"
+    ]
+  },
+  {
+    "slug": "wangnakamura-honornominalization-2019",
+    "title": "Japanese honorification as nominalization: Taking [HON] out of honorifics",
+    "authors": [
+      "Ruoan Wang",
+      "Takanobu Nakamura"
+    ],
+    "affiliation": [
+      "Queen Mary University of London",
+      "University of Edinburgh"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "59-83",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "japanese",
+      "Honorificity",
+      "morpheme decomposition"
+    ],
+    "abstract": "We claim that Japanese honorification involves no dedicated grammatical apparatus, contra longstanding analytical tradition. Examining the components of two productive honorification strategies, we show that these components lack honorific meaning in isolation, but are nominal in nature. We therefore suggest that Japanese honorifics are built from general nominalisation processes and light verb constructions. We also recharacterize ‘honorific suppletives’ as semantically bleached verbal substitutions, showing that their distribution conforms to a general morphophonological constraint of Japanese, which we call the monomoraic constraint. Crucially, this honorification-as-nominalization approach eschews ad hoc, honorification-specific grammatical machinery, advocating for a minimal and economical featural inventory.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "ruoan.wang@qmul.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Sugimura-Incorporation-2009",
+      "noguchi-cleft-2020",
+      "noguchi-kotoga-2021",
+      "Sugimura-Root-2012",
+      "kawamitsu-verbal-2023",
+      "Hayashi-teclauses-2013"
+    ]
+  },
+  {
+    "slug": "adenuga-oge-2019",
+    "title": "Plural marking with 'òtúro' in Ògè",
+    "authors": [
+      "Priscilla Lọlá Adénúgà"
+    ],
+    "affiliation": [
+      "Goethe University, Frankfurt"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "84-105",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "Ògè",
+      "Benue-Congo",
+      "plural marking"
+    ],
+    "abstract": "This paper provides an analysis of the syntax of plural marking with òtúro in Ògè, a language of the Benue-Congo region spoken in Nigeria. Recent research has investigated lexical plural (optional) systems where some or all of the plural morphemes are realizations of some syntactic heads other than the Num-head. This paper proposes that plural marking on nouns in Ògè instantiates a D-head. This proposal accounts for two things: first, òtúro is in complementary distribution with the (in)definite article; second, plural marked nouns are construed as definite.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "adenuga@lingua.uni-frankfurt.de",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "andermann-potawatomi-2024",
+      "Smith-collectivenouns-2013",
+      "fuellenbach-lateinsertion-2019",
+      "murselltan-tagalog-2019",
+      "pena-catalansignlanguage-2019",
+      "Puigdollers-Cognate-2009"
+    ]
+  },
+  {
+    "slug": "gerasimova-eventnominalization-2019",
+    "title": "Licensing negative polarity items in Russian event nominalizations",
+    "authors": [
+      "Anastasia Gerasimova"
+    ],
+    "affiliation": [
+      "Lomonosov Moscow State University (MSU)",
+      "Pushkin State Russian Language Institute"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "106-117",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "Russian",
+      "Negated nominalization",
+      "corpus study",
+      "locality restrictions"
+    ],
+    "abstract": "This paper addresses the issue of licensing negative polarity items in Russian nominalizations. Negation in nominalizations provides negative concord which licenses negative pronouns. Crucially, non-specific indefinite -nibud¶ pronouns, which are usually prohibited in negative concord environments, are available in negated nominalizations, too. In this paper I determine the position of NegP within Russian nominalizations and examine licensing conditions of polarity sensitive items in nominalizations. My analysis suggests that -nibud¶ pronouns are licensed in the scope of the nonveridical operator that is introduced above NegP.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "anastasiagerasimova432@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Fălăuş-polarity-2009",
+      "rossyaykin-modals-2020",
+      "shikunova-smallclause-2023",
+      "Chernova-echoquestions-2013",
+      "Arylova-AnchorP-2012",
+      "morgunova-complementizer-2021"
+    ]
+  },
+  {
+    "slug": "ausensi-agententailments-2019",
+    "title": "Agent entailments induce manner properties: evidence from verbs of killing",
+    "authors": [
+      "Josep Ausensi"
+    ],
+    "affiliation": [
+      ""
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "118-134",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "verb classes",
+      "intentional action",
+      "manner-result verbs"
+    ],
+    "abstract": "Rappaport Hovav & Levin (2010) argue that verbs fall into two classes, i.e. result verbs (e.g. kill), which encode a result state, and manner verbs (e.g. poison), which encode a manner of action. Crucially, though, a single verb cannot encode both a manner of action and a result state. Following Beavers & Koontz-Garboden (2012), I argue that such a limitation on possible verb meanings is contrary to fact. I contend that what I call murder verbs (i.e. murder, slay, slaughter, massacre and assassinate) encode both a manner of action and a result state. More specifically, murder verbs encode an intentional action that is carried out with the intention to bring about the result state of death.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Dobler-Causative-2009",
+      "lidestri-motionverbs-2024",
+      "Rothmayr-Stative-2008",
+      "noguchi-cleft-2020",
+      "Sugimura-Root-2012",
+      "mauffray-heritagel2-2021"
+    ]
+  },
+  {
+    "slug": "Khomchenkova-comitative-2019",
+    "title": "On the syntax of comitative constructions in some Finno-Ugric languages",
+    "authors": [
+      "Irina Khomchenkova"
+    ],
+    "affiliation": [
+      "Lomonosov Moscow State University",
+      "Vinogradov Russian Language Institute, Russian Academy of Sciences"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "135-149",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "comitative constructions",
+      "finno-ugric languages",
+      "hill mari"
+    ],
+    "abstract": "This paper deals with comitative constructions in some Finno-Ugric languages, mainly in Hill Mari, Moksha Mordvin and Kazym Khanty, using the data of other languages as an intragenetic background. I argue that in the three named languages a comitative phrase in the comitative construction appears at the VP level. Comitative coordination [X Y COM V-PL] is compatible with distributive predicates, while comitative constructions do not allow a distributive interpretation. However, a comitative phrase in this construction can be detached from the central NP, while parts of a coordinate structure cannot appear non-contiguously, which complicates the explanation of plural verbal agreement.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "irina.khomchenkova@yandex.ru",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "khomchenkova-exceptives-2020",
+      "Pineda-ditransitive-2013",
+      "fujii-verbless-2023",
+      "ottur-malayalam-2024",
+      "jin-classifiers-2023",
+      "russocardona-toughconstructions-2024"
+    ]
+  },
+  {
+    "slug": "murselltan-tagalog-2019",
+    "title": "'Ang'-marking and Givenness in Tagalog",
+    "authors": [
+      "Johannes Mursell",
+      "Jennifer Tan"
+    ],
+    "affiliation": [
+      "Goethe-University Frankfurt",
+      "University of Alcalà"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "150-173",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "tagalog alignment system",
+      "vp-phase",
+      "Givenness"
+    ],
+    "abstract": "This study revisits the debate on the Tagalog alignment system, more specifically, on the puzzling nature of the phrase marked by ang. We argue that verbal agreement with the ang-phrase in Tagalog is triggered by Givenness. This account is based on close examination of ang’s compatibility with the reference of different cognitive statuses in discourse and of ang’s interaction with left-peripheral phenomena. Our analysis proposes that an argument Given in discourse moves to the highest phrase in the vP phase, where Givenness is encoded and where it gets ang-marked, subsequently determining agreement in T.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "j.mursell@lingua.uni-frankfurt.de",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "sakumoto-mandarin-chinese-islands-2022",
+      "adenuga-oge-2019",
+      "pena-catalansignlanguage-2019",
+      "andermann-potawatomi-2024",
+      "List-multiplesequence-2012",
+      "Liu-ContourTones-2008"
+    ]
+  },
+  {
+    "slug": "otani-japanese-2019",
+    "title": "On the scope interpretation of a null disjunctive phrase in Japanese",
+    "authors": [
+      "Shuki Otani"
+    ],
+    "affiliation": [
+      "Osaka University"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "174-193",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "disjunctive elements",
+      "contrastive focus",
+      "deletion"
+    ],
+    "abstract": "This article investigates what interpretations are available when a disjunctive phrase is phonetically null in a negative sentence. Sakamoto (2015) shows that a null disjunctive element always takes wide scope with respect to negation, but Funakoshi (2013) presents that a null disjunctive element takes narrow scope under negation. In this paper, I observe that only when there is a null disjunctive element and a contrastive focus in a negative sentence, the disjunctive element can takes wide and narrow scope with respect to negation. From the observation, I argue that a contrastive focus is closely related to the interpretations of null disjunctive elements. In order to obtain the interpretations, following Maeda (2017) and Aelbrecht (2010), I propose that a contrastive focus makes the [E]-feature active via Agree relation, and then disjunctive phrases are deleted.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "otani.tog@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
+      "noguchi-cleft-2020",
+      "Hayashi-teclauses-2013",
+      "gan-scope-hk-sign-language-2022",
+      "Sugimura-Incorporation-2009",
+      "kim-basque-2021"
+    ]
+  },
+  {
+    "slug": "toth-relatives-2019",
+    "title": "Arguments for the matching analysis of Hungarian lexically headed relatives",
+    "authors": [
+      "Bálint Tóth"
+    ],
+    "affiliation": [
+      "Pázmány Péter Catholic University"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "194-214",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "hungarian",
+      "lexically headed relatives",
+      "experimental syntax"
+    ],
+    "abstract": "The aim of the present article is to provide both theoretical and empirical evidence to the effect that Hungarian lexically headed relative clauses can only be adequately analyzed by a so called Matching derivation, where the lexical nominal head does not originate inside the embedded clause, in contrast to Raising analyses. To support the above hypothesis, I will examine several reconstruction and case-related phenomena, along with an experiment aimed to support the unavailability of scopal reconstruction into relative clauses in Hungarian with empirical data from native speakers. The results of the experiment will be shown to support the above working hypothesis.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "toth.balint.pte@gmail.com",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "KosterMoeller-Restrictive-2012",
+      "Szeredi-Hungarian-2012",
+      "Boef-doubling-2012",
+      "sarvas-suffixes-hungarian-2022",
+      "eisenheld-zeronominals-2021",
+      "Wierzba-contrastivetopics-2013"
+    ]
+  },
+  {
+    "slug": "zhao-presentperfect-2019",
+    "title": "Deriving the variation and constraints of the present perfect",
+    "authors": [
+      "Ruoying Zhao"
+    ],
+    "affiliation": [
+      "University College London"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "215-237",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "Maximize Presupposition",
+      "Romance languages",
+      "constraints on Tense"
+    ],
+    "abstract": "I argue that the inferences and constraints of the English present perfect can be derived as a result of the competition with an alternative with stronger presuppositions, the simple past. I show that the English simple past, unlike the present perfect, presupposes uniqueness and anaphoricity of the topic time. By Maximize Presupposition, the present perfect is restricted to contexts in which the presuppositions of the simple past are not met. I also show that the crosslinguistic variation of the present perfect results from the availability of alternatives, by presenting data in several Romance and Germanic languages.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "ruoying.zhao.14@ucl.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Xiqués-presentperfect-2013",
+      "Pineda-ditransitive-2013",
+      "Khomchenkova-comitative-2019",
+      "tsilia-simultaneous-reading-2022",
+      "Assmann-parasiticgaps-2012",
+      "kerr-gorwaa-2020"
+    ]
+  },
+  {
+    "slug": "muller-secondarymeaning-2019",
+    "title": "Sentence adverbs and theories of secondary meaning: Non-at-issueness and its problems",
+    "authors": [
+      "Kalle Müller"
+    ],
+    "affiliation": [
+      "University of Tübingen"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "238-256",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "Unidimensional semantics",
+      "Propositional discourse referents",
+      "Non-at-issue meanings"
+    ],
+    "abstract": "This paper poses three challenges that any account for sentence adverbs has to account for, the answer problem, the projection problem, and the commitment problem. These challenges are used to evaluate the basic working mechanisms of three types of existing accounts, i.e. unidimensional, multidimensional and illocutionary accounts, concluding that only a hybrid account can deal with these problems collectively. Then, a such account building on a unidimensional semantics, where multidimensionality only arises in certain contexts is sketched out, using the notion of propositional discourse referents. Finally, the findings are used for a basic taxonomy of non-at-issue meanings.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "kalle.mueller@uni-tuebingen.de",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "Döring-adverbs-2012",
+      "Boef-pronoundoubling-2013",
+      "Mahanta-VowelHarmony-2008",
+      "LeBruyn-Partitives-2008",
+      "holtz-tddeletion-2021",
+      "Ferme-palatal-2009"
+    ]
+  },
+  {
+    "slug": "zhang-aspectual-2019",
+    "title": "On stative Mandarin sentences with aspectual marker '-le'",
+    "authors": [
+      "Yan Zhang"
+    ],
+    "affiliation": [
+      "University College London"
+    ],
+    "console_venue": "Humboldt-Universität zu Berlin",
+    "year": 2019,
+    "pages": "257-271",
+    "edition": "ConSOLE 27",
+    "keywords": [
+      "change-of-state",
+      "aspectual markers",
+      "Mandarin Chinese"
+    ],
+    "abstract": "Mandarin Chinese has many simple word forms that can receive a change-of-state (CoS) interpretation when combining with the aspectual marker -le, and the CoS interpretation has been widely accounted for aspectually. However, the observations that -le can also give rise to two types of stative readings challenge the aspectual account and complicate the definition of -le. To address this problem, I develop an alternative analysis according to which the stative forms and the CoS verb form co-exist but happen to be homophonous. Based on this account, I also propose an updated definition for -le, which successfully captures its full range of interpretations.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxvii.pdf",
+    "corresponding_email": "yan.zhang.14@ucl.ac.uk",
+    "editors": [
+      "Astrid van Alem",
+      "Mirella De Sisto",
+      "Elisabeth J. Kerr",
+      "Joanna Wall"
+    ],
+    "related_slugs": [
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Ferme-palatal-2009",
+      "jin-classifiers-2023",
+      "zhao-homogeneity-2024",
+      "Dobler-Causative-2009",
+      "guo-ellipsis-2024"
     ]
   },
   {
@@ -3523,7 +3926,7 @@
       "Georg-August-Universität Göttingen"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "1-23",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3560,7 +3963,7 @@
       "University of Groningen"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "25-48",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3582,7 +3985,7 @@
       "Knyazev-čtoclauses-2013",
       "Chernova-echoquestions-2013",
       "morgunova-complementizer-2021",
-      "kasenov-modality-2023"
+      "gerasimova-eventnominalization-2019"
     ]
   },
   {
@@ -3595,7 +3998,7 @@
       "Universität Leipzig"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "49-75",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3633,7 +4036,7 @@
       "Universität Leipzig"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "77-103",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3653,9 +4056,9 @@
       "Sugimura-Incorporation-2009",
       "Sugimura-Root-2012",
       "sakumoto-mandarin-chinese-islands-2022",
-      "Georgi-casesplits-2012",
       "Deichsel-dieser-2012",
-      "KosterMoeller-Restrictive-2012"
+      "Smith-collectivenouns-2013",
+      "Georgi-casesplits-2012"
     ]
   },
   {
@@ -3668,7 +4071,7 @@
       "Goethe-Universität Frankfurt"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "105-123",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3702,7 +4105,7 @@
       "Meertens Instituut"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "125-149",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3738,7 +4141,7 @@
       "University of Essex"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "151-175",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3773,7 +4176,7 @@
       "National Chi Nan University"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "177-190",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3809,7 +4212,7 @@
       "University of Stuttgart"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "191-199",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3831,9 +4234,9 @@
       "voigt-der-dieser-german-2022",
       "fujii-verbless-2023",
       "holtz-tddeletion-2021",
-      "Antomo-V2-2012",
       "Wierzba-contrastivetopics-2013",
-      "Sutter-umlaut-2013"
+      "Sutter-umlaut-2013",
+      "Antomo-V2-2012"
     ]
   },
   {
@@ -3846,7 +4249,7 @@
       "Humboldt-Universität zu Berlin"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "201-214",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3863,12 +4266,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "muller-secondarymeaning-2019",
       "noguchi-cleft-2020",
       "banerjee-wh-exclamatives-bangla-2022",
       "Li-Adjectives-2009",
-      "meisenbichler-temporal-2023",
-      "Schenner-Evidentials-2009",
-      "Kluck-amalgamation-2009"
+      "otani-japanese-2019",
+      "meisenbichler-temporal-2023"
     ]
   },
   {
@@ -3881,7 +4284,7 @@
       "GIST/Ghent University"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "215-239",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3917,7 +4320,7 @@
       "Heinrich Heine University Düsseldorf"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "241-260",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3952,7 +4355,7 @@
       "Utrecht University"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "261-282",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -3971,10 +4374,10 @@
     "related_slugs": [
       "koelewijn-loanword-2021",
       "joveneau-eastbelgian-2023",
+      "zhao-presentperfect-2019",
       "ruhrmannetal-nja-2021",
       "Sutter-umlaut-2013",
-      "Dobler-Causative-2009",
-      "banerjee-wh-exclamatives-bangla-2022"
+      "Dobler-Causative-2009"
     ]
   },
   {
@@ -3987,7 +4390,7 @@
       "Groningen University"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "283-307",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -4022,7 +4425,7 @@
       "The Hebrew University of Jerusalem"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "309-330",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -4056,7 +4459,7 @@
       "Ben-Gurion University of the Negev"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "331-342",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -4076,8 +4479,8 @@
       "Chernova-echoquestions-2013",
       "tsilia-simultaneous-reading-2022",
       "sarvas-suffixes-hungarian-2022",
-      "Faust-Vowels-2012",
-      "Ott-topicalization-2012"
+      "Ott-topicalization-2012",
+      "Pineda-ditransitive-2013"
     ]
   },
   {
@@ -4090,7 +4493,7 @@
       "University of Leipzig"
     ],
     "console_venue": "University of Groningen",
-    "year": 2012,
+    "year": 2011,
     "pages": "343-367",
     "edition": "ConSOLE 19",
     "keywords": [
@@ -4125,7 +4528,7 @@
       "Universitat de Barcelona & Universitat Autònoma de Barcelona"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "1-25",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4145,10 +4548,10 @@
     "related_slugs": [
       "milosavljevic-duratives-2022",
       "russocardona-toughconstructions-2024",
+      "Khomchenkova-comitative-2019",
       "Asada-secondarypredication-2012",
       "Pineda-ditransitive-2013",
-      "jin-classifiers-2023",
-      "shikunova-smallclause-2023"
+      "jin-classifiers-2023"
     ]
   },
   {
@@ -4161,7 +4564,7 @@
       "J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "27-51",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4196,7 +4599,7 @@
       "Sophia University"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "53-75",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4231,7 +4634,7 @@
       "Meertens Instituut, Amsterdam"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "77-100",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4253,7 +4656,7 @@
       "presotto-objectrelatives-2024",
       "Zimmermann-grammarcompetition-2013",
       "kovac-basque-2021",
-      "Pauly-umclauses-2013"
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -4266,7 +4669,7 @@
       "Tel-Aviv University"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "101-119",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4303,7 +4706,7 @@
       "Laboratoire de Linguistique Formelle (LLF), Université Paris 7"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "121-135",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4338,7 +4741,7 @@
       "University of Leipzig"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "137-162",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4358,8 +4761,8 @@
       "Keine-Impoverishment-2012",
       "Boef-doubling-2012",
       "nakamura-quantifiers-2020",
-      "Assmann-possessoradvancement-2012",
       "Asada-secondarypredication-2012",
+      "Assmann-possessoradvancement-2012",
       "Arylova-AnchorP-2012"
     ]
   },
@@ -4373,7 +4776,7 @@
       "Universität Leipzig"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "163-187",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4408,7 +4811,7 @@
       "University of British Columbia"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "191-208",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4426,8 +4829,8 @@
     ],
     "related_slugs": [
       "Smith-collectivenouns-2013",
-      "Zimmermann-grammarcompetition-2013",
       "Puigdollers-Cognate-2009",
+      "Zimmermann-grammarcompetition-2013",
       "fuellenbach-lateinsertion-2019",
       "mauffray-heritagel2-2021",
       "Birger-Unaccusatives-2009"
@@ -4443,7 +4846,7 @@
       "MIT"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "209-230",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4478,7 +4881,7 @@
       "Department of Linguistics, New York University"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "231-251",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4512,7 +4915,7 @@
     ],
     "affiliation": [],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "252-267",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4545,7 +4948,7 @@
     ],
     "affiliation": [],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "269-288",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4566,8 +4969,8 @@
       "Boxell-whdependencies-2012",
       "Boef-pronoundoubling-2013",
       "Šimík-whphrases-2008",
-      "Chernova-echoquestions-2013",
-      "Truswell-whmovement-2008"
+      "Truswell-whmovement-2008",
+      "Chernova-echoquestions-2013"
     ]
   },
   {
@@ -4580,7 +4983,7 @@
       "McGill University"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "289-298",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4616,7 +5019,7 @@
       "Eötvös Loránd University, Budapest"
     ],
     "console_venue": "University of Nova Gorica",
-    "year": 2012,
+    "year": 2009,
     "pages": "299-319",
     "edition": "ConSOLE 17",
     "keywords": [
@@ -4635,11 +5038,11 @@
     ],
     "related_slugs": [
       "Baturay-loanwords-2013",
+      "toth-relatives-2019",
       "Mahanta-VowelHarmony-2008",
       "sarvas-suffixes-hungarian-2022",
       "koelewijn-loanword-2021",
-      "Antomo-embeddedroot-2012",
-      "ruhrmannetal-nja-2021"
+      "Antomo-embeddedroot-2012"
     ]
   },
   {
@@ -4652,7 +5055,7 @@
       "Centre for Advanced Study in Theoretical Linguistics (CASTL), University of Tromsø"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "1-20",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4688,7 +5091,7 @@
       "Tel-Aviv University, Israel"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "21-38",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4724,7 +5127,7 @@
       "McGill University"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "39-50",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4741,12 +5144,12 @@
       "Bert Le Bruyn"
     ],
     "related_slugs": [
+      "ausensi-agententailments-2019",
+      "zhang-aspectual-2019",
       "Dobler-Causatives-2008",
       "mauffray-heritagel2-2021",
       "Rothmayr-Stative-2008",
-      "Assmann-parasiticgaps-2012",
-      "Sugimura-Root-2012",
-      "Pauly-umclauses-2013"
+      "Sugimura-Root-2012"
     ]
   },
   {
@@ -4759,7 +5162,7 @@
       "University of Nantes"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "51-68",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4777,12 +5180,12 @@
       "Bert Le Bruyn"
     ],
     "related_slugs": [
+      "gerasimova-eventnominalization-2019",
       "moore-westslavic-2024",
       "Baturay-loanwords-2013",
       "Wierzba-contrastivetopics-2013",
       "huang-camuno-2021",
-      "Ratiu-Questions-2012",
-      "Savu-rhotictap-2013"
+      "Ratiu-Questions-2012"
     ]
   },
   {
@@ -4795,7 +5198,7 @@
       "University of Nova Gorica"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "69-76",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4815,10 +5218,10 @@
     "related_slugs": [
       "sakumoto-mandarin-chinese-islands-2022",
       "Baturay-loanwords-2013",
+      "zhang-aspectual-2019",
       "jin-classifiers-2023",
       "Boef-pronoundoubling-2013",
-      "Liu-ContourTones-2008",
-      "Mahanta-VowelHarmony-2008"
+      "Liu-ContourTones-2008"
     ]
   },
   {
@@ -4831,7 +5234,7 @@
       "University of Groningen"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "77-101",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4866,7 +5269,7 @@
       "Tel-Aviv University"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "103-115",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4901,7 +5304,7 @@
       "Bar-Ilan University, Israel"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "117-134",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4937,7 +5340,7 @@
       "Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "135-155",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -4973,7 +5376,7 @@
       "Universitat Autònoma de Barcelona"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "157-178",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -5010,7 +5413,7 @@
       "ZAS Berlin"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "179-198",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -5045,7 +5448,7 @@
       "McGill University"
     ],
     "console_venue": "Paris",
-    "year": 2009,
+    "year": 2008,
     "pages": "199-216",
     "edition": "ConSOLE 16",
     "keywords": [
@@ -5066,8 +5469,8 @@
       "Hayashi-teclauses-2013",
       "Assmann-possessoradvancement-2012",
       "kawamitsu-verbal-2023",
-      "gan-scope-hk-sign-language-2022",
-      "Wierzba-contrastivetopics-2013"
+      "wangnakamura-honornominalization-2019",
+      "gan-scope-hk-sign-language-2022"
     ]
   },
   {
@@ -5138,8 +5541,8 @@
       "Wierzba-contrastivetopics-2013",
       "Truswell-whmovement-2008",
       "gan-scope-hk-sign-language-2022",
-      "Assmann-parasiticgaps-2012",
       "Faust-Vowels-2012",
+      "Assmann-parasiticgaps-2012",
       "Boef-doubling-2012"
     ]
   },
@@ -5209,8 +5612,8 @@
       "noguchi-kotoga-2021",
       "noguchi-cleft-2020",
       "Assmann-parasiticgaps-2012",
-      "AcedoMatellán-Resultatives-2012",
-      "Baturay-loanwords-2013"
+      "otani-japanese-2019",
+      "AcedoMatellán-Resultatives-2012"
     ]
   },
   {
@@ -5314,8 +5717,8 @@
       "Boef-pronoundoubling-2013",
       "Mahanta-VowelHarmony-2008",
       "TănaseDogaru-Pseudopartitives-2008",
+      "muller-secondarymeaning-2019",
       "Ferme-palatal-2009",
-      "Boef-doubling-2012",
       "Boef-relativization-2012"
     ]
   },
@@ -5350,9 +5753,9 @@
       "Ferme-palatal-2009",
       "sakumoto-mandarin-chinese-islands-2022",
       "Baturay-loanwords-2013",
+      "zhang-aspectual-2019",
       "meyase-dissimilation-2020",
-      "jin-classifiers-2023",
-      "swe-burmese-2021"
+      "jin-classifiers-2023"
     ]
   },
   {
@@ -5384,10 +5787,10 @@
     "related_slugs": [
       "Baturay-loanwords-2013",
       "Boef-pronoundoubling-2013",
+      "muller-secondarymeaning-2019",
       "LeBruyn-Partitives-2008",
       "Ferme-palatal-2009",
-      "Szeredi-Hungarian-2012",
-      "Beritognolo-Hiatus-2008"
+      "Szeredi-Hungarian-2012"
     ]
   },
   {
@@ -5417,12 +5820,12 @@
       "Erik Schoorlemmer"
     ],
     "related_slugs": [
+      "ausensi-agententailments-2019",
       "Dobler-Causative-2009",
       "Ott-topicalization-2012",
       "mondalmukherjee-syllablestructures-2024",
       "Li-Adjectives-2009",
-      "Bašić-prepositions-2009",
-      "ottur-malayalam-2024"
+      "Bašić-prepositions-2009"
     ]
   },
   {
@@ -5529,7 +5932,7 @@
       "Baturay-loanwords-2013",
       "mukherjee-orthographic-2023",
       "Bašić-prepositions-2009",
-      "Assmann-possessoradvancement-2012"
+      "Georgi-casesplits-2012"
     ]
   },
   {
@@ -5704,9 +6107,9 @@
       "Truswell-whmovement-2008",
       "bosch-negationcatalanspanish-2024",
       "rossyaykin-modals-2020",
-      "hua-disjunction-2020",
-      "Fălăuş-polarity-2009",
-      "holtz-tddeletion-2021"
+      "ausensi-agententailments-2019",
+      "zhang-aspectual-2019",
+      "hua-disjunction-2020"
     ]
   }
 ]
