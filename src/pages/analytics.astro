@@ -38,10 +38,17 @@ const allEditors = papers.flatMap((p) => p.editors || []);
 const totalEditors = new Set(allEditors).size;
 const totalEditions = new Set(papers.map((p) => p.edition).filter(Boolean)).size;
 
-// Venue counts
+// Venue counts (normalized)
 const venueCounts = {} as Record<string, number>;
+// Minimal inline normalization to avoid forward reference
+const normalizeVenue = (name: string) => {
+  const n = String(name || 'Unknown').trim();
+  if (n === 'Université Leipzig' || n === 'Universität Leipzig' || n === 'University of Leipzig') return 'Leipzig University';
+  if (n === 'Paris') return 'Université Paris';
+  return n;
+};
 for (const p of papers) {
-  const v = (p.console_venue || 'Unknown') as string;
+  const v = normalizeVenue(p.console_venue as string);
   venueCounts[v] = (venueCounts[v] || 0) + 1;
 }
 const venueNames = Object.keys(venueCounts);
