@@ -138,8 +138,8 @@
       "noguchi-cleft-2020",
       "Truswell-whmovement-2008",
       "Šimík-whphrases-2008",
-      "Ratiu-Questions-2012",
-      "rugna-wh-2023"
+      "basque-macazaga-2025",
+      "Ratiu-Questions-2012"
     ]
   },
   {
@@ -167,12 +167,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "headraising-yamamoto-2025",
       "Sugimura-Incorporation-2009",
       "Boef-doubling-2012",
       "Sugimura-Root-2012",
       "kawamitsu-verbal-2023",
-      "KosterMoeller-Restrictive-2012",
-      "Pauly-umclauses-2013"
+      "KosterMoeller-Restrictive-2012"
     ]
   },
   {
@@ -314,7 +314,7 @@
       "Antomo-V2-2012",
       "KosterMoeller-Restrictive-2012",
       "Boef-relativization-2012",
-      "Knyazev-čtoclauses-2013"
+      "waszu-zofelt-2025"
     ]
   },
   {
@@ -454,10 +454,10 @@
     "related_slugs": [
       "Wierzba-contrastivetopics-2013",
       "voigt-der-dieser-german-2022",
+      "waszu-zofelt-2025",
       "eisenheld-zeronominals-2021",
       "fujii-verbless-2023",
-      "Deichsel-dieser-2012",
-      "Schenner-Evidentials-2009"
+      "Deichsel-dieser-2012"
     ]
   },
   {
@@ -634,9 +634,9 @@
       "pohl-twitterdiscourse-2023",
       "varona-gender-2023",
       "mcknight-minimalsearch-2024",
+      "gendersyncretism-bushan-2025",
       "pena-catalansignlanguage-2019",
-      "gan-scope-hk-sign-language-2022",
-      "noguchi-kotoga-2021"
+      "gan-scope-hk-sign-language-2022"
     ]
   },
   {
@@ -671,9 +671,9 @@
       "mondalmukherjee-syllablestructures-2024",
       "biswasmukherjee-lexicaldecisiontask-2024",
       "Sóskuthy-Voicing-2008",
-      "Baturay-loanwords-2013",
-      "Wierzba-contrastivetopics-2013",
-      "dey-copula-2023"
+      "anythinggoes-sunberezovskaya-2025",
+      "guzman-naranjo-naturalness-2015",
+      "Baturay-loanwords-2013"
     ]
   },
   {
@@ -819,12 +819,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "nonioche-rossisgrizzi-2025",
       "Boef-pronoundoubling-2013",
       "russocardona-toughconstructions-2024",
       "Faust-Vowels-2012",
       "Campanini-causatives-2013",
-      "saeed-arabic-2023",
-      "List-multiplesequence-2012"
+      "saeed-arabic-2023"
     ]
   },
   {
@@ -936,8 +936,8 @@
       "varona-gender-2023",
       "blazheska-though-2021",
       "pena-catalansignlanguage-2019",
-      "holtz-tddeletion-2021",
-      "gan-scope-hk-sign-language-2022"
+      "gendersyncretism-bushan-2025",
+      "holtz-tddeletion-2021"
     ]
   },
   {
@@ -970,12 +970,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "binders-marutyan-2025",
       "rossyaykin-modals-2020",
       "kwapiszewski-aspect-2020",
       "zhao-homogeneity-2024",
-      "Boef-pronoundoubling-2013",
-      "jin-classifiers-2023",
-      "mattiuzzi-inflection-2023"
+      "morpho-naganotateno-2025",
+      "Boef-pronoundoubling-2013"
     ]
   },
   {
@@ -1200,10 +1200,10 @@
     "related_slugs": [
       "eisenheld-zeronominals-2021",
       "voigt-der-dieser-german-2022",
+      "waszu-zofelt-2025",
       "Khomchenkova-comitative-2019",
       "Wierzba-contrastivetopics-2013",
-      "Deichsel-dieser-2012",
-      "Antomo-V2-2012"
+      "Deichsel-dieser-2012"
     ]
   },
   {
@@ -1275,11 +1275,11 @@
     ],
     "related_slugs": [
       "Zimmermann-grammarcompetition-2013",
+      "besnard-be-able-2015",
       "Smith-collectivenouns-2013",
+      "hein-participle-allomorphy-2015",
       "banerjee-wh-exclamatives-bangla-2022",
-      "zhang-aspectual-2019",
-      "Puigdollers-Cognate-2009",
-      "holtz-tddeletion-2021"
+      "genske-negation-2013"
     ]
   },
   {
@@ -1312,12 +1312,12 @@
       "Maximilian Wiesner"
     ],
     "related_slugs": [
+      "splitunified-wang-2025",
       "Li-Adjectives-2009",
       "saeed-arabic-2023",
       "sakumoto-mandarin-chinese-islands-2022",
       "Ferme-palatal-2009",
-      "zhang-aspectual-2019",
-      "Antomo-embeddedroot-2012"
+      "zhang-aspectual-2019"
     ]
   },
   {
@@ -1353,9 +1353,9 @@
       "berg-attitudes-2023",
       "pohl-twitterdiscourse-2023",
       "presotto-objectrelatives-2024",
+      "gendersyncretism-bushan-2025",
       "bosch-negationcatalanspanish-2024",
-      "mauffray-heritagel2-2021",
-      "MartínezParicio-identityeffects-2013"
+      "mauffray-heritagel2-2021"
     ]
   },
   {
@@ -1428,8 +1428,8 @@
       "Chernova-echoquestions-2013",
       "Sinopoulou-Multiple-2008",
       "Truswell-whmovement-2008",
-      "kim-basque-2021",
-      "presotto-objectrelatives-2024"
+      "basque-macazaga-2025",
+      "kim-basque-2021"
     ]
   },
   {
@@ -1462,11 +1462,11 @@
     ],
     "related_slugs": [
       "holtz-tddeletion-2021",
+      "doering-modal-2014",
       "lutzervoigt-resolution-2023",
       "mauffray-heritagel2-2021",
       "pohl-twitterdiscourse-2023",
-      "eisenheld-zeronominals-2021",
-      "Deichsel-dieser-2012"
+      "waszu-zofelt-2025"
     ]
   },
   {
@@ -1503,7 +1503,7 @@
       "noguchi-kotoga-2021",
       "fuellenbach-lateinsertion-2019",
       "Pineda-ditransitive-2013",
-      "Martín-Dative-2012"
+      "berezovskaya-acquisition-2013"
     ]
   },
   {
@@ -1539,9 +1539,9 @@
       "baggiocairncross-propernouns-2020",
       "MartínezParicio-identityeffects-2013",
       "varona-gender-2023",
+      "herbeck-backward-2013",
       "presotto-objectrelatives-2024",
-      "pena-catalansignlanguage-2019",
-      "Weiser-Events-2008"
+      "pena-catalansignlanguage-2019"
     ]
   },
   {
@@ -1611,11 +1611,11 @@
     ],
     "related_slugs": [
       "saeed-arabic-2023",
+      "doliana-super-strong-2014",
       "Wierzba-contrastivetopics-2013",
       "meisenbichler-temporal-2023",
       "shikunova-smallclause-2023",
-      "Ott-topicalization-2012",
-      "milosavljevic-ga-serbian-2022"
+      "Ott-topicalization-2012"
     ]
   },
   {
@@ -1648,11 +1648,11 @@
     ],
     "related_slugs": [
       "ausensi-agententailments-2019",
+      "nonioche-rossisgrizzi-2025",
+      "fareche-sgrizzi-2025",
       "russocardona-toughconstructions-2024",
       "zhang-aspectual-2019",
-      "Campanini-causatives-2013",
-      "Sugimura-Root-2012",
-      "shikunova-mermaid-construction-2022"
+      "Campanini-causatives-2013"
     ]
   },
   {
@@ -1688,8 +1688,8 @@
       "Wierzba-contrastivetopics-2013",
       "Baturay-loanwords-2013",
       "Laks-Valence-2009",
-      "baggiocairncross-propernouns-2020",
-      "ottur-malayalam-2024"
+      "waszu-zofelt-2025",
+      "baggiocairncross-propernouns-2020"
     ]
   },
   {
@@ -1726,7 +1726,7 @@
       "Boef-doubling-2012",
       "Zimmermann-grammarcompetition-2013",
       "Boef-relativization-2012",
-      "Hayashi-teclauses-2013"
+      "headraising-yamamoto-2025"
     ]
   },
   {
@@ -1758,12 +1758,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "nonioche-rossisgrizzi-2025",
       "Khomchenkova-comitative-2019",
       "Campanini-causatives-2013",
       "Pineda-ditransitive-2013",
       "Faust-Vowels-2012",
-      "mattiuzzi-inflection-2023",
-      "noguchi-kotoga-2021"
+      "mattiuzzi-inflection-2023"
     ]
   },
   {
@@ -1796,11 +1796,11 @@
     ],
     "related_slugs": [
       "zhang-aspectual-2019",
+      "splitunified-wang-2025",
       "sakumoto-mandarin-chinese-islands-2022",
       "nakamura-quantifiers-2020",
       "Ferme-palatal-2009",
-      "noguchi-kotoga-2021",
-      "Harwood-subjectpositions-2012"
+      "noguchi-kotoga-2021"
     ]
   },
   {
@@ -1832,12 +1832,12 @@
       "Hadis Tamleh"
     ],
     "related_slugs": [
+      "atb-kasai-2025",
+      "bluemel-forked-2014",
       "Truswell-whmovement-2008",
       "andermann-potawatomi-2024",
       "Assmann-parasiticgaps-2012",
-      "Hayashi-teclauses-2013",
-      "dulecavelier-mirrorprinciple-2021",
-      "Boef-doubling-2012"
+      "Hayashi-teclauses-2013"
     ]
   },
   {
@@ -1872,9 +1872,9 @@
       "szarvas-coreference-2024",
       "adenuga-oge-2019",
       "Truswell-whmovement-2008",
+      "atb-kasai-2025",
       "Assmann-parasiticgaps-2012",
-      "Johnson-Copy-2008",
-      "Georgi-casesplits-2012"
+      "Johnson-Copy-2008"
     ]
   },
   {
@@ -1910,8 +1910,8 @@
       "Wierzba-contrastivetopics-2013",
       "jin-classifiers-2023",
       "fujii-verbless-2023",
-      "shikunova-smallclause-2023",
-      "Campanini-causatives-2013"
+      "korsah-inherent-2015",
+      "shikunova-smallclause-2023"
     ]
   },
   {
@@ -2130,9 +2130,9 @@
       "zhao-presentperfect-2019",
       "Mahanta-VowelHarmony-2008",
       "Georgi-casesplits-2012",
+      "waszu-zofelt-2025",
       "List-multiplesequence-2012",
-      "Keine-Impoverishment-2012",
-      "meisenbichler-temporal-2023"
+      "Keine-Impoverishment-2012"
     ]
   },
   {
@@ -2237,12 +2237,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "anythinggoes-sunberezovskaya-2025",
       "gan-scope-hk-sign-language-2022",
       "kerr-gorwaa-2020",
       "toth-relatives-2019",
       "kasenov-modality-2023",
-      "rossyaykin-modals-2020",
-      "Szeredi-Hungarian-2012"
+      "rossyaykin-modals-2020"
     ]
   },
   {
@@ -2314,9 +2314,9 @@
       "kerr-gorwaa-2020",
       "Knyazev-čtoclauses-2013",
       "KosterMoeller-Restrictive-2012",
+      "stankovic-adjectives-left-periphery-2015",
       "meisenbichler-temporal-2023",
-      "wangnakamura-honornominalization-2019",
-      "moritake-dps-2023"
+      "wangnakamura-honornominalization-2019"
     ]
   },
   {
@@ -2381,12 +2381,12 @@
       "Rasmus Puggaard-Rode"
     ],
     "related_slugs": [
+      "splitunified-wang-2025",
       "Ferme-palatal-2009",
       "zhang-aspectual-2019",
       "jin-classifiers-2023",
       "kawamitsu-verbal-2023",
-      "nakajima-lexicalambiguity-2020",
-      "noguchi-cleft-2020"
+      "nakajima-lexicalambiguity-2020"
     ]
   },
   {
@@ -2420,10 +2420,10 @@
     "related_slugs": [
       "pena-catalansignlanguage-2019",
       "Wierzba-contrastivetopics-2013",
+      "anythinggoes-sunberezovskaya-2025",
       "sarvas-suffixes-hungarian-2022",
       "rossyaykin-modals-2020",
-      "Hayashi-teclauses-2013",
-      "Sugimura-Incorporation-2009"
+      "Hayashi-teclauses-2013"
     ]
   },
   {
@@ -2530,9 +2530,9 @@
       "Boef-doubling-2012",
       "Boef-relativization-2012",
       "Hayashi-teclauses-2013",
+      "basque-macazaga-2025",
       "KosterMoeller-Restrictive-2012",
-      "presotto-objectrelatives-2024",
-      "dey-copula-2023"
+      "presotto-objectrelatives-2024"
     ]
   },
   {
@@ -2709,12 +2709,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "headraising-yamamoto-2025",
       "Pineda-ditransitive-2013",
       "noguchi-cleft-2020",
       "kawamitsu-verbal-2023",
-      "Sugimura-Root-2012",
-      "milosavljevic-ga-serbian-2022",
-      "nakamura-quantifiers-2020"
+      "atb-kasai-2025",
+      "Sugimura-Root-2012"
     ]
   },
   {
@@ -2787,7 +2787,7 @@
       "Sinopoulou-Multiple-2008",
       "noguchi-cleft-2020",
       "banerjee-wh-exclamatives-bangla-2022",
-      "Šimík-whphrases-2008"
+      "basque-macazaga-2025"
     ]
   },
   {
@@ -2858,8 +2858,8 @@
       "Dobler-Causative-2009",
       "varona-gender-2023",
       "fuellenbach-lateinsertion-2019",
-      "bosch-negationcatalanspanish-2024",
-      "Birger-Unaccusatives-2009"
+      "bloem-cluster-ordering-2015",
+      "spalek-calculating-scales-context-2013"
     ]
   },
   {
@@ -2894,8 +2894,8 @@
       "Patin-Tone-2009",
       "ruhrmannetal-nja-2021",
       "mauffray-heritagel2-2021",
-      "nakajima-lexicalambiguity-2020",
-      "biswasmukherjee-lexicaldecisiontask-2024"
+      "fareche-sgrizzi-2025",
+      "nakajima-lexicalambiguity-2020"
     ]
   },
   {
@@ -2930,8 +2930,8 @@
       "holtz-tddeletion-2021",
       "Campanini-causatives-2013",
       "voigt-der-dieser-german-2022",
-      "Wierzba-contrastivetopics-2013",
-      "Sutter-umlaut-2013"
+      "waszu-zofelt-2025",
+      "Wierzba-contrastivetopics-2013"
     ]
   },
   {
@@ -3074,11 +3074,11 @@
     ],
     "related_slugs": [
       "Khomchenkova-comitative-2019",
+      "chechen-berkovich-2025",
       "banerjee-wh-exclamatives-bangla-2022",
       "Li-Adjectives-2009",
       "muller-secondarymeaning-2019",
-      "KosterMoeller-Restrictive-2012",
-      "amido-goalsbeliefs-2020"
+      "KosterMoeller-Restrictive-2012"
     ]
   },
   {
@@ -3110,9 +3110,9 @@
       "muller-secondarymeaning-2019",
       "saeed-arabic-2023",
       "zhang-aspectual-2019",
-      "Li-Adjectives-2009",
-      "kerr-gorwaa-2020",
-      "holtz-tddeletion-2021"
+      "doliana-super-strong-2014",
+      "anderson-hedging-2013",
+      "Li-Adjectives-2009"
     ]
   },
   {
@@ -3184,9 +3184,9 @@
       "Šimík-whphrases-2008",
       "eisenheld-zeronominals-2021",
       "milosavljevic-ga-serbian-2022",
-      "Ott-topicalization-2012",
-      "zhang-aspectual-2019",
-      "li-functional-ge-2023"
+      "morpho-naganotateno-2025",
+      "cichosz-experiencer-2014",
+      "Ott-topicalization-2012"
     ]
   },
   {
@@ -3222,7 +3222,7 @@
       "Sinopoulou-Multiple-2008",
       "noguchi-kotoga-2021",
       "kawamitsu-verbal-2023",
-      "Sugimura-Root-2012"
+      "headraising-yamamoto-2025"
     ]
   },
   {
@@ -3254,11 +3254,11 @@
     ],
     "related_slugs": [
       "fuellenbach-lateinsertion-2019",
+      "anythinggoes-sunberezovskaya-2025",
       "Antomo-embeddedroot-2012",
       "noguchi-kotoga-2021",
       "zhang-aspectual-2019",
-      "shikunova-mermaid-construction-2022",
-      "tveitan-exclusive-2023"
+      "shikunova-mermaid-construction-2022"
     ]
   },
   {
@@ -3330,7 +3330,7 @@
       "sarvas-suffixes-hungarian-2022",
       "gerasimova-eventnominalization-2019",
       "shikunova-smallclause-2023",
-      "Assmann-parasiticgaps-2012"
+      "nonioche-rossisgrizzi-2025"
     ]
   },
   {
@@ -3434,9 +3434,9 @@
       "gan-scope-hk-sign-language-2022",
       "berg-attitudes-2023",
       "pohl-twitterdiscourse-2023",
+      "huebl-indexicals-german-sign-language-2013",
       "bosch-negationcatalanspanish-2024",
-      "fujii-verbless-2023",
-      "Patin-Tone-2009"
+      "berezovskaya-acquisition-2013"
     ]
   },
   {
@@ -3470,9 +3470,9 @@
       "jin-classifiers-2023",
       "kawamitsu-verbal-2023",
       "milosavljevic-ga-serbian-2022",
+      "gendersyncretism-bushan-2025",
       "Wierzba-contrastivetopics-2013",
-      "rossyaykin-modals-2020",
-      "fujii-verbless-2023"
+      "rossyaykin-modals-2020"
     ]
   },
   {
@@ -3505,12 +3505,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "zheng-null-subjects-2014",
       "alatassi-objectclitics-2024",
       "mauffray-heritagel2-2021",
       "hua-disjunction-2020",
       "adenuga-oge-2019",
-      "wiesner-samoan-2023",
-      "szarvas-coreference-2024"
+      "wiesner-samoan-2023"
     ]
   },
   {
@@ -3546,9 +3546,9 @@
       "Sugimura-Incorporation-2009",
       "noguchi-cleft-2020",
       "noguchi-kotoga-2021",
+      "headraising-yamamoto-2025",
       "Sugimura-Root-2012",
-      "kawamitsu-verbal-2023",
-      "Hayashi-teclauses-2013"
+      "kawamitsu-verbal-2023"
     ]
   },
   {
@@ -3582,9 +3582,9 @@
       "andermann-potawatomi-2024",
       "Smith-collectivenouns-2013",
       "fuellenbach-lateinsertion-2019",
+      "korsah-inherent-2015",
       "murselltan-tagalog-2019",
-      "pena-catalansignlanguage-2019",
-      "Puigdollers-Cognate-2009"
+      "pena-catalansignlanguage-2019"
     ]
   },
   {
@@ -3654,11 +3654,11 @@
     ],
     "related_slugs": [
       "Dobler-Causative-2009",
+      "spalek-calculating-scales-context-2013",
       "lidestri-motionverbs-2024",
       "Rothmayr-Stative-2008",
       "noguchi-cleft-2020",
-      "Sugimura-Root-2012",
-      "mauffray-heritagel2-2021"
+      "Sugimura-Root-2012"
     ]
   },
   {
@@ -3730,10 +3730,10 @@
     "related_slugs": [
       "sakumoto-mandarin-chinese-islands-2022",
       "adenuga-oge-2019",
+      "fareche-sgrizzi-2025",
       "pena-catalansignlanguage-2019",
       "andermann-potawatomi-2024",
-      "List-multiplesequence-2012",
-      "Liu-ContourTones-2008"
+      "List-multiplesequence-2012"
     ]
   },
   {
@@ -3872,12 +3872,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "waszu-zofelt-2025",
       "Döring-adverbs-2012",
       "Boef-pronoundoubling-2013",
       "Mahanta-VowelHarmony-2008",
-      "LeBruyn-Partitives-2008",
-      "holtz-tddeletion-2021",
-      "Ferme-palatal-2009"
+      "nonioche-rossisgrizzi-2025",
+      "LeBruyn-Partitives-2008"
     ]
   },
   {
@@ -3908,12 +3908,12 @@
       "Joanna Wall"
     ],
     "related_slugs": [
+      "splitunified-wang-2025",
       "sakumoto-mandarin-chinese-islands-2022",
       "Ferme-palatal-2009",
       "jin-classifiers-2023",
       "zhao-homogeneity-2024",
-      "Dobler-Causative-2009",
-      "guo-ellipsis-2024"
+      "Dobler-Causative-2009"
     ]
   },
   {
@@ -4017,11 +4017,11 @@
     ],
     "related_slugs": [
       "Ratiu-Questions-2012",
+      "korsah-inherent-2015",
       "Wierzba-contrastivetopics-2013",
       "Sóskuthy-Voicing-2008",
       "szarvas-coreference-2024",
-      "KosterMoeller-Restrictive-2012",
-      "Truswell-whmovement-2008"
+      "KosterMoeller-Restrictive-2012"
     ]
   },
   {
@@ -4087,12 +4087,12 @@
       "Maartje Schulpen"
     ],
     "related_slugs": [
+      "waszu-zofelt-2025",
       "holtz-tddeletion-2021",
       "Deichsel-dieser-2012",
       "Campanini-causatives-2013",
       "Sutter-umlaut-2013",
-      "fujii-verbless-2023",
-      "Ott-topicalization-2012"
+      "fujii-verbless-2023"
     ]
   },
   {
@@ -4127,8 +4127,8 @@
       "Boef-relativization-2012",
       "Boef-pronoundoubling-2013",
       "presotto-objectrelatives-2024",
-      "Zimmermann-grammarcompetition-2013",
-      "Šimík-whphrases-2008"
+      "headraising-yamamoto-2025",
+      "Zimmermann-grammarcompetition-2013"
     ]
   },
   {
@@ -4270,8 +4270,8 @@
       "noguchi-cleft-2020",
       "banerjee-wh-exclamatives-bangla-2022",
       "Li-Adjectives-2009",
-      "otani-japanese-2019",
-      "meisenbichler-temporal-2023"
+      "pinter-csak-2015",
+      "otani-japanese-2019"
     ]
   },
   {
@@ -4338,11 +4338,11 @@
     ],
     "related_slugs": [
       "Sinopoulou-Multiple-2008",
+      "basque-macazaga-2025",
       "Ratiu-Questions-2012",
       "Chernova-echoquestions-2013",
       "tsilia-simultaneous-reading-2022",
-      "mattiuzzi-inflection-2023",
-      "berg-attitudes-2023"
+      "mattiuzzi-inflection-2023"
     ]
   },
   {
@@ -4408,11 +4408,11 @@
     ],
     "related_slugs": [
       "wiesner-samoan-2023",
+      "basque-macazaga-2025",
       "Wierzba-contrastivetopics-2013",
       "Asada-secondarypredication-2012",
       "milosavljevic-ga-serbian-2022",
-      "saeed-arabic-2023",
-      "Antomo-embeddedroot-2012"
+      "saeed-arabic-2023"
     ]
   },
   {
@@ -4445,8 +4445,8 @@
       "Fadlon-hidden-2012",
       "Laks-Valence-2009",
       "Sinopoulou-Multiple-2008",
-      "Boef-doubling-2012",
-      "Boef-pronoundoubling-2013"
+      "anythinggoes-sunberezovskaya-2025",
+      "Boef-doubling-2012"
     ]
   },
   {
@@ -4476,11 +4476,11 @@
     ],
     "related_slugs": [
       "rossyaykin-modals-2020",
+      "vardomskaya-subjective-2014",
       "Chernova-echoquestions-2013",
-      "tsilia-simultaneous-reading-2022",
-      "sarvas-suffixes-hungarian-2022",
-      "Ott-topicalization-2012",
-      "Pineda-ditransitive-2013"
+      "barany-hungarian-objective-2013",
+      "hein-participle-allomorphy-2015",
+      "tsilia-simultaneous-reading-2022"
     ]
   },
   {
@@ -4551,7 +4551,7 @@
       "Khomchenkova-comitative-2019",
       "Asada-secondarypredication-2012",
       "Pineda-ditransitive-2013",
-      "jin-classifiers-2023"
+      "korsah-inherent-2015"
     ]
   },
   {
@@ -4691,7 +4691,7 @@
       "Spector-Hebrewclefts-2012",
       "Dobler-Causatives-2008",
       "joveneau-eastbelgian-2023",
-      "biswasmukherjee-lexicaldecisiontask-2024"
+      "harchaoui-lexical-innovations-2015"
     ]
   },
   {
@@ -4728,7 +4728,7 @@
       "russocardona-toughconstructions-2024",
       "Campanini-causatives-2013",
       "mattiuzzi-inflection-2023",
-      "Fadlon-hidden-2012"
+      "nonioche-rossisgrizzi-2025"
     ]
   },
   {
@@ -4760,10 +4760,10 @@
     "related_slugs": [
       "Keine-Impoverishment-2012",
       "Boef-doubling-2012",
+      "murphy-double-passivization-2015",
       "nakamura-quantifiers-2020",
       "Asada-secondarypredication-2012",
-      "Assmann-possessoradvancement-2012",
-      "Arylova-AnchorP-2012"
+      "Assmann-possessoradvancement-2012"
     ]
   },
   {
@@ -4794,11 +4794,11 @@
     ],
     "related_slugs": [
       "Georgi-casesplits-2012",
+      "korsah-inherent-2015",
       "Laks-Valence-2009",
       "tsilia-simultaneous-reading-2022",
       "Truswell-whmovement-2008",
-      "Asada-secondarypredication-2012",
-      "Boxell-whdependencies-2012"
+      "doliana-super-strong-2014"
     ]
   },
   {
@@ -4828,12 +4828,12 @@
       "Kathrin Linke"
     ],
     "related_slugs": [
+      "waszu-zofelt-2025",
+      "genske-negation-2013",
       "Smith-collectivenouns-2013",
       "Puigdollers-Cognate-2009",
       "Zimmermann-grammarcompetition-2013",
-      "fuellenbach-lateinsertion-2019",
-      "mauffray-heritagel2-2021",
-      "Birger-Unaccusatives-2009"
+      "fuellenbach-lateinsertion-2019"
     ]
   },
   {
@@ -4868,7 +4868,7 @@
       "Šimík-whphrases-2008",
       "Zimmermann-grammarcompetition-2013",
       "Boef-relativization-2012",
-      "Hayashi-teclauses-2013"
+      "headraising-yamamoto-2025"
     ]
   },
   {
@@ -5003,10 +5003,10 @@
     "related_slugs": [
       "Sugimura-Incorporation-2009",
       "Hayashi-teclauses-2013",
+      "gundogdu-kurmanji-complex-predicates-2015",
       "noguchi-cleft-2020",
-      "noguchi-kotoga-2021",
-      "jin-classifiers-2023",
-      "kawamitsu-verbal-2023"
+      "headraising-yamamoto-2025",
+      "noguchi-kotoga-2021"
     ]
   },
   {
@@ -5074,11 +5074,11 @@
     ],
     "related_slugs": [
       "Schippers-whphrases-2012",
+      "bleotu-denominals-2015",
       "Puigdollers-Cognate-2009",
       "Smith-collectivenouns-2013",
       "milosavljevic-ga-serbian-2022",
-      "Harwood-subjectpositions-2012",
-      "Boef-pronoundoubling-2013"
+      "Harwood-subjectpositions-2012"
     ]
   },
   {
@@ -5109,12 +5109,12 @@
       "Bert Le Bruyn"
     ],
     "related_slugs": [
+      "berezovskaya-acquisition-2013",
       "alatassi-objectclitics-2024",
       "Hayashi-teclauses-2013",
       "rossyaykin-modals-2020",
       "noguchi-cleft-2020",
-      "morgunova-complementizer-2021",
-      "mauffray-heritagel2-2021"
+      "morgunova-complementizer-2021"
     ]
   },
   {
@@ -5147,9 +5147,9 @@
       "ausensi-agententailments-2019",
       "zhang-aspectual-2019",
       "Dobler-Causatives-2008",
+      "spalek-calculating-scales-context-2013",
       "mauffray-heritagel2-2021",
-      "Rothmayr-Stative-2008",
-      "Sugimura-Root-2012"
+      "anderson-hedging-2013"
     ]
   },
   {
@@ -5182,10 +5182,10 @@
     "related_slugs": [
       "gerasimova-eventnominalization-2019",
       "moore-westslavic-2024",
+      "chechen-berkovich-2025",
       "Baturay-loanwords-2013",
       "Wierzba-contrastivetopics-2013",
-      "huang-camuno-2021",
-      "Ratiu-Questions-2012"
+      "huang-camuno-2021"
     ]
   },
   {
@@ -5217,11 +5217,11 @@
     ],
     "related_slugs": [
       "sakumoto-mandarin-chinese-islands-2022",
+      "splitunified-wang-2025",
       "Baturay-loanwords-2013",
       "zhang-aspectual-2019",
       "jin-classifiers-2023",
-      "Boef-pronoundoubling-2013",
-      "Liu-ContourTones-2008"
+      "Boef-pronoundoubling-2013"
     ]
   },
   {
@@ -5288,10 +5288,10 @@
     "related_slugs": [
       "Faust-Vowels-2012",
       "Baturay-loanwords-2013",
+      "grandmas-lyriotakis-2025",
       "Spector-Hebrewclefts-2012",
       "mcknight-minimalsearch-2024",
-      "barman-learnability-2023",
-      "Keine-Impoverishment-2012"
+      "barman-learnability-2023"
     ]
   },
   {
@@ -5323,11 +5323,11 @@
     ],
     "related_slugs": [
       "jin-classifiers-2023",
+      "splitunified-wang-2025",
       "banerjee-wh-exclamatives-bangla-2022",
+      "stankovic-adjectives-left-periphery-2015",
       "saeed-arabic-2023",
-      "Schenner-Evidentials-2009",
-      "Döring-adverbs-2012",
-      "Wierzba-contrastivetopics-2013"
+      "Schenner-Evidentials-2009"
     ]
   },
   {
@@ -5360,10 +5360,10 @@
     "related_slugs": [
       "Chang-pronominalordering-2012",
       "pohl-twitterdiscourse-2023",
+      "huebl-indexicals-german-sign-language-2013",
       "pena-catalansignlanguage-2019",
       "swe-burmese-2021",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "nakajima-lexicalambiguity-2020"
+      "sakumoto-mandarin-chinese-islands-2022"
     ]
   },
   {
@@ -5397,10 +5397,10 @@
     "related_slugs": [
       "Pineda-ditransitive-2013",
       "Bašić-prepositions-2009",
+      "ruda-missing-human-objects-2013",
       "noguchi-kotoga-2021",
       "biswasmukherjee-lexicaldecisiontask-2024",
-      "nakajima-lexicalambiguity-2020",
-      "Vaxman-Onsets-2008"
+      "hein-participle-allomorphy-2015"
     ]
   },
   {
@@ -5432,10 +5432,10 @@
     "related_slugs": [
       "Antomo-V2-2012",
       "holtz-tddeletion-2021",
+      "waszu-zofelt-2025",
       "voigt-der-dieser-german-2022",
       "fujii-verbless-2023",
-      "Campanini-causatives-2013",
-      "Sutter-umlaut-2013"
+      "Campanini-causatives-2013"
     ]
   },
   {
@@ -5469,8 +5469,8 @@
       "Hayashi-teclauses-2013",
       "Assmann-possessoradvancement-2012",
       "kawamitsu-verbal-2023",
-      "wangnakamura-honornominalization-2019",
-      "gan-scope-hk-sign-language-2022"
+      "headraising-yamamoto-2025",
+      "gundogdu-kurmanji-complex-predicates-2015"
     ]
   },
   {
@@ -5610,10 +5610,10 @@
     "related_slugs": [
       "guo-ellipsis-2024",
       "noguchi-kotoga-2021",
+      "headraising-yamamoto-2025",
       "noguchi-cleft-2020",
-      "Assmann-parasiticgaps-2012",
-      "otani-japanese-2019",
-      "AcedoMatellán-Resultatives-2012"
+      "anythinggoes-sunberezovskaya-2025",
+      "Assmann-parasiticgaps-2012"
     ]
   },
   {
@@ -5645,10 +5645,10 @@
     "related_slugs": [
       "andermann-potawatomi-2024",
       "Truswell-whmovement-2008",
+      "munoz-perez-copy-theory-2015",
       "nakajima-lexicalambiguity-2020",
       "dulecavelier-mirrorprinciple-2021",
-      "sakumoto-mandarin-chinese-islands-2022",
-      "szarvas-coreference-2024"
+      "sakumoto-mandarin-chinese-islands-2022"
     ]
   },
   {
@@ -5683,7 +5683,7 @@
       "Pineda-ditransitive-2013",
       "moritake-dps-2023",
       "wiesner-samoan-2023",
-      "shikunova-mermaid-construction-2022"
+      "cichosz-experiencer-2014"
     ]
   },
   {
@@ -5718,8 +5718,8 @@
       "Mahanta-VowelHarmony-2008",
       "TănaseDogaru-Pseudopartitives-2008",
       "muller-secondarymeaning-2019",
-      "Ferme-palatal-2009",
-      "Boef-relativization-2012"
+      "waszu-zofelt-2025",
+      "Ferme-palatal-2009"
     ]
   },
   {
@@ -5751,11 +5751,11 @@
     ],
     "related_slugs": [
       "Ferme-palatal-2009",
+      "splitunified-wang-2025",
       "sakumoto-mandarin-chinese-islands-2022",
       "Baturay-loanwords-2013",
       "zhang-aspectual-2019",
-      "meyase-dissimilation-2020",
-      "jin-classifiers-2023"
+      "meyase-dissimilation-2020"
     ]
   },
   {
@@ -5821,11 +5821,11 @@
     ],
     "related_slugs": [
       "ausensi-agententailments-2019",
+      "spalek-calculating-scales-context-2013",
       "Dobler-Causative-2009",
       "Ott-topicalization-2012",
       "mondalmukherjee-syllablestructures-2024",
-      "Li-Adjectives-2009",
-      "Bašić-prepositions-2009"
+      "Li-Adjectives-2009"
     ]
   },
   {
@@ -5860,8 +5860,8 @@
       "gan-scope-hk-sign-language-2022",
       "dey-copula-2023",
       "Hayashi-teclauses-2013",
-      "Xiqués-presentperfect-2013",
-      "moritake-dps-2023"
+      "doering-modal-2014",
+      "Xiqués-presentperfect-2013"
     ]
   },
   {
@@ -5893,10 +5893,10 @@
     "related_slugs": [
       "Chernova-echoquestions-2013",
       "Šimík-whphrases-2008",
+      "basque-macazaga-2025",
       "noguchi-cleft-2020",
       "Ratiu-Questions-2012",
-      "rugna-wh-2023",
-      "fiorini-camuno-2021"
+      "rugna-wh-2023"
     ]
   },
   {
@@ -5930,9 +5930,9 @@
       "Assmann-parasiticgaps-2012",
       "russocardona-toughconstructions-2024",
       "Baturay-loanwords-2013",
+      "enguehard-stress-edge-2015",
       "mukherjee-orthographic-2023",
-      "Bašić-prepositions-2009",
-      "Georgi-casesplits-2012"
+      "Bašić-prepositions-2009"
     ]
   },
   {
@@ -6035,10 +6035,10 @@
     "related_slugs": [
       "Chernova-echoquestions-2013",
       "Šimík-whphrases-2008",
+      "atb-kasai-2025",
       "noguchi-cleft-2020",
       "KosterMoeller-Restrictive-2012",
-      "Schippers-whphrases-2012",
-      "rugna-wh-2023"
+      "Schippers-whphrases-2012"
     ]
   },
   {
@@ -6107,9 +6107,2068 @@
       "Truswell-whmovement-2008",
       "bosch-negationcatalanspanish-2024",
       "rossyaykin-modals-2020",
+      "dugas-morphological-negation-2015",
       "ausensi-agententailments-2019",
+      "zhang-aspectual-2019"
+    ]
+  },
+  {
+    "slug": "aksenova-transcategorial-2015",
+    "title": "A transcategorial negative marker: Evidence from Buryat",
+    "authors": [
+      "Alëna Aksënova"
+    ],
+    "affiliation": [
+      "Lomonosov Moscow State University",
+      "Stony Brook University"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "1-9",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "In this paper I discuss the Buryat multifunctional negative marker ʉgej (-gʉj). Apart from the role of ‘standard’ negator, this marker also forms negative verbal or nominal underspecified modifiers that are further interpreted as adjective, participle, adverb or converb depending on their structure position. In this paper I propose a structural analysis of this transcategorial negator, whereby it occupies the head position of the predicative phrase (PredP) taking NP or finite TP as its complement.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "alena.aksenova@stonybrook.edu",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
       "zhang-aspectual-2019",
+      "moore-westslavic-2024",
+      "barany-hungarian-objective-2013",
+      "rossyaykin-modals-2020",
+      "saeed-arabic-2023",
+      "besnard-be-able-2015"
+    ]
+  },
+  {
+    "slug": "guzman-naranjo-naturalness-2015",
+    "title": "Probing the naturalness bias in learning stress: A cross-linguistic study",
+    "authors": [
+      "Matìas Guzmán Naranjo",
+      "Joanna Zaleska"
+    ],
+    "affiliation": [],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "10-31",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "In the present paper we report on a cross-linguistic artificial grammar learning study, whose objective was twofold. On the methodological side, its goal was to address the question as to whether the native language of the participants could be a confounding factor in artificial language learning experiments even if it does not contain the pattern under investigation. On the phonological side, its aim was to probe Carpenter’s (2010) observation that it is easier to learn an artificial language in which stress is attracted to low vowels than one where stress occurs on high vowels. The results of our research do not provide support for Carpenter’s findings and suggest that artificial language experiments can be affected by the participants’ native language even when that language does not contain the relevant structures.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "voigt-der-dieser-german-2022",
+      "enguehard-stress-edge-2015",
+      "toth-relatives-2019",
+      "kerr-gorwaa-2020",
+      "nonioche-rossisgrizzi-2025",
+      "gerocs-hungarian-2013"
+    ]
+  },
+  {
+    "slug": "melara-deixis-2015",
+    "title": "Deixis and embedded tense: Revisiting tense in English and Japanese subordinate clauses",
+    "authors": [
+      "Emilia Melara"
+    ],
+    "affiliation": [
+      "University of Toronto"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "32-51",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper examines how tense in embedded clauses interacts with the past tense of an embedding clause in English and Japanese. I propose that the tense morphology that surfaces in embedded clauses is a function of how the language anchors its clauses with respect to time and viewpoint. English is proposed to evaluate situations relative to the speech time as a result of the specification of a temporal deixis feature in T0. Japanese is argued to lack this particular feature, evaluating embedded clauses relative to the time of the matrix situation. Generalizations are made to capture sequence of tense phenomena.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "emilia.melara@mail.utoronto.ca",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Hayashi-teclauses-2013",
+      "Zimmermann-grammarcompetition-2013",
+      "Antomo-embeddedroot-2012",
+      "headraising-yamamoto-2025",
+      "noguchi-cleft-2020",
+      "noguchi-kotoga-2021"
+    ]
+  },
+  {
+    "slug": "korsah-inherent-2015",
+    "title": "On deriving inherent complement verb constructions",
+    "authors": [
+      "Sampson Korsah"
+    ],
+    "affiliation": [
+      "University of Leipzig"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "52-69",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper has two main goals. First, it highlights an empirical observation about the so-called inherent complement verb constructions in Kwa (Niger-Congo) languages, claiming that such verb-noun (V-N) complexes have a dual status; they behave like regular transitive verbs on the one hand, and like idioms on the other hand. Second, it accounts for this observation as follows: The V-N is initially stored as a fixed complex unit in the lexicon, as per its opaqueness for certain syntactic operations. This accounts for their idiom-like behaviour. In the syntax, this is a problem; the V-N lacks a label (Chomsky 2013). However, the labeling problem can be solved by a movement operation in which V moves to v, allowing the hitherto [V-N] to be labeled as NP. The consequent structure is then able to undergo the relevant morphosyntactic processes.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "sampson.korsah@uni-leizpig.de",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "gundogdu-kurmanji-complex-predicates-2015",
+      "Sugimura-Root-2012",
+      "Assmann-parasiticgaps-2012",
+      "ottur-malayalam-2024",
+      "hein-participle-allomorphy-2015",
+      "Khomchenkova-comitative-2019"
+    ]
+  },
+  {
+    "slug": "bloem-cluster-ordering-2015",
+    "title": "Lexical preferences in Dutch verbal cluster ordering",
+    "authors": [
+      "Jelke Bloem"
+    ],
+    "affiliation": [
+      "University of Amsterdam"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "70-92",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This study discusses lexical preferences as a factor affecting the word order variation in Dutch verbal clusters. There are two grammatical word orders for Dutch two-verb clusters, with no clear meaning difference. Using the method of collostructional analysis, I find significant associations between specific verbs and word orders, and argue that these associations must be encoded in the lexicon as lexical preferences. In my data, the word orders also show some semantic associations, indicating that there might be a meaning difference after all. Based on these findings, I conclude that both word orders are stored in the lexicon as constructions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "j.bloem@uva.nl",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Boef-relativization-2012",
+      "Boef-doubling-2012",
+      "dulecavelier-mirrorprinciple-2021",
+      "mauffray-heritagel2-2021",
+      "kawamitsu-verbal-2023",
+      "wangnakamura-honornominalization-2019"
+    ]
+  },
+  {
+    "slug": "dugas-morphological-negation-2015",
+    "title": "The semantics of morphological negation: nouns prefixed by non- in French",
+    "authors": [
+      "Edwige Dugas"
+    ],
+    "affiliation": [
+      "Université de Lille"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "93-113",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper addresses the semantics of nouns prefixed by non- in French from a construction morphology perspective (Booij 2010; Goldberg 2006; Croft & Cruse 2004). On the basis of a large corpus of data drawn from the TLFi, Frantext and the online press watch engine GlossaNet, I show that these lexemes can have three different readings, which I call ontological, complementary and contrary. I describe the constraints on the base which correspond to each of these interpretations and also demonstrate that each of the three interpretations have a preference for a particular type of base.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "edwige.dugas@gmail.com",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "waszu-zofelt-2025",
+      "muller-secondarymeaning-2019",
+      "bosch-negationcatalanspanish-2024",
+      "anderson-hedging-2013",
+      "kerr-gorwaa-2020",
+      "banerjee-wh-exclamatives-bangla-2022"
+    ]
+  },
+  {
+    "slug": "carvalho-locative-impersonal-2015",
+    "title": "A recipe on how to save a derivation. The Locative Impersonal in Brazilian Portuguese",
+    "authors": [
+      "Janayna Carvalho"
+    ],
+    "affiliation": [
+      "Universidade de São Paulo"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "114-134",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "In this paper, I examine a type of impersonal sentence in Brazilian Portuguese (BP) in which an arbitrary participant reading is present in spite of the absence of impersonal morphology. Given the fact that a locative expression is always present, I term these sentences locative impersonals. In contrast to previous analyses that treated the locative element as an adjunct, I claim that the locative is the external argument in BP locative impersonals. This assumption allows us to relate locative impersonals to a change in the features of INFL in BP.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "janaynacarvalho@usp.br",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "cardoso-contrastive-parallelism-2013",
+      "murphy-double-passivization-2015",
+      "noguchi-cleft-2020",
+      "gendersyncretism-bushan-2025",
+      "pinter-csak-2015",
+      "doering-modal-2014"
+    ]
+  },
+  {
+    "slug": "besnard-be-able-2015",
+    "title": "BE able to and the categorization of modal markers in English. A corpus-based study",
+    "authors": [
+      "Anne-Laure Besnard"
+    ],
+    "affiliation": [
+      "Université de Nantes"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "135-149",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "The aim of this paper is to investigate the role of BE X TO structures in English via the analysis of the quasi-modal BE ABLE TO. Based on previous accounts of the marker and its comparison with modal auxiliary CAN, defining characteristics are identified and contrasted with the description of other BE X TO structures such as BE ALLOWED TO and BE LIKELY TO. Consequently, the availability of non-finite forms along with property attribution and goal orientation stand out as unifying properties of the BE X TO quasi-modal category, which occupies a singular place within the modal system of English.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "anne-laure.besnard@univ-nantes.fr",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "tveitan-exclusive-2023",
+      "bleotu-denominals-2015",
+      "hein-participle-allomorphy-2015",
+      "Smith-collectivenouns-2013",
+      "blazheska-though-2021",
+      "genske-negation-2013"
+    ]
+  },
+  {
+    "slug": "mendia-ignorance-2015",
+    "title": "Conveying ignorance. Ignorance inferences with superlative numeral modifiers",
+    "authors": [
+      "Jon Ander Mendia"
+    ],
+    "affiliation": [
+      "UMass Amherst"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "150-174",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper investigates the inferences of ignorance that come with superlative numerals, like at least n and at most n. It argues that these are better understood as primary implicatures that are derived in a neo–Gricean framework together with a standard epistemic logic. In doing so, the paper supports the view of superlative numerals first advanced by Büring (2007) and further elaborated by Schwarz (2013), where the ignorance inferences that they convey are equal to those of a disjunctive expression, of the form exactly n or more/less than n.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "jmendiaaldam@linguist.umass.edu",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "korsah-inherent-2015",
+      "gerocs-hungarian-2013",
+      "eisenheld-zeronominals-2021",
+      "Ott-topicalization-2012",
+      "nakajima-lexicalambiguity-2020",
+      "Antomo-V2-2012"
+    ]
+  },
+  {
+    "slug": "bleotu-denominals-2015",
+    "title": "A Phrasal Spell-Out account of denominals in English and Romanian",
+    "authors": [
+      "Adina Camelia Bleotu"
+    ],
+    "affiliation": [
+      "University Ca' Foscari"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "175-199",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "The aim of this paper is to provide an account of denominal verbs in English and Romanian in a phrasal spell-out framework (Pantcheva 2011, Starke 2009, 2011), arguing that a single item spells out various terminals: dance, for instance, spells out <init, Proc, N>, and shelve spells out <init, Proc, Path, Place, N>. Such an analysis does not need to resort to silent items. Moreover, it can capture very well the difference between denominals in English and Romanian, where denominal verbs are constituted of a root and a verbal affix.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "cameliableotu@gmail.com",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Bašić-prepositions-2009",
+      "Schippers-whphrases-2012",
+      "shikunova-smallclause-2023",
+      "Boef-pronoundoubling-2013",
+      "besnard-be-able-2015",
+      "Smith-collectivenouns-2013"
+    ]
+  },
+  {
+    "slug": "pinter-csak-2015",
+    "title": "Preschoolers' interpretation of the focus particle csak 'only' in Hungarian",
+    "authors": [
+      "Lilla Pintér"
+    ],
+    "affiliation": [
+      "Pázmány Péter Catholic University"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "200-219",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "The paper reports on two experiments in which I tested whether Hungarian children can process the exhaustivity of sentences containing the focus particle csak 'only'. In line with previous studies concerning the interpretation of focus particles in different languages, I found that preschoolers at around the age of 5 are able to access the exhaustive meaning component of these constructions, though they are occasionally uncertain about which constituent they should associate this reading with. Interestingly, contrary to German-speaking children, they tend to expect the subject to be the focused constituent.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "pinter.lilla@nytud.mta.hu",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "gerocs-hungarian-2013",
+      "Assmann-parasiticgaps-2012",
+      "Szeredi-Hungarian-2012",
+      "waszu-zofelt-2025",
+      "driemel-exclamatives-2015",
+      "otani-japanese-2019"
+    ]
+  },
+  {
+    "slug": "harchaoui-lexical-innovations-2015",
+    "title": "Lexical innovations in the speech of adolescents in Oslo, Norway: How far can multilingual environments impact on language practices?",
+    "authors": [
+      "Sarah Harchaoui"
+    ],
+    "affiliation": [
+      "Université Paris-Sorbonne"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "220-242",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "Based on a series of examples from the UPUS-Project (Linguistic Development in Urban Environments), this paper provides an overview of the main innovative lexical forms, e.g. neologisms, use of slang, loan words especially from non-European languages, in the speech of adolescents living in Oslo, Norway and determines in which communicative settings they have appeared. Recent studies (cf. Drange 2002; Johannessen 2008) have identified two linguistic 'varieties', one of which is located in the Eastern parts of the city and is affected by multilingual environments. I argue that the multilingual dimension is both decisive for predicting the forms innovation takes and for justifying the motivations of speakers to innovate in their speech.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "sarah.neslie.harchaoui@gmail.com",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "gan-scope-hk-sign-language-2022",
+      "nakajima-lexicalambiguity-2020",
+      "berg-attitudes-2023",
+      "Faust-Vowels-2012",
+      "Fadlon-hidden-2012",
+      "Puigdollers-Cognate-2009"
+    ]
+  },
+  {
+    "slug": "klein-resumption-2015",
+    "title": "Syntactic Interaction in Resumption",
+    "authors": [
+      "Timo Klein"
+    ],
+    "affiliation": [
+      "Leipzig University"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "248-272",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper explores the feasability of a novel movement approach to resumption in relativization contexts. Previous analyses which often rely on base generation to create both the RP and operator independently suffer from certain look-ahead and backtracking issues which run counter to Minimalist tenets. The basic claim here is that a novel movement (or stranding) approach to grammatical resumption is able to derive crosslinguistic distribution patterns of gaps/resumptives via the interaction of primitive, independently necessary operations. Within a Minimalist, phase-based framework, Agree, Move, and Merge are ordered in transparent ways to account for gaps or resumptives in certain extraction positions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "timo.klein@uni-leipzig.de",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Assmann-parasiticgaps-2012",
+      "Harwood-subjectpositions-2012",
+      "mcknight-minimalsearch-2024",
+      "moore-westslavic-2024",
+      "gendersyncretism-bushan-2025",
+      "doliana-super-strong-2014"
+    ]
+  },
+  {
+    "slug": "senis-firth-2015",
+    "title": "The contribution of John Rupert Firth to the history of linguistics and the rejection of the phoneme theory",
+    "authors": [
+      "Angela Senis"
+    ],
+    "affiliation": [
+      "Université Paris Diderot"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "273-293",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This article is meant to show how central Firth's particular position towards the phoneme is, in terms of constitution of the concept of phonaesthesia as a direct answer to the flaws he denounced in the phoneme. The rejection of the phoneme theory then led to the constitution of a whole and coherent theory of language now known under the name Contextual theory of meaning or even Firthian linguistics. It has eventually resulted in the creation of an independent school of thinking, the London School of Linguistics that has influenced many generations of British linguists.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "angela@senis.org",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Patin-Tone-2009",
+      "khalid-casetheory-2022",
+      "List-multiplesequence-2012",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Chang-pronominalordering-2012",
+      "nakajima-lexicalambiguity-2020"
+    ]
+  },
+  {
+    "slug": "stankovic-adjectives-left-periphery-2015",
+    "title": "Adjectives at the left periphery as an indication of a DP in Serbo-Croatian",
+    "authors": [
+      "Branimir Stanković"
+    ],
+    "affiliation": [
+      "University of Niš"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "294-315",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "The paper proposes a determiner phrase (henceforth DP) analysis of nominal expressions in article-less Serbo-Croatian, arguing that, besides Cinque's (2010) indirect and direct modification adjectives, there is also a third type of modification at the left periphery. The acceptability of pseudo-oxymoronic phrases such as novi stari (narodnjački) hit 'a new/another old (folk) hit' indicates that the two antonymous adjectives should be analyzed at different functional projections. A closed set of analyzed adjectives, in their relevant interpretations, value d-features, always precede other adjectives, including comparatives and superlatives, as well cardinal/collective numbers, and, most importantly, they block left branch extraction. The mentioned empirical facts suggest that these adjectives might be positioned in the hypothesized determiner phrase.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "branimir.stankovic@filfak.ni.ac.rs",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "kumari-honorificity-nominal-2022",
+      "bavarian-menegon-2025",
+      "Li-Adjectives-2009",
+      "saeed-arabic-2023",
+      "Wierzba-contrastivetopics-2013",
+      "gjersoe-kikuyu-phrases-2015"
+    ]
+  },
+  {
+    "slug": "murphy-double-passivization-2015",
+    "title": "Double Passivization in Turkish: A Structure Removal Approach",
+    "authors": [
+      "Andrew Murphy"
+    ],
+    "affiliation": [
+      "University of Leipzig"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "316-339",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper deals with 'double passivization' in Turkish, an impersonal passive construction with two occurrences of passive morphology and two instances of argument reduction. The aim will be to adequately capture the fact that each instance of passivization seems to be mirrored by a morphological reflex on the verb. I will adopt the theory of passivization in Müller (2014, 2015a,b), who assumes that passivization involves merging and subsequently removing the external argument from the structure. The analysis of double passivization assumes two Voice projections above vP, each headed by a passive suffix. This approach will allow us to capture the relevant data for Turkish and it will also be shown how this approach extends to another case of double passivization in Lithuanian as well as antipassive constructions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "andrew.murphy@uni-leipzig.de",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Georgi-casesplits-2012",
+      "Pineda-ditransitive-2013",
+      "Wierzba-contrastivetopics-2013",
+      "Martín-Dative-2012",
+      "Puigdollers-Cognate-2009",
+      "Arylova-AnchorP-2012"
+    ]
+  },
+  {
+    "slug": "munoz-perez-copy-theory-2015",
+    "title": "Three explanatory challenges for Copy Theory",
+    "authors": [
+      "Universidad de Buenos Aires",
+      "Georg-August-Universität Göttingen"
+    ],
+    "affiliation": [
+      "University College London"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "340-359",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper advances a new approach to the syntax-PF mapping of movement chains. It is argued that Non-Distinctiveness of copies can be defined as an inclusion relation between the features of syntactic constituents at the interfaces. The assumptions behind such a definition (i.e., Late Insertion and unvalued features being 'invisible' at the interfaces) allow deriving (i) that only one link per chain is pronounced and (ii) that such a link must be the higher one in the structure. Wh-copying and low copy pronunciation phenomena are also shown to be captured by the proposed system.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "cmunozperez@filo.uba.ar",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Boef-pronoundoubling-2013",
+      "Schippers-whphrases-2012",
+      "Sóskuthy-Voicing-2008",
+      "Campanini-causatives-2013",
+      "Chernova-echoquestions-2013",
+      "Assmann-parasiticgaps-2012"
+    ]
+  },
+  {
+    "slug": "woods-please-2015",
+    "title": "Modelling the syntax-discourse interface. A syntactic analysis of please",
+    "authors": [
+      "Rebecca Woods"
+    ],
+    "affiliation": [
+      "University of York"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "360-382",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "Many scholars have proposed a Speech Act Phrase (SAP) high in the left periphery that is said to encode aspects of the discourse context, including illocutionary force. However, the potential identity of the head of this projection is up for debate. I propose that please is a candidate for the overt SA head in English. Distributional, interpretive and acquisition data show that there are (minimally) two types of syntactically-integrated please. One is a functional head that marks an utterance as a request. The other is an adverbial whose use is determined by contextual factors and that marks politeness.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "rlw523@york.ac.uk",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Wierzba-contrastivetopics-2013",
+      "woods-orientation-2014",
+      "Boxell-whdependencies-2012",
+      "zheng-null-subjects-2014",
+      "Ott-topicalization-2012",
+      "kim-basque-2021"
+    ]
+  },
+  {
+    "slug": "gundogdu-kurmanji-complex-predicates-2015",
+    "title": "Noun-Verb Complex Predicates In Kurmanji Kurdish. A syntactic Account",
+    "authors": [
+      "Songül Gündoğdu"
+    ],
+    "affiliation": [
+      "Boğaziçi University"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "383-405",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper analyzes the argument structure of N(oun)-V(erb) complex predicates in the Muş dialect of Kurmanji and makes three claims: (i) N-V complex predicates (CPrs) are like unergative verbs in the sense of Hale & Keyser (2002); they are underlyingly transitive structures in which an agentive light verb selects for (or incorporates into) its nominal object, (ii) the noun element in these CPrs is not a true direct object although it seems to saturate the argument requirements of the CPr, and (iii) the existence of unergative CPrs and the behaviors of their noun element point to a different objecthood status in Kurmanji syntax.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "songul.gundogdu@boun.edu.tr",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Sugimura-Root-2012",
+      "korsah-inherent-2015",
+      "Sugimura-Incorporation-2009",
+      "Knyazev-čtoclauses-2013",
+      "kumari-honorificity-nominal-2022",
+      "barany-hungarian-objective-2013"
+    ]
+  },
+  {
+    "slug": "driemel-exclamatives-2015",
+    "title": "Exclamatives and Factivity. A new test based on VERUM Focus",
+    "authors": [
+      "Imke Driemel"
+    ],
+    "affiliation": [
+      "Humboldt-Universität zu Berlin",
+      "Bergische Universitat Wuppertal"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "406-426",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This paper explores the information structural status of exclamative utterances. Specifically, it addresses the issue of whether the propositional content of exclamatives is factive or not. I argue that standard factivity tests are not able to provide an answer to this question because either they are unreliable or they cannot be applied to exclamatives. I propose a new test that involves VERUM focus: exclamatives show the same kind of VERUM focus distribution as factive complements. Furthermore, focus on the illocution of exclamatives does not emphasize the truth of the proposition, contrary to illocution focus in assertions.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "driemel@uni-wuppertal.de",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "noguchi-kotoga-2021",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "pinter-csak-2015",
+      "Hayashi-teclauses-2013",
+      "Döring-adverbs-2012",
+      "Antomo-embeddedroot-2012"
+    ]
+  },
+  {
+    "slug": "gjersoe-kikuyu-phrases-2015",
+    "title": "Phonological Phrases in Kikuyu",
+    "authors": [
+      "Siri Gjersøe"
+    ],
+    "affiliation": [
+      "Leipzig University"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "449-471",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "This study examines two different floating L tones (L) in Kikuyu (Bantu E51): A lexical L and a phrasal L which appears in assertive utterances. Based on previous studies, this paper proposes a unified analysis of the domain of the two floating L tones within the syntax-phonology interface. The main claim is that they attest different strategies to trigger downstep at the right edge of a phonological phrase while no downstep is triggered internally of this domain. New data and different configurations with nominal modifying adjectives is discussed with the outcome that adjectives which follow other modifiers phrase alone. This is conform with the proposed analysis when taking the syntax of adjectives in Kikuyu into consideration.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "siri moen.gjersoe@uni-leipzig.de",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "stankovic-adjectives-left-periphery-2015",
+      "mcknight-minimalsearch-2024",
+      "splitunified-wang-2025",
+      "Baturay-loanwords-2013",
+      "Ott-topicalization-2012",
+      "jin-classifiers-2023"
+    ]
+  },
+  {
+    "slug": "enguehard-stress-edge-2015",
+    "title": "Stress as a morphological edge",
+    "authors": [
+      "Guillaume Enguehard"
+    ],
+    "affiliation": [
+      "Université Paris Diderot-Paris 7"
+    ],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "472-492",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "In this paper, I argue that stress is not a phonological primitive. In the CVCV framework, both stress and boundaries have a skeletal exponent that conditions the realization of the segments. I show that in Old Norse, there is an equivalence between the skeletal exponent of stress and the skeletal exponent of the word boundary. By arguing that stress results from the word boundary, the fixed initial stress of Old Norse can be accounted for. Then, I support this hypothesis by showing that Proto-Germanic post-coda voiceless fricatives cannot be accounted for if we do not assume that stress is an internal boundary.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "g.enguehard@gmail.com",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "Sóskuthy-Voicing-2008",
+      "guzman-naranjo-naturalness-2015",
+      "Baturay-loanwords-2013",
+      "andermann-potawatomi-2024",
+      "Hayashi-teclauses-2013",
+      "Wierzba-contrastivetopics-2013"
+    ]
+  },
+  {
+    "slug": "hein-participle-allomorphy-2015",
+    "title": "English participle allomorphy as inflection classes",
+    "authors": [
+      "Johannes Hein"
+    ],
+    "affiliation": [],
+    "console_venue": "University Paris Diderot-Paris 7",
+    "year": 2015,
+    "pages": "509-529",
+    "edition": "ConSOLE 23",
+    "keywords": [],
+    "abstract": "Based on English participial allomorphy, Embick (2003) proposes a division of vocabulary insertion into an inner cycle targeting root-attached and an outer cycle targeting all other terminal nodes. However, this division leads to (i) a weakening of the notion of syncretism and (ii) a blurring of structural vs. linear locality. In this paper, I propose an account couched in a slightly extended version of Keine's (2013) variant of Distributed Morphology which makes use of 'accessibility relations' between exponents such that only a subset of all exponents competes for insertion. This has two advantages: on the one hand, it correctly accounts for English participial allomorphy but avoids split insertion and its theoretically problematic implications. On the other hand, it is able to deal with inflection classes that have been notoriously problematic for post-syntactic morphology.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console23-updated.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Kate Bellamy",
+      "Elena Karvovskaya",
+      "Martin Kohlberger",
+      "George Saad"
+    ],
+    "related_slugs": [
+      "korsah-inherent-2015",
+      "tveitan-exclusive-2023",
+      "Smith-collectivenouns-2013",
+      "Zimmermann-grammarcompetition-2013",
+      "Assmann-parasiticgaps-2012",
+      "chark-lateinsertion-2019"
+    ]
+  },
+  {
+    "slug": "barnickel-syntactically-2014",
+    "title": "Syntactically marked Switch-Reference: Evidence from German",
+    "authors": [
+      "Katja Barnickel"
+    ],
+    "affiliation": [
+      "University of Leipzig"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "1-18",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "This paper makes two claims: first I will show that languages have the strategy to mark switchreference (SR) syntactically. This finding is interesting because traditionally switch-reference marking has been considered to be a typically morphological phenomenon. I provide evidence from a corpus-based study that in German SR is marked by the order of the matrix clause and the subordinate clause (linearization). Secondly I account for the observation that SR marking in German does not seem to be a fully grammaticalized phenomenon, but that nevertheless it is reflected in clear statistical tendencies. I provide a modeling of the statistically preferred option to mark SR in the framework of Stochastic Optimality Theory.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "katja.barnickel@uni-leipzig.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Deichsel-dieser-2012",
+      "Pauly-umclauses-2013",
+      "Sutter-umlaut-2013",
+      "Antomo-V2-2012",
+      "waszu-zofelt-2025",
+      "Schenner-Evidentials-2009"
+    ]
+  },
+  {
+    "slug": "bluemel-forked-2014",
+    "title": "On forked chains in ATB-movement: Defending and newly implementing a traditional notion",
+    "authors": [
+      "Andreas Blümel"
+    ],
+    "affiliation": [
+      "Karl-Franzens University Graz"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "19-38",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "In this paper, I argue for the existence of 'forked chains' in Across-the-board movement. Phenomena from German like across the board WH-copying, case matching and remnant movement provide evidence for their existence, which runs contrary to a recent trend in the literature to deny the existence of forked chains. As for the analytical implementation, I suggest recasting ATB in terms of minimal search for the displaced element, applying to a strictly symmetrical, exocentric syntactic object. In conjunction with an independently suggested parallelism constraint on coordination, ATB emerges as the ambiguous identification of a copy in phase edges.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "a.bluemel@gmx.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "szarvas-coreference-2024",
+      "atb-kasai-2025",
+      "Truswell-whmovement-2008",
+      "Ott-topicalization-2012",
+      "munoz-perez-copy-theory-2015",
+      "Chernova-echoquestions-2013"
+    ]
+  },
+  {
+    "slug": "cichosz-experiencer-2014",
+    "title": "Polish experiencer and affectedness datives as adjuncts",
+    "authors": [
+      "Natalia Cichosz"
+    ],
+    "affiliation": [
+      "Department of Linguistics, University College London"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "39-57",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "In this paper I will propose an analysis of optional dative nominals that occur in the sentence-initial position in a number of structures in Polish. Contrary to proposals inspired by Pylkkänen's (2002, 2008) applicative model, I claim that high datives in Polish should be analysed as adjuncts that select the structure they combine with on the basis of that structure's eventive semantics. I will argue for a specific internal structure of all dative-inflected nominals that will be able to account for various differences between optional and argument datives on the one hand and dative and accusative nominals on the other.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "n.cichosz@ucl.ac.uk",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "kwapiszewski-aspect-2020",
+      "hein-participle-allomorphy-2015",
+      "Wierzba-contrastivetopics-2013",
+      "Sugimura-Incorporation-2009",
+      "Savu-rhotictap-2013",
+      "Ratiu-Questions-2012"
+    ]
+  },
+  {
+    "slug": "doliana-super-strong-2014",
+    "title": "The super-strong Person-Case Constraint: Scarcity of resources by scale-driven Impoverishment",
+    "authors": [
+      "Aaron Doliana"
+    ],
+    "affiliation": [
+      "University of Leipzig"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "58-80",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "Kambera, a Malayo-Polynesian language, shows a new version of the Person-Case Constraint (PCC), disallowing any combination of phonologically weak objects except the one where the indirect object is 1st/2nd person and the direct object is 3rd person. Recent minimalist accounts fail to capture this new pattern, which, I claim, indicates the existence of a scalar continuum within the constraint's typology. In this paper, I account for this new version as a syntactic rule-interaction effect between Agree and scale-driven impoverishment. I claim that with this mechanism, set along the lines of an Optimality Theoretic version of the Minimalist Program, the whole typology of the PCC can be accounted for.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "aaron.doliana@studserv.uni-leipzig.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "morley-chamorro-2024",
+      "saeed-arabic-2023",
+      "gendersyncretism-bushan-2025",
+      "hein-participle-allomorphy-2015",
+      "Keine-Impoverishment-2012",
+      "chark-lateinsertion-2019"
+    ]
+  },
+  {
+    "slug": "doering-modal-2014",
+    "title": "How modal particles and discourse relations interact: Empirical evidence",
+    "authors": [
+      "Sophia Döring"
+    ],
+    "affiliation": [
+      "Humboldt-Universität zu Berlin"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "81-94",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "This paper looks at German modal particles from the perspective of discourse structure. Using the discourse relations proposed by Rhetorical Structure Theory, the interaction between these relations and modal particles is analysed. I will show for two particles (ja and doch) that (a) the occurrence of these particles correlates with certain discourse relations (corpus study), and (b) that when given the choice between these particles, native speakers choose the particle depending on the discourse relation. The results are to be explained in a theory of Common Ground management.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "s.doering@rz.hu-berlin.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "holtz-tddeletion-2021",
+      "Schaden-AspectualRelations-2008",
+      "zheng-null-subjects-2014",
+      "barnickel-syntactically-2014",
+      "lubomierski-multimodal-2023",
+      "meisenbichler-temporal-2023"
+    ]
+  },
+  {
+    "slug": "franco-voice-2014",
+    "title": "Acoustic and perceptual parameters of voice quality relating to sagittal postural alignment: A study of the preliminary results of normal and dysphonic Portuguese speakers",
+    "authors": [
+      "Débora Franco"
+    ],
+    "affiliation": [
+      "Escola Superior de Saúde do Instituto Politécnico de Leiria",
+      "Universidade de Lisboa"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "95-113",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "The characterization of a speaker's vocal quality can permit the identification of his particular phonetic settings and the use of his anatomic mechanism. I discovered by examining a corpus of European Portuguese that production and perception is significantly influenced by spine posture: fundamental frequency for all evaluated vocal behaviors, formants, roughness and grade of vocal alteration for vowels, and asthenia parameter for sequential speech, especially in the normal speakers group. The patterns of sagittal posture of the spine represent extra-linguistic characteristics that can supply essential information to characterize the individuality of vocal quality. They are essential in the study of dysphonia.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geestesweteschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "debora.franco@hotmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "harchaoui-lexical-innovations-2015",
+      "zheng-null-subjects-2014",
+      "Savu-rhotictap-2013",
+      "Schenner-Evidentials-2009",
+      "List-multiplesequence-2012",
+      "russocardona-toughconstructions-2024"
+    ]
+  },
+  {
+    "slug": "klose-temporal-2014",
+    "title": "A temporal evidential in Aymara",
+    "authors": [
+      "Claudius Klose"
+    ],
+    "affiliation": [
+      "Potsdam University"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "114-132",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "Evidentiality has received various analyses, most of them modal or illocutionary ones. Data from Aymara give substantiation to another kind, a temporal evidential analysis. The far distant paradigm is described in the literature as marking indirect evidentiality. In this article it is analysed as introducing a learning time which follows the reference time, thereby giving rise to past, mirative and indirect evidential readings. This analysis also accounts for its uses in combination with negation or stative predicates in direct evidential contexts. The learning time does not constitute at-issue meaning, as it projects over propositional-level operators.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "cklose@uni-potsdam.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "zhang-aspectual-2019",
+      "pena-catalansignlanguage-2019",
+      "meisenbichler-temporal-2023",
+      "stankovic-adjectives-left-periphery-2015",
+      "Assmann-possessoradvancement-2012",
+      "zhao-presentperfect-2019"
+    ]
+  },
+  {
+    "slug": "philippova-p-omission-2014",
+    "title": "P-omission under sluicing, [P clitic] and the nature of P-stranding",
+    "authors": [
+      "Tatiana Philippova"
+    ],
+    "affiliation": [
+      "Ben-Gurion University of the Negev"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "133-155",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "This paper discusses preposition (P) omission under sluicing (John talked with someone but I don't know _ who) and the ability of P to take a clitic pronoun as a complement (We talked about'im), correlated with P-stranding (the ability of P to stay in situ when its complement undergoes movement, Who are you talking with_?) through generalizations that were proposed in Merchant (2001) and Abels (2003a,b) respectively. These studies establish P-stranding as a necessary condition for both phenomena, but I show that the correlations may stem instead from the ability of Ps to project independent Prosodic Words in the P-stranding languages.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "philippo@post.bgu.ac.il",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "basque-macazaga-2025",
+      "herbeck-backward-2013",
+      "Antomo-embeddedroot-2012",
+      "Bašić-prepositions-2009",
+      "Sóskuthy-Voicing-2008",
+      "barman-learnability-2023"
+    ]
+  },
+  {
+    "slug": "silva-gapping-2014",
+    "title": "Gapping in European Portuguese",
+    "authors": [
+      "Gonçalo Silva"
+    ],
+    "affiliation": [
+      "Faculdade de Letras da Universidade de Lisboa"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "156-166",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "Gapping has been classically characterized as an ellipsis. However, recent literature (Johnson 2009) has regarded it as Across-the-Board movement in the English language. This paper aims to analyze these proposals and giving its own for European Portuguese, emphasizing some of the differences between the two languages as the source for these contrasts.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "Goncalo.bl.silva@gmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "cardoso-contrastive-parallelism-2013",
+      "zheng-null-subjects-2014",
+      "Puigdollers-Cognate-2009",
+      "hein-participle-allomorphy-2015",
+      "headraising-yamamoto-2025",
+      "korsah-inherent-2015"
+    ]
+  },
+  {
+    "slug": "thomas-split-ergativity-2014",
+    "title": "Split ergativity in subordination as a consequence of defectivity",
+    "authors": [
+      "Daniela Thomas"
+    ],
+    "affiliation": [
+      "University of Leipzig"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "167-190",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "In this paper I will argue, that due to empirical reasons, the existing analyses for split ergativity in subordination cannot be used to explain the data from Jacaltec, Sierra Popoluca and Päri. It can be observed that the phenomenon is accompanied by aspectlessness. My new approach towards deriving these data is based on a new principle for case assignment in intransitive contexts that makes further reference to aspectlessness. It applies to the pre-syntactic numeration and guides the distribution of case features, leading to the assignment of the correct case.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "daniela.thomas@studserv.uni-leipzig.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Ott-topicalization-2012",
+      "Assmann-parasiticgaps-2012",
+      "barany-hungarian-objective-2013",
+      "kerr-gorwaa-2020",
+      "munoz-perez-copy-theory-2015",
+      "Blümel-wasfür-2012"
+    ]
+  },
+  {
+    "slug": "vardomskaya-subjective-2014",
+    "title": "Subjective adjectives as a cooperation problem",
+    "authors": [
+      "Tamara Vardomskaya"
+    ],
+    "affiliation": [
+      "University of Chicago"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "191-204",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "I discuss the pragmatics of subjectivity, showing that the subjectivity of multdimensional predicates maps to how well (how poorly) speakers can communicate the component dimensions — evidence for the predicate's truth — to one another. The communicability of evidence for the truth of the predicate is what separates subjective predicates from objective predicates, and allows for the fluidity of the divide in certain contexts. This also connects the subfield of PPT research to the subfield of evidentiality, as the two seemingly disparate areas are both concerned with the interface between semantics and pragmatics, establishing the relationship between content, context, communication and truth.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "vardomskayat@uchicago.edu",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Wolf-Epistemic-2012",
+      "Li-Adjectives-2009",
+      "saeed-arabic-2023",
+      "stankovic-adjectives-left-periphery-2015",
+      "Savu-rhotictap-2013",
+      "Boef-pronoundoubling-2013"
+    ]
+  },
+  {
+    "slug": "woods-orientation-2014",
+    "title": "The syntax of orientation shifting: Evidence from English high adverbs",
+    "authors": [
+      "Rebecca Woods"
+    ],
+    "affiliation": [
+      "University of York"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "205-230",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "This paper reviews new data supporting the inclusion of a Speech Act Phrase in the left periphery. Illocutionary and evidential adverbs in English shift orientation from speakers in declarative sentences to addressees in yes-no interrogative sentences. This orientation shift falls out of independently motivated principles: the adverbs contain a logophorically-sensitive PRO subject which is controlled by a syntactic representation of the discourse participants contained in a Speech Act Phrase high in the CP layer. It will be suggested that clause type modulates which discourse participants are available; only speakers are available in declaratives whereas addressees are also available in interrogatives.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "rlw523@york.ac.uk",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "woods-please-2015",
+      "milosavljevic-ga-serbian-2022",
+      "Smith-collectivenouns-2013",
+      "Wierzba-contrastivetopics-2013",
+      "zheng-null-subjects-2014",
+      "muller-secondarymeaning-2019"
+    ]
+  },
+  {
+    "slug": "zheng-null-subjects-2014",
+    "title": "Acquisition of null subjects in European Portuguese by Chinese learners: Syntax and Discourse",
+    "authors": [
+      "Yi Zheng"
+    ],
+    "affiliation": [
+      "Faculty of Letters of the University of Lisbon"
+    ],
+    "console_venue": "University of Lisbon",
+    "year": 2014,
+    "pages": "231-254",
+    "edition": "ConSOLE 22",
+    "keywords": [],
+    "abstract": "This paper investigates whether Chinese learners acquire both the syntactic and discourse-pragmatic properties of null subjects in European Portuguese (EP). Twenty-eight Chinese intermediate and advanced learners of EP (two groups of 14 participants), as well as a control group of 14 native speakers of EP, participated in an off-line questionnaire, which aimed to investigate their knowledge on the occurrence of null and overt subjects in EP. The results show that Chinese learners of EP can acquire the syntactic properties of null subjects yet have difficulties in acquiring the discourse-pragmatic properties of the null and overt subjects in the language.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxii.pdf",
+    "corresponding_email": "zhengyi1728@hotmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "cardoso-contrastive-parallelism-2013",
+      "fuellenbach-lateinsertion-2019",
+      "alatassi-objectclitics-2024",
+      "silva-gapping-2014",
+      "doering-modal-2014",
+      "woods-please-2015"
+    ]
+  },
+  {
+    "slug": "anderson-hedging-2013",
+    "title": "Hedging verbs and nouns using an alternative semantics",
+    "authors": [
+      "Curt Anderson"
+    ],
+    "affiliation": [
+      "Michigan State University"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "1-20",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "In this paper I provide a formal analysis of the English hedge sorta, concentrating on its use with verb phrases. I bring to light new data showing how sorta can hedge the direct object of creation verbs and some intensional verbs without combining with the direct object directly, and that the ability to hedge a direct object from a distance is conditioned by verb type and the type of determiner with the direct object. I build an analysis using Morzycki's (2011) alternative semantics implementation of the pragmatic halos of Lasersohn (1999).",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "semra_baturay@yahoo.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "spalek-calculating-scales-context-2013",
+      "dugas-morphological-negation-2015",
+      "Dobler-Causative-2009",
+      "Wierzba-contrastivetopics-2013",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "bosch-negationcatalanspanish-2024"
+    ]
+  },
+  {
+    "slug": "barany-hungarian-objective-2013",
+    "title": "What triggers the Hungarian objective paradigm? A structural and feature-based account",
+    "authors": [
+      "András Bárány"
+    ],
+    "affiliation": [
+      "University of Cambridge"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "21-44",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "I argue that neither purely structural (e.g. Bartos 1999) nor purely semantic approaches (e.g. Coppock 2013) to the distribution of Hungarian verb paradigms can account for the observed data. I propose, following Bartos (1999) that the structure of the direct object (DO) noun phrase is crucial, while certain semantic features of the DO also have to be taken into account. I claim that the role of [DEF] and the semantic effects observed by Coppock (2013) are mostly correct but that her analysis makes false predictions regarding possessive structures. Taking into account both structural and interpretative factors, I propose an approach covering a wider range of attested data.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "ab2081@cam.ac.uk",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Assmann-parasiticgaps-2012",
+      "Sugimura-Root-2012",
+      "Sóskuthy-Voicing-2008",
+      "saeed-arabic-2023",
+      "Wierzba-contrastivetopics-2013",
+      "gundogdu-kurmanji-complex-predicates-2015"
+    ]
+  },
+  {
+    "slug": "berezovskaya-acquisition-2013",
+    "title": "Acquisition of Russian Comparison Constructions: Semantics meets first language acquisition",
+    "authors": [
+      "Polina Berezovskaya"
+    ],
+    "affiliation": [
+      "Eberhard Karls Universität Tübingen"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "45-65",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper brings together insights from cross-linguistic research on grammatical variation in comparison constructions (Beck et al. 2009), first language acquisition and the 'standard analysis' of comparison constructions based on von Stechow (1984), Heim (2001) and Beck (2011). The cross-linguistic parameters make predictions for the acquisition of Russian comparison constructions. I worked out the order of their acquisition based on predictions made by the theory and specific characteristics of Russian degree constructions. I tested the predictions against a longitudinal corpus of two bilingual children. An unexpected result is the late acquisition of all evaluative degree constructions but the positive.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "polina.berezovskaya@uni-tuebingen.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Birger-Unaccusatives-2009",
+      "shikunova-smallclause-2023",
+      "alatassi-objectclitics-2024",
+      "pena-catalansignlanguage-2019",
+      "banerjee-wh-exclamatives-bangla-2022",
+      "russocardona-toughconstructions-2024"
+    ]
+  },
+  {
+    "slug": "cardoso-contrastive-parallelism-2013",
+    "title": "Contrastive parallelism in European Portuguese: Prosodic features of a cohesion mechanism",
+    "authors": [
+      "Aida Cardoso"
+    ],
+    "affiliation": [
+      "Universidade de Lisboa"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "66-87",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper focuses on the encoding of contrast in European Portuguese (EP), specifically by analysing contrastive parallelism structures, which seem to be crucial in the construction of the type of discourse that will be analysed: the argumentative discourse. Hence, my main goal is discussing how contrast is prosodically encoded in these structures and to relate the results with previous ones for other languages. The data show that contrastive parallelism has specific acoustic properties and that there is no one-to-one relation between pitch accents and these structures. Therefore, the results seem to indicate that the prosodic encoding of such structures is gradient.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "aidacard@gmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "zheng-null-subjects-2014",
+      "Wierzba-contrastivetopics-2013",
+      "silva-gapping-2014",
+      "Baturay-loanwords-2013",
+      "carvalho-locative-impersonal-2015",
+      "Puigdollers-Cognate-2009"
+    ]
+  },
+  {
+    "slug": "genske-negation-2013",
+    "title": "Negation as a formal flexible feature in children's grammar: A case study investigating cross-linguistic transfer in a German-English bilingual child",
+    "authors": [
+      "Katharina Genske"
+    ],
+    "affiliation": [
+      "Macquarie University",
+      "Universität Leipzig"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "88-103",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper investigates the occurrence and resolution of non-adult like negative utterances in a case study focussing on a German-English bilingual child. In line with the Interface Hypothesis (IH), the data show that initially word order properties of German interfere with the placement of the negative marker in English. In accordance with the Formal Flexible Feature Hypothesis (FFFH), I propose that children initially treat all negation as adverbial, before incorporating a head form of negation into their grammar. This entails that there is no a priori availability of a functional projection NegP in children's grammar, making negation a formal flexible feature.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "katharina.genske@gmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Zimmermann-grammarcompetition-2013",
+      "Antomo-embeddedroot-2012",
+      "Smith-collectivenouns-2013",
+      "morley-chamorro-2024",
+      "Kirby-Acquisition-2012",
+      "tveitan-exclusive-2023"
+    ]
+  },
+  {
+    "slug": "gerocs-hungarian-2013",
+    "title": "How do Hungarian preschoolers interpret number words?",
+    "authors": [
+      "Mátyás Gerőcs",
+      "Lilla Pintér"
+    ],
+    "affiliation": [
+      "Pázmány Péter Catholic University"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "104-122",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "In addition to their 'exactly n' interpretation, numerals can receive non-exact readings, like 'at least n'. Since in Hungarian the interpretation of numerals is claimed to be determined by their syntactic position we carried out three experiments with Hungarian preschoolers to verify whether they can make use of structural information when interpreting numerals. We found that irrespective of syntactic structure, they strongly preferred the upper-bounded interpretation and the lower-bounded reading was not (or hardly) accessible to them. We conclude that the findings provide support for the view that the default meaning of numerals is in fact 'exactly n'.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "mgerocs@gmail.com",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "pinter-csak-2015",
+      "toth-relatives-2019",
+      "nakajima-lexicalambiguity-2020",
+      "sarvas-suffixes-hungarian-2022",
+      "guzman-naranjo-naturalness-2015",
+      "Hayashi-teclauses-2013"
+    ]
+  },
+  {
+    "slug": "herbeck-backward-2013",
+    "title": "(Backward) Control and Clitic Climbing: On the Deficiency of Non-finite Domains in Spanish and Catalan",
+    "authors": [
+      "Peter Herbeck"
+    ],
+    "affiliation": [
+      "University of Salzburg"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "123-145",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper investigates the interaction between two phenomena related to the transparency status of nonfinite complements in Spanish and Catalan: Clitic Climbing, which has been taken as a test for restructuring, and Backward Control, which has been interpreted as empirical evidence for the application of subject raising in control configurations. I will show (i) that the partial overlap between the two phenomena indicates that Backward Control is only apparent, being the side effect of verbal complex formation (Ordóñez 2009) and (ii) that there are basically three types of control infinitives with respect to transparency phenomena.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "Peter.herbeck@sbg.ac.at",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "bosch-negationcatalanspanish-2024",
+      "waszu-zofelt-2025",
+      "muller-secondarymeaning-2019",
+      "milosavljevic-ga-serbian-2022",
+      "ruda-missing-human-objects-2013",
+      "Boxell-whdependencies-2012"
+    ]
+  },
+  {
+    "slug": "hohn-allomorphy-2013",
+    "title": "Contextually conditioned allomorphy and the Basque locative: Spelling out the Basque extended nominal projection",
+    "authors": [
+      "Georg F.K. Höhn"
+    ],
+    "affiliation": [
+      "University of Cambridge"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "146-170",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper proposes a non-paradigmatic analysis of the Basque case system that facilitates a unified analysis of two anomalies in the distribution of the locative in Basque, namely the unexpected lack of exponence of the definite singular locative throughout the directional cases and in the scope of the adnominal linker -ko. These anomalies are analysed as effects of contextually conditioned zero spell-out of the locative morpheme and the singular determiner. Based on Embick's (2010) theory of cyclic spell-out, the present analysis predicts two cross-linguistic restrictions on morpheme interactions in the nominal domain.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "gfkh3@cam.ac.uk",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "kerr-gorwaa-2020",
+      "kumari-honorificity-nominal-2022",
+      "Boef-pronoundoubling-2013",
+      "stankovic-adjectives-left-periphery-2015",
+      "Schippers-whphrases-2012",
+      "basque-macazaga-2025"
+    ]
+  },
+  {
+    "slug": "huebl-indexicals-german-sign-language-2013",
+    "title": "Context shift (im)possible: Indexicals in German Sign Language",
+    "authors": [
+      "Annika Hübl"
+    ],
+    "affiliation": [
+      "Georg-August-Universität Göttingen"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "171-183",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "Role shift is a sign language specific mode of quotation, combining properties of direct and indirect discourse. By using non-manual markers, sign languages offer the possibility to shift into the role of the person whose utterances or thoughts are reported. There is consensus that personal indexicals are shiftable in sign languages. This means that signers shift their reference to the context of the reported utterance in the scope of role shift. However, relatively little is known about the interpretation of local and temporal indexicals in role shift. This paper presents an analysis of elicited examples in German Sign Language and ascribes their inhomogeneous behaviour to modality-specific phonological properties of the particular signs. To describe the meaning of the indexicals, I build on basic assumptions and formal approaches that have been developed for the analysis of free indirect discourse.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "annika.huebl@phil.uni-goettingen.de",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "gan-scope-hk-sign-language-2022",
+      "pena-catalansignlanguage-2019",
+      "waszu-zofelt-2025",
+      "holtz-tddeletion-2021",
+      "fujii-verbless-2023",
+      "Deichsel-dieser-2012"
+    ]
+  },
+  {
+    "slug": "mckillen-de-re-de-dicto-processing-2013",
+    "title": "Deriving De Re/De Dicto Interpretations in Online Sentence Processing",
+    "authors": [
+      "Alanah McKillen"
+    ],
+    "affiliation": [
+      "McGill University"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "184-205",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "This paper reports the results of an experiment designed to adjudicate between two theoretical accounts of de re/de dicto ambiguity: the scope account (Montague 1973; Russell 1905) and the world variable binding account (Percus 2000; von Fintel & Heim 2011). The results are partly compatible with the scope account and completely incompatible with the world variable account, thus seeming to favour the former. This conclusion is not without complications, and I suggest there are two potential sources for the problematic results: a learning effect or a lexical surprisal effect. Once we take these factors into consideration, the observed incompatibility may not be as problematic as first thought.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "alanah.mckillen@mail.mcgill.ca",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Xiqués-presentperfect-2013",
+      "Wierzba-contrastivetopics-2013",
+      "Fadlon-hidden-2012",
+      "szarvas-coreference-2024",
+      "biswasmukherjee-lexicaldecisiontask-2024",
+      "Assmann-parasiticgaps-2012"
+    ]
+  },
+  {
+    "slug": "ruda-missing-human-objects-2013",
+    "title": "Missing [HUMAN] objects: active and SE morphology investigated",
+    "authors": [
+      "Marta Ruda"
+    ],
+    "affiliation": [
+      "Jagiellonian University in Krakow"
+    ],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "206-228",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "In this paper, two constructions which have been described in the literature as involving missing/null objects denoting indeterminate humans will be compared with respect to their morphosyntactic and interpretational properties. The discussion will focus on Polish and will show that the relevant similarities and differences between the two constructions can be derived on the assumption that the interpretation of the internal theta role is partially achieved by different means in the two contexts and that there are differences between the constructions as far as the composition of the extended verbal projection is considered.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "marta.ruda@uj.edu.pl",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Puigdollers-Cognate-2009",
+      "kwapiszewski-aspect-2020",
+      "herbeck-backward-2013",
+      "Assmann-parasiticgaps-2012",
+      "Antomo-embeddedroot-2012",
+      "Bašić-prepositions-2009"
+    ]
+  },
+  {
+    "slug": "spalek-calculating-scales-context-2013",
+    "title": "Calculating scales from change of state verbs and their themes",
+    "authors": [
+      "Alexandra Anna Spalek"
+    ],
+    "affiliation": [],
+    "console_venue": "University of Potsdam",
+    "year": 2013,
+    "pages": "229-246",
+    "edition": "ConSOLE 21",
+    "keywords": [],
+    "abstract": "In this paper I explore in detail the internal aspectual structure of events focusing on two Spanish change of state verbs. I begin by establishing the lexically coded scales of romper 'break' and congelar 'freeze'. Based on a large collection of corpus concordances of these verbs I then consider some theme arguments which these verbs typically combine with and explore the effects of the mereological structure of the theme on the scalarity of the verb phrases containing these verbs. Comparing the two verbs I find that simple scales coded in the verb can be overridden by complex scales coming from the theme, while complex scales in verbs are not reducible through combining them with a reduced argument. The research thus illustrates that, despite the general assumption that change of state verbs lexically encode certain kinds of scales, their scalar behaviour at the verb phrase level can undergo adjustments. The semantics of a scalar verb is provided within the measure of change function analysis (Kennedy & Levin 2008; Kennedy 2012).",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxi-updated.pdf",
+    "corresponding_email": "",
+    "editors": [
+      "Martin Kohlberger",
+      "Kate Bellamy",
+      "Eleanor Dutton"
+    ],
+    "related_slugs": [
+      "Dobler-Causative-2009",
+      "zhang-aspectual-2019",
+      "ausensi-agententailments-2019",
+      "anderson-hedging-2013",
+      "mauffray-heritagel2-2021",
+      "korsah-inherent-2015"
+    ]
+  },
+  {
+    "slug": "fareche-sgrizzi-2025",
+    "title": "Fare+Che+Infinitives in Turinese Italian: Insights into the low-vP periphery",
+    "authors": [
+      "Tommaso Sgrizzi"
+    ],
+    "affiliation": [
+      "IUSS Pavia"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "1-22",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "low-vp",
+      "causative",
+      "focus"
+    ],
+    "abstract": "This paper addresses the syntax of an understudied construction in Turinese Italian, the Fare+Che+Infinitive (FCI), which features a causative verb fare (‘make’), the complementizer che (‘that’), and an infinitival verb. The construction presents a challenge to standard assumptions about clause structure, finiteness, and complement selection. Through a formal syntactic analysis and cartographic heuristics, this study aims to uncover the underlying structure of the FCI, proposing a solution for the unusual selection of infinitival verbs by the high complementizer che rooted in Belletti’s (2004) low-vP proposal while also providing a formal analysis for the pragmatic constraints of the FCI.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "tommaso.sgrizzi@iusspavia.it",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "nonioche-rossisgrizzi-2025",
+      "russocardona-toughconstructions-2024",
+      "Campanini-causatives-2013",
+      "lidestri-motionverbs-2024",
+      "swe-burmese-2021",
+      "noguchi-cleft-2020"
+    ]
+  },
+  {
+    "slug": "anythinggoes-sunberezovskaya-2025",
+    "title": "Anything goes? – A questionnaire study on scope ambiguities in Ukrainian",
+    "authors": [
+      "Xue Sun",
+      "Polina Berezovskaya"
+    ],
+    "affiliation": [
+      "University of British Columbia",
+      "University of Tübingen"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "23-44",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "scope ambiguity",
+      "quantifier raising",
+      "Ukrainian",
+      "free word order"
+    ],
+    "abstract": "This paper examines scope ambiguity in doubly quantified sentences in Ukrainian, a “free” word order language. Drawing on data from a questionnaire study, we show that sentences with existential quantifiers in subject position and universal quantifiers in object position exhibit scope ambiguity in both SVO and OVS structures. Our findings challenge the view that syntactic structure constrains quantifier scope and suggest that the availability of Quantifier Raising (QR) is not tied to surface word order. The paper contributes new empirical evidence on scope ambiguities in Ukrainian and offers a syntactic analysis with the corresponding semantic mapping of SVO and OVS configurations.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "sunxue@student.ubc.ca",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "sarvas-suffixes-hungarian-2022",
+      "gan-scope-hk-sign-language-2022",
+      "hafsi-indefinites-2023",
+      "noguchi-kotoga-2021",
+      "dulecavelier-mirrorprinciple-2021",
       "hua-disjunction-2020"
+    ]
+  },
+  {
+    "slug": "atb-kasai-2025",
+    "title": "ATB movement approach to V-V compound ellipsis in Japanese",
+    "authors": [
+      "Gen Kasai"
+    ],
+    "affiliation": [
+      "The University of Osaka",
+      "JSPS Research Fellow"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "45-59",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Japanese",
+      "VVCE",
+      "ATB movement",
+      "chain formation"
+    ],
+    "abstract": "This paper argues that verb-verb compounding ellipsis (VVCE) is derived by ATB movement rather than verb stranding VP ellipsis, which confirms the view that verb stranding VP ellipsis does not exist in Japanese (Hoji 1998; Oku 1998; Tanaka 2023; Tanabe & Kobayashi 2024). It is pointed out that verb stranding VP ellipsis approach cannot capture the fact that extraction from VVCE is unavailable. By contrast, the impossibility of extraction from VVCE is dealt with by ATB movement approach in tandem with chain formation (Blumel ¨ 2017). As a consequence, the current approach supports adjunct ellipsis to derive adjunct inclusive reading in Japanese and correctly bans extraction from VP fronted in ATB fashion.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "genkasai271@gmail.com",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "szarvas-coreference-2024",
+      "noguchi-kotoga-2021",
+      "Truswell-whmovement-2008",
+      "Sugimura-Root-2012",
+      "headraising-yamamoto-2025",
+      "noguchi-cleft-2020"
+    ]
+  },
+  {
+    "slug": "splitunified-wang-2025",
+    "title": "Split or unified: revisit the structure(s) and reading(s) of Mandarin Chinese classifier phrases",
+    "authors": [
+      "Jiajia Wang"
+    ],
+    "affiliation": [
+      "University College London"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "60-75",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Mandarin Chinese",
+      "classifier phrases",
+      "polysemy"
+    ],
+    "abstract": "Mandarin Chinese is a classifier language. Li (2011) proposes two equally accessible readings — counting and measure — for container classifier phrases, which I term the Split Hypothesis (see also Rothstein, 2017). However, I present novel data that challenges this syntactically originated distinction and the validity of a counting reading for container classifiers. I then extend Brody & Feiman’s (2024) proposal of polysemy to capture the interpretation nuances of classifier phrases, and argue instead for a unified reading, wherein other inferences are contextually modulated.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "jiajia.wang.22@ucl.ac.uk",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "jin-classifiers-2023",
+      "sakumoto-mandarin-chinese-islands-2022",
+      "Ferme-palatal-2009",
+      "zhang-aspectual-2019",
+      "Li-Adjectives-2009",
+      "Liu-ContourTones-2008"
+    ]
+  },
+  {
+    "slug": "headraising-yamamoto-2025",
+    "title": "Only a head-raising derivation for Japanese gap relatives",
+    "authors": [
+      "Takato Yamamoto"
+    ],
+    "affiliation": [
+      "Kyushu University"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "76-96",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Japanese",
+      "relative clauses",
+      "head-raising",
+      "Form Copy"
+    ],
+    "abstract": "In the literature, the three kinds of derivations have been proposed for Japanese relative clauses (see Miyamoto 2017). However, because some of the empirical evidence that these derivations depend on is acceptable for some people but ungrammatical for others, it is controversial which analysis is correct. This paper aims to argue that Japanese relative clauses must be derived by an overt movement of a relativized head by presenting previously unnoticed data on Japanese relative clauses. This study also provides an analysis based on Form Copy suggested by Chomsky (2021) to explain the empirical facts reviewed in this paper.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "aslt173dx2y@gmail.com",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "noguchi-kotoga-2021",
+      "Boef-doubling-2012",
+      "Hayashi-teclauses-2013",
+      "KosterMoeller-Restrictive-2012",
+      "noguchi-cleft-2020",
+      "Sugimura-Root-2012"
+    ]
+  },
+  {
+    "slug": "grandmas-lyriotakis-2025",
+    "title": "Grandmas’ conspiracy?: a sociolinguistic account of the realizations of /t/ by third-generation heritage Modern Greek speakers in Toronto",
+    "authors": [
+      "Theodoros Lyriotakis"
+    ],
+    "affiliation": [
+      "University of Crete"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "97-113",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Heritage Modern Greek",
+      "sociolinguistics",
+      "phonology"
+    ],
+    "abstract": "This study examines how the presence and the absence of grandmothers (first-generation immigrants) affect a specific feature of the phonological system of third-generation heritage Modern Greek speakers in Toronto, namely, the variation attested in the realizations of the voiceless alveolar stop /t/. Data from 27 participants show that when grandmothers were actively involved, homeland-like non-aspirated [t] realizations prevail. However, reduced involvement or absence of grandmothers leads to increased occurrences of aspirated [th ] realizations, influenced by Canadian English. The results highlight the role of family dynamics in shaping the speakers’ phonology, emphasizing that phonological studies should consider the broader sociolinguistic context.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "theolyri@gmail.com",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "Laks-Valence-2009",
+      "Baturay-loanwords-2013",
+      "Sinopoulou-Multiple-2008",
+      "barman-learnability-2023",
+      "mauffray-heritagel2-2021",
+      "Hayashi-teclauses-2013"
+    ]
+  },
+  {
+    "slug": "gendersyncretism-bushan-2025",
+    "title": "Number-driven gender syncretism and Impoverishment: Some insights from Kannada",
+    "authors": [
+      "Sid Bushan"
+    ],
+    "affiliation": [
+      "University of Michigan"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "114-131",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Kannada",
+      "gender",
+      "syncretism"
+    ],
+    "abstract": "This paper discusses how gender and number systems interact, focusing on morphological syncretisms of gender exponence in non-singular numbers. Working within the framework of Distributed Morphology, and using data from Kannada, which expresses three gender distinctions in the singular but only two in the plural, I first investigate previous analyses of gender-number syncretism. Then, I propose a refined featural specification of gender, discussing why it is necessary to capture the syncretisms present in Kannada. This refined specification is a multidimensional approach to grammatical gender, encoding gender as a set of multiple features within a feature-geometrical hierarchy",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "sidbh@umich.edu",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "berg-attitudes-2023",
+      "varona-gender-2023",
+      "pohl-twitterdiscourse-2023",
+      "chark-lateinsertion-2019",
+      "doliana-super-strong-2014",
+      "Assmann-parasiticgaps-2012"
+    ]
+  },
+  {
+    "slug": "bavarian-menegon-2025",
+    "title": "The left periphery in Bavarian Analysis of the Emphatic Topicalisation through the lens of the Doubly-filled COMP",
+    "authors": [
+      "Monica Menegon"
+    ],
+    "affiliation": [
+      "University of Trento"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "132-154",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Bavarian",
+      "Emphatic Topicalisation",
+      "Doubly-filled COMP"
+    ],
+    "abstract": "This study investigates the structural position of simple wh-elements in a construction of the Bavarian left periphery, the Emphatic Topicalisation (ET). Following Weiß & Strobel’s (2018) proposal that there are correlations between different syntactic phenomena, the Doubly-filled COMP (DFC), another Bavarian structure, was analysed through data of the Zwirner-corpus. The results, supported by a comparison with other Germanic dialects and varieties, indicate that simple wh-items can co-occur with complementisers, suggesting they occupy SpecFinP rather than a head position. This leaves SpecTopP available for the extracted constituent in the ET.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "monica.menegon-1@unitn.it",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "stankovic-adjectives-left-periphery-2015",
+      "ottur-malayalam-2024",
+      "shikunova-smallclause-2023",
+      "fareche-sgrizzi-2025",
+      "jin-classifiers-2023",
+      "wiesner-samoan-2023"
+    ]
+  },
+  {
+    "slug": "waszu-zofelt-2025",
+    "title": "Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives",
+    "authors": [
+      "Fabian Zöfelt"
+    ],
+    "affiliation": [
+      "Bielefeld University"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "155-179",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "German",
+      "non-canonical passives",
+      "agenthood"
+    ],
+    "abstract": "German passive(-like) constructions differ from each other in various ways. They have different morphology, passive-subjects, and add certain ‘nuances’ to the interpretation of these constructions. Nevertheless, they are unified by the demotion of the logical subject. In this paper, I will argue that so-called non-canonical passives (NCP) and the core construction, the werdenpassive, share a vPPASS which is responsible for the demotion of the agent. Using criteria developed from both theoretical assumptions and descriptive evidence, I show that the sein-stative, the bekommen-passive and the modal sein zu-construction can be mapped on the core-periphery continuum.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "fabian.zoefelt@uni-bielefeld.de",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "fujii-verbless-2023",
+      "Blümel-wasfür-2012",
+      "Schenner-Evidentials-2009",
+      "Sutter-umlaut-2013",
+      "eisenheld-zeronominals-2021",
+      "muller-secondarymeaning-2019"
+    ]
+  },
+  {
+    "slug": "nonioche-rossisgrizzi-2025",
+    "title": "Current linguistic changes in contemporary Italian The cases of non io che and essere tipo",
+    "authors": [
+      "Sarah Rossi",
+      "Tommaso Sgrizzi"
+    ],
+    "affiliation": [
+      "IUSS Pavia"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "180-200",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Italian",
+      "netspeak",
+      "non io che",
+      "essere tipo"
+    ],
+    "abstract": "This study investigates two emerging syntactic constructions in contemporary Italian digital discourse: non io che and essere tipo. Drawing on a corpus of data from Twitter and Threads, the research explores how these structures, influenced by English analogues like not me [verb]-ing and be like, are integrated into Italian grammar. Quantitative analysis reveals their productivity, especially among younger speakers. We examine the syntax and pragmatic functions of both constructions, focusing on focal interpretation in essere tipo and expletive negation in non io che. The findings shed light on cross-linguistic influence and ongoing grammatical change in Italian netspeak.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "sarah.rossi@iusspavia.it",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "fareche-sgrizzi-2025",
+      "waszu-zofelt-2025",
+      "russocardona-toughconstructions-2024",
+      "mattiuzzi-inflection-2023",
+      "Faust-Vowels-2012",
+      "muller-secondarymeaning-2019"
+    ]
+  },
+  {
+    "slug": "allomorphy-sergienko-2025",
+    "title": "Allomorphy of sentential negation in Ishkashimi",
+    "authors": [
+      "Aleksandr Sergienko"
+    ],
+    "affiliation": [
+      "Université Paris Cité"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "201-224",
+    "edition": "ConSOLE 33",
+    "keywords": [],
+    "abstract": "This paper analyzes sentential negation in Ishkashimi (Eastern Iranian), arguing that a functional head Neg occupies a position in between Aspect (Asp) and T, but below Perfect (Prf) (T > Prf > Neg > Asp). Evidence for this position comes from tense-conditioned negative allomorphy in Ishkashimi, where na- serves as the standard negator and nǝst- appears in the past tense. The analysis of the allomorphy is couched in Nanosyntax (Starke 2009).",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "alser99@yandex.ru",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "bosch-negationcatalanspanish-2024",
+      "rossyaykin-modals-2020",
+      "aksenova-transcategorial-2015",
+      "hein-participle-allomorphy-2015",
+      "genske-negation-2013",
+      "bleotu-denominals-2015"
+    ]
+  },
+  {
+    "slug": "basque-macazaga-2025",
+    "title": "Multiple wh-fronting feeds multiple sluicing: The case of Basque",
+    "authors": [
+      "Irene Macazaga"
+    ],
+    "affiliation": [
+      "University of the Basque Country (UPV/EHU)"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "225-247",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Basque",
+      "multiple wh-fronting",
+      "multiple sluicing"
+    ],
+    "abstract": "This paper analyses multiple sluicing in Basque. I first describe three strategies for multiple wh-questions available in this language: multiple wh-fronting, the mixed strategy and single wh-fronting. By showing the effects of the Superiority Condition and the Clausemate Condition exhibited throughout those strategies, I argue that the only plausible question-forming mechanism to feed multiple sluicing in Basque is multiple wh-fronting. Deletion of syntactic structure, therefore, narrows down the number of strategies that can be otherwise employed for multiple wh-questions in Basque. This has significant theoretical implications: ellipsis is more constrained than overt syntax when it comes to certain phenomena.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "irene.macazaga@ehu.eus",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "Sinopoulou-Multiple-2008",
+      "Chernova-echoquestions-2013",
+      "Ott-topicalization-2012",
+      "Šimík-whphrases-2008",
+      "Truswell-whmovement-2008",
+      "rugna-wh-2023"
+    ]
+  },
+  {
+    "slug": "morpho-naganotateno-2025",
+    "title": "Morpho-semantic notes on unhappier",
+    "authors": [
+      "Taika Nagano",
+      "Kanta Tateno"
+    ],
+    "affiliation": [
+      "The University of Osaka",
+      "The University of Osaka, University of Connecticut"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "248-257",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "English",
+      "comparative suffix",
+      "bracketing paradox",
+      "Distributed Morphology"
+    ],
+    "abstract": "The aim of this paper is to propose a new approach to bracketing paradox phenomena in the framework of Distributed Morphology (Halle & Marantz 1993). Although in English, the comparative suffix -er does not attach to a trisyllabic adjective, unhappier is exceptionally possible. Focusing on the negative prefixes un- and in-, we argue that the exceptional comparative form is attributed to the timing of prefixation of un-. We give some suggestive empirical evidence from the perspectives of (morpho-)phonology and semantics.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "nagano.taika@gmail.com",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "kwapiszewski-aspect-2020",
+      "Šimík-whphrases-2008",
+      "li-functional-ge-2023",
+      "Smith-collectivenouns-2013",
+      "tveitan-exclusive-2023",
+      "Campanini-causatives-2013"
+    ]
+  },
+  {
+    "slug": "chechen-berkovich-2025",
+    "title": "Polarity-sensitive exceptives: the case of Chechen",
+    "authors": [
+      "Tommaso Sgrizzi"
+    ],
+    "affiliation": [
+      "Higher School of Economics"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "258-274",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Chechen",
+      "polarity-sensitive exceptives",
+      "focus"
+    ],
+    "abstract": "In several languages, the semantics comparable to that of only can be expressed with a bi-partite construction, which consists of a negation marker and a focus particle. This work investigates one such construction in the Chechen language. I try to show that its properties are not captured by the existing analyses of such constructions and to explore some alternative approaches.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "mberkovich@hse.ru",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "khomchenkova-exceptives-2020",
+      "Fălăuş-polarity-2009",
+      "pohl-twitterdiscourse-2023",
+      "shikunova-smallclause-2023",
+      "kerr-gorwaa-2020",
+      "otani-japanese-2019"
+    ]
+  },
+  {
+    "slug": "binders-marutyan-2025",
+    "title": "Functional heads as binders: The case of Eastern Armenian.",
+    "authors": [
+      "Nelli Marutyan"
+    ],
+    "affiliation": [
+      "University of Southern California"
+    ],
+    "console_venue": "University of Göttingen",
+    "year": 2025,
+    "pages": "275-293",
+    "edition": "ConSOLE 33",
+    "keywords": [
+      "Eastern Armenian",
+      "functional heads",
+      "binders"
+    ],
+    "abstract": "Eastern Armenian exhibits a three-way distinction in third person pronouns. The pronoun NA is particularly noteworthy due to its puzzling distribution: it is anti-subject, anti-wh, and antifocus. The descriptive generalization is that NA is anti-spec vP and anti-spec-FocP. Building on Moulton (2009), I propose that this distribution can be accounted for if we think of Binding as a type of agreement mediated by functional heads.",
+    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf",
+    "corresponding_email": "nmarutya@usc.edu",
+    "editors": [
+      "Federica Longo",
+      "Leonardo Russo Cardona",
+      "Tommaso Sgrizzi",
+      "Hadis Tamleh"
+    ],
+    "related_slugs": [
+      "li-functional-ge-2023",
+      "rossyaykin-modals-2020",
+      "Boef-pronoundoubling-2013",
+      "KosterMoeller-Restrictive-2012",
+      "kim-basque-2021",
+      "zhao-homogeneity-2024"
     ]
   }
 ]

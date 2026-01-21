@@ -4,7 +4,7 @@ import Navigation from '../components/Navigation.astro';
 import papers from '../content/papers.json';
 
 // Get random papers from 2023
-const papers2023 = papers.filter(paper => paper.year === 2024);
+const papers2023 = papers.filter(paper => paper.year === 2025);
 const featuredPapers = papers2023
   .sort(() => Math.random() - 0.5) // Shuffle the array
   .slice(0, 3); // Take first 3 papers
@@ -95,7 +95,7 @@ const featuredPapers = papers2023
       <div class="text-center mb-12">
         <h2 class="text-3xl lg:text-4xl font-crimson font-semibold text-primary mb-4">Latest Volume</h2>
         <p class="text-lg text-text-secondary max-w-2xl mx-auto">
-          Proceedings papers from ConSOLE32, held in Göttingen, Germany, in 2025.
+          Proceedings papers from ConSOLE33, held in Göttingen, Germany, in 2025.
         </p>
       </div>
 

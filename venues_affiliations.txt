@@ -6,10 +6,14 @@ Leiden University
 Paris
 Queen Mary University of London
 Universitat Pompeu Fabra
+University Paris Diderot-Paris 7
 University of Groningen
+University of Göttingen
 University of Leipzig
+University of Lisbon
 University of Nantes
 University of Nova Gorica
+University of Potsdam
 
 Unique affiliations:
 
@@ -17,28 +21,42 @@ Amsterdam Center for Language and Communication
 Autonomous University of Barcelona
 Bar-Ilan University, Israel
 Ben-Gurion University of the Negev
+Bergische Universitat Wuppertal
+Bielefeld University
 Boston University
 Boğaziçi University
 CASTL, University of Tromsø
 Centre for Advanced Study in Theoretical Linguistics (CASTL), University of Tromsø
 Department of Linguistics, New York University
 Department of Linguistics, Paris 8 University
+Department of Linguistics, University College London
 Department of Psychology, University of Michigan
+Eberhard Karls Universität Tübingen
+Escola Superior de Saúde do Instituto Politécnico de Leiria
 Eötvös Loránd University (ELTE), Budapest
 Eötvös Loránd University, Budapest
+Faculdade de Letras da Universidade de Lisboa
+Faculty of Letters of the University of Lisbon
 GIST/Ghent University
 Georg-August-Universität Göttingen
 Goethe University Frankfurt
+Goethe University, Frankfurt
+Goethe-University Frankfurt
 Goethe-Universität Frankfurt
 Groningen University
 Heinrich Heine University Düsseldorf
+Higher School of Economics
 Humboldt-Universität zu Berlin
+IUSS Pavia
 Indian Institute of Technology Delhi
 Indian Institute of Technology Guwahati
 Institute of Serbian language of Serbian Academy of Sciences and Arts
 J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen
+JSPS Research Fellow
 Jadavpur University, Kolkata
+Jagiellonian University in Krakow
 Julius-Maximilians-Universität Würzburg
+Karl-Franzens University Graz
 Kyushu University
 La Sapienza University
 Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)
@@ -48,13 +66,20 @@ Leibniz-Institut für Deutsche Sprache Mannheim
 Leiden University Centre for Linguistics
 Leipzig University
 Lomonosov Moscow State University
+Lomonosov Moscow State University (MSU)
 MIT
+Macquarie University
 Massachusetts Institute of Technology
 McGill University
 Meertens Instituut
 Meertens Instituut, Amsterdam
+Michigan State University
 Nantes University
 National Chi Nan University
+Osaka University
+Potsdam University
+Pushkin State Russian Language Institute
+Pázmány Péter Catholic University
 Queen Mary University of London
 Rheinische Friedrich-Wilhelms-Universität Bonn
 Roma Tre University
@@ -67,24 +92,34 @@ Tel-Aviv University, Israel
 The English and Foreign Languages University, Hyderabad
 The Hebrew University of Jerusalem
 The University of Edinburgh
+The University of Osaka
+The University of Osaka, University of Connecticut
 The University of Tokyo
+UMass Amherst
 UYangon University of Foreign Languages
+Universidade de Lisboa
+Universidade de São Paulo
 Universitat Autònoma de Barcelona
 Universitat Autònoma de Barcelona (Centre de Lingüística Teòrica), Catalonia
 Universitat Pompeu Fabra
 Universitat de Barcelona & Universitat Autònoma de Barcelona
 Universitat de Girona
 Universiteit van Amsterdam
+University Ca' Foscari
 University College London
 University Paris X Nanterre, Laboratoire MoDyCo
+University of Alcalà
 University of Amsterdam
 University of Athens
 University of British Columbia
 University of Bucharest
 University of California, Los Angeles
 University of Cambridge
+University of Chicago
 University of Cologne
 University of Connecticut
+University of Crete
+University of Edinburgh
 University of Essex
 University of Geneva
 University of Graz
@@ -92,24 +127,38 @@ University of Groningen
 University of Göttingen
 University of Leipzig
 University of Massachusetts at Amherst
+University of Michigan
 University of Nantes
+University of Niš
 University of Nova Gorica
 University of Oslo
 University of Oxford
 University of Pennsylvania
 University of Potsdam
+University of Salzburg
+University of Southern California
 University of Stuttgart
 University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)
 University of Tokyo
 University of Toronto
+University of Trento
+University of Tübingen
 University of Udine
 University of Utah
 University of Vienna
 University of Wisconsin-Milwaukee
+University of York
+University of the Basque Country (UPV/EHU)
 Università degli Studi di Firenze
 Universität Leipzig
 Universität Potsdam
+Université Paris Cité
+Université Paris Diderot
+Université Paris Diderot-Paris 7
+Université Paris-Sorbonne
+Université de Lille
 Université de Namur, Namur Institute of Language, Text and Transmediality
+Université de Nantes
 Université de Provence, Laboratoire Parole et Langage (LPL)
 Utecht Institute of Linguistics OTS
 Utrecht Institute of Linguistics OTS
