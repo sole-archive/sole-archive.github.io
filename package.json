@@ -4,7 +4,7 @@
   "description": "Academic digital archive and research discovery platform for ConSOLE proceedings",
   "type": "module",
   "scripts": {
-    "prebuild": "python scripts/build_related_slugs.py && shx mkdir -p public && shx cp src/content/papers.json public/papers.json",
+    "prebuild": "shx mkdir -p public && shx cp src/content/papers.json public/papers.json && python scripts/build_related_slugs.py && python scripts/venues_count.py && python scripts/affiliation_checker.py",
     "dev": "npm run prebuild && astro dev",
     "start": "npm run prebuild && astro dev",
     "build": "astro build && echo > dist/.nojekyll",

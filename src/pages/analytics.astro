@@ -70,6 +70,46 @@ const venueNormalization: Record<string, string> = {
 
 // Affiliation normalization
 const affiliationNormalization: Record<string, string> = {
+   // --- Ben-Gurion ---
+   'Ben Gurion University': 'Ben-Gurion University of the Negev',
+
+// --- Ca’ Foscari (you already use a variant key) ---
+"Ca' Foscari University of Venice": "Ca' Foscari University of Venice",
+
+// --- Toronto (department → university) ---
+'Department of Linguistics, University of Toronto, Toronto, Canada': 'University of Toronto',
+
+// --- Radboud (department → university) ---
+'Department of Philosophy, Radboud University Nijmegen': 'Radboud University Nijmegen',
+'Radboud University Nijmegen': 'Radboud University Nijmegen',
+
+// --- UCL (department → UCL) ---
+'Department of Phonetics and Linguistics, University College London': 'University College London',
+
+// --- Leiden (ULCL string → Leiden) ---
+'Leiden University, Leiden Center for Linguistics (ULCL)': 'Leiden University Centre for Linguistics',
+
+// --- NYU ---
+'New York University': 'New York University',
+
+// --- Frankfurt am Main (map to your canonical Frankfurt entry) ---
+'University of Frankfurt am Main': 'Goethe University Frankfurt',
+
+// --- Ottawa ---
+'University of Ottawa': 'University of Ottawa',
+
+// --- Mixed affiliations (treat as Utrecht for mapping) ---
+// If you later want to *split* and count both, do it upstream in data.
+'Siena University & Utrecht Institute of Linguistics OTS': 'Utrecht Institute of Linguistics OTS',
+
+// --- Warsaw + Collegium Invisibile (map to Warsaw) ---
+'University of Warsaw and Collegium Invisibile': 'University of Warsaw',
+
+// --- Not a geocodable affiliation ---
+// Recommendation: normalize to empty so it gets ignored in your counting loop
+// (or keep it but it will never have coordinates).
+'JSPS Research Fellow': '',
+
   // Frankfurt
   'Goethe-Universität Frankfurt': 'Goethe University Frankfurt',
   'J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen': 'Goethe University Frankfurt',
@@ -121,6 +161,187 @@ const affiliationNormalization: Record<string, string> = {
 
   // Düsseldorf
   'Heinrich Heine Universität Düsseldorf': 'Heinrich Heine University Düsseldorf',
+
+  
+  // -------------------------
+  // Wuppertal (spelling/diacritics)
+  // -------------------------
+  'Bergische Universitat Wuppertal': 'Bergische Universität Wuppertal',
+  'Bergische Universitaet Wuppertal': 'Bergische Universität Wuppertal',
+  'Bergische University Wuppertal': 'Bergische Universität Wuppertal',
+
+  // -------------------------
+  // Frankfurt (unify naming)
+  // -------------------------
+  'Goethe University, Frankfurt': 'Goethe University Frankfurt',
+  'Goethe-University Frankfurt': 'Goethe University Frankfurt',
+  'Goethe University Frankfurt am Main': 'Goethe University Frankfurt',
+
+  // -------------------------
+  // Potsdam variants
+  // -------------------------
+  'Potsdam University': 'University of Potsdam',
+
+  // -------------------------
+  // Groningen variants
+  // -------------------------
+  'Groningen University': 'University of Groningen',
+  'Rijksuniversiteit Groningen': 'University of Groningen',
+
+  // -------------------------
+  // Kyushu / Graduate School wording
+  // -------------------------
+  'Graduate School of Kyushu University': 'Kyushu University',
+
+  // -------------------------
+  // HSE variants
+  // -------------------------
+  'Higher School of Economics': 'HSE University',
+  'National Research University Higher School of Economics': 'HSE University',
+
+  // -------------------------
+  // UCL department → UCL
+  // -------------------------
+  'Department of Linguistics, University College London': 'University College London',
+  'University College London, Department of Linguistics': 'University College London',
+
+  // -------------------------
+  // Tübingen variants
+  // -------------------------
+  'Eberhard Karls Universität Tübingen': 'University of Tübingen',
+  'Eberhard Karls Universitaet Tuebingen': 'University of Tübingen',
+  'Universität Tübingen': 'University of Tübingen',
+  'University of Tubingen': 'University of Tübingen',
+
+  // -------------------------
+  // Paris 7 / Diderot variants
+  // -------------------------
+  'Université Paris Diderot': 'Université Paris Diderot-Paris 7',
+  'Université Paris Diderot-Paris 7': 'Université Paris Diderot-Paris 7',
+  'Université Paris Diderot-Paris': 'Université Paris Diderot-Paris 7',
+  'University Paris Diderot': 'Université Paris Diderot-Paris 7',
+  'University Paris Diderot-Paris 7': 'Université Paris Diderot-Paris 7',
+
+  // Paris Cité naming variants (keep one)
+  'Université Paris Cité': 'Université Paris Cité',
+  'University of Paris Cité': 'Université Paris Cité',
+
+  // Paris-Sorbonne variants
+  'Université Paris-Sorbonne': 'Université Paris-Sorbonne',
+  'Paris-Sorbonne University': 'Université Paris-Sorbonne',
+
+  // Humboldt naming variants
+  'Humboldt University Berlin': 'Humboldt-Universität zu Berlin',
+  'Humboldt Universität zu Berlin': 'Humboldt-Universität zu Berlin',
+
+  // -------------------------
+  // Osaka variants
+  // -------------------------
+  'The University of Osaka': 'Osaka University',
+  'University of Osaka': 'Osaka University',
+  'Osaka University': 'Osaka University',
+
+  // “The University of Osaka, University of Connecticut” is not a venue.
+  // Treat as unknown / skip / or map to the venue used in the paper.
+  // If you want deterministic behavior, map it to Osaka (or remove upstream).
+  'The University of Osaka, University of Connecticut': 'Osaka University',
+
+  // -------------------------
+  // Tokyo variants
+  // -------------------------
+  'The University of Tokyo': 'University of Tokyo',
+  'University of Tokyo': 'University of Tokyo',
+
+  // -------------------------
+  // Lisbon faculty subunit → main university / or keep faculty key
+  // Pick ONE canonical strategy. Here: collapse to Universidade de Lisboa.
+  // -------------------------
+  'Faculdade de Letras da Universidade de Lisboa': 'Universidade de Lisboa',
+  'Faculty of Letters of the University of Lisbon': 'Universidade de Lisboa',
+  'University of Lisbon': 'Universidade de Lisboa',
+  'Universidade de Lisboa': 'Universidade de Lisboa',
+
+  // -------------------------
+  // Leiria school wording
+  // -------------------------
+  'Escola Superior de Saúde do Instituto Politécnico de Leiria':
+    'Instituto Politécnico de Leiria',
+
+  // -------------------------
+  // Graz naming variants
+  // -------------------------
+  'Karl-Franzens University Graz': 'University of Graz',
+  'Karl-Franzens-Universität Graz': 'University of Graz',
+  'Universität Graz': 'University of Graz',
+
+  // -------------------------
+  // MSU variants
+  // -------------------------
+  'Lomonosov Moscow State University (MSU)': 'Lomonosov Moscow State University',
+  'Moscow State University': 'Lomonosov Moscow State University',
+
+  // -------------------------
+  // Pushkin institute variants (if you want it distinct from Vinogradov)
+  // -------------------------
+  'Pushkin State Russian Language Institute': 'Pushkin State Russian Language Institute',
+  'A.S. Pushkin State Institute of Russian Language': 'Pushkin State Russian Language Institute',
+
+  // -------------------------
+  // UMass variants
+  // -------------------------
+  'UMass Amherst': 'University of Massachusetts at Amherst',
+  'University of Massachusetts Amherst': 'University of Massachusetts at Amherst',
+  'University of Massachusetts at Amherst': 'University of Massachusetts at Amherst',
+
+  // -------------------------
+  // Ca’ Foscari variants
+  // -------------------------
+  "University Ca' Foscari": "Ca' Foscari University of Venice",
+  "Ca' Foscari": "Ca' Foscari University of Venice",
+  "Ca’ Foscari University": "Ca' Foscari University of Venice",
+  "University of Venice": "Ca' Foscari University of Venice",
+
+  
+  // -------------------------
+  // Alcalá variants (accent fixes)
+  // -------------------------
+  'University of Alcalà': 'University of Alcalá',
+  'University of Alcala': 'University of Alcalá',
+  'Universidad de Alcalá': 'University of Alcalá',
+
+  // -------------------------
+  // Edinburgh variants
+  // -------------------------
+  'The University of Edinburgh': 'University of Edinburgh',
+
+  // -------------------------
+  // Nantes variants
+  // -------------------------
+  'Université de Nantes': 'University of Nantes',
+
+  // -------------------------
+  // Lille variants
+  // -------------------------
+  'Université de Lille': 'Université de Lille',
+  'University of Lille': 'Université de Lille',
+
+  // -------------------------
+  // Namur institute wording
+  // -------------------------
+  'Université de Namur, Namur Institute of Language, Text and Transmediality':
+    'Université de Namur',
+
+  // -------------------------
+  // Utrecht variants (you already have OTS separately; for venues keep the university)
+  // -------------------------
+  'Utrecht University': 'Utrecht University',
+
+  // -------------------------
+  // IUSS variants (choose canonical)
+  // -------------------------
+  'IUSS Pavia': 'IUSS Pavia',
+  'Scuola Universitaria Superiore IUSS Pavia': 'IUSS Pavia',
+
 };
 
 // Count all affiliations (normalized)
@@ -132,7 +353,8 @@ for (const p of papers) {
   for (const rawAff of affs) {
     if (!rawAff) continue;
     const trimmed = String(rawAff).trim();
-    const canonical = affiliationNormalization[trimmed] || trimmed;
+    const canonical = affiliationNormalization[trimmed] ?? trimmed;
+    if (!canonical) continue; // ignore things like "JSPS Research Fellow"
     affiliationCounts[canonical] = (affiliationCounts[canonical] || 0) + 1;
   }
 }
@@ -155,10 +377,14 @@ const displayAffCounts = displayAffiliations.map(([, count]) => count);
 // ==========================
 
 const knownVenueCoords: Record<string, [number, number]> = {
+  'University of the Basque Country': [42.839028, -2.674778], 
   'Bielefeld University': [52.0302, 8.5325],
+  'Patras University': [38.2867, 21.7864], 
+  "The Arctic University of Norway": [69.6549, 18.9629],
   'Queen Mary University of London': [51.5226, -0.0406],
   'University of Nantes': [47.245, -1.555],
   'Leiden University': [52.1601, 4.497],
+  'Padova University': [45.4067, 11.8774],
   'Humboldt-Universität zu Berlin': [52.5186, 13.3933],
   'Université Paris': [48.8566, 2.3522],
   'Universitat Pompeu Fabra': [41.3855, 2.1944],
@@ -169,10 +395,128 @@ const knownVenueCoords: Record<string, [number, number]> = {
   'Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels': [50.8466, 4.3528],
   'University Paris Diderot-Paris 7': [48.829, 2.375],
   'University of Lisbon': [38.7534, -9.1646],
+  'Lund University': [55.7047, 13.1910],
   'University of Potsdam': [52.400, 13.06],
 };
 
 const knownAffiliationCoords: Record<string, [number, number]> = {
+  'Ben-Gurion University of the Negev': [31.2573, 34.8009], // :contentReference[oaicite:0]{index=0}
+"Ca' Foscari University of Venice": [45.434, 12.327],      // (you already have a Venice point; keep consistent) :contentReference[oaicite:1]{index=1}
+'University of Toronto': [43.6570, -79.3903],              // :contentReference[oaicite:2]{index=2}
+'Radboud University Nijmegen': [51.822119, 5.864553],      // :contentReference[oaicite:3]{index=3}
+'New York University': [40.729675, -73.996925],            // :contentReference[oaicite:4]{index=4}
+'University of Ottawa': [45.4222, -75.6824],               // :contentReference[oaicite:5]{index=5}
+'University of Warsaw': [52.2375, 21.0182],                // :contentReference[oaicite:6]{index=6}
+
+  'Instituto Politécnico de Leiria': [39.73756, -8.81131],
+  'Bergische Universität Wuppertal': [51.245, 7.149],
+'Bielefeld University': [52.0302, 8.5325],
+'University of Alcalá': [40.4825, -3.3612],
+
+
+'Department of Linguistics, University College London': [51.5246, -0.1340],
+
+'Eberhard Karls Universität Tübingen': [48.5216, 9.0576],
+
+'Escola Superior de Saúde do Instituto Politécnico de Leiria': [39.743, -8.807],
+
+'Faculdade de Letras da Universidade de Lisboa': [38.754, -9.157],
+'Faculty of Letters of the University of Lisbon': [38.754, -9.157],
+'Universidade de Lisboa': [38.7534, -9.1646],
+
+'Goethe University, Frankfurt': [50.126, 8.669],
+'Goethe-University Frankfurt': [50.126, 8.669],
+
+'Graduate School of Kyushu University': [33.596, 130.218],
+
+'Groningen University': [53.2194, 6.5665],
+'University of Groningen': [53.2194, 6.5665],
+
+'HSE University': [55.757, 37.615],
+'Higher School of Economics': [55.757, 37.615],
+
+'Humboldt-Universität zu Berlin': [52.5186, 13.3933],
+
+'IUSS Pavia': [45.1847, 9.1582],
+
+'Jagiellonian University in Krakow': [50.0614, 19.9366],
+
+'Karl-Franzens University Graz': [47.077, 15.450],
+
+'Leibniz-Institut für Deutsche Sprache Mannheim': [49.487, 8.466],
+
+'Leiden University Centre for Linguistics': [52.1601, 4.497],
+
+'Lomonosov Moscow State University (MSU)': [55.703, 37.530],
+
+'Macquarie University': [-33.775, 151.113],
+
+'Michigan State University': [42.7018, -84.4822],
+
+'Osaka University': [34.822, 135.523],
+'The University of Osaka': [34.822, 135.523],
+
+'Potsdam University': [52.400, 13.060],
+
+'Pushkin State Russian Language Institute': [55.765, 37.606],
+
+'Pázmány Péter Catholic University': [47.487, 19.058],
+
+'Tel-Aviv University, Israel': [32.113, 34.804],
+
+'The University of Tokyo': [35.7126, 139.7610],
+'University of Tokyo': [35.7126, 139.7610],
+
+'UMass Amherst': [42.386, -72.529],
+
+'Universidade de São Paulo': [-23.5614, -46.7308],
+
+'Universitat Pompeu Fabra': [41.3855, 2.1944],
+
+"University Ca' Foscari": [45.434, 12.327],
+
+'University of Alcalà': [40.482, -3.364],
+
+'University of Chicago': [41.7897, -87.5997],
+
+'University of Connecticut': [41.808, -72.249],
+
+'University of Crete': [35.305, 25.073],
+
+'University of Edinburgh': [55.944, -3.189],
+
+'University of Nantes': [47.245, -1.555],
+'Université de Nantes': [47.245, -1.555],
+
+'University of Niš': [43.320, 21.895],
+
+'University of Nova Gorica': [45.956, 13.648],
+
+'University of Salzburg': [47.798, 13.048],
+
+'University of Southern California': [34.0224, -118.2851],
+
+'University of Trento': [46.066, 11.149],
+
+'University of Tübingen': [48.5216, 9.0576],
+
+'University of York': [53.946, -1.055],
+
+'University of the Basque Country (UPV/EHU)': [43.263, -2.935],
+
+'Université Paris Cité': [48.8566, 2.3522],
+
+'Université Paris Diderot': [48.829, 2.375],
+'Université Paris Diderot-Paris 7': [48.829, 2.375],
+
+'Université Paris-Sorbonne': [48.8493, 2.3430],
+
+'Université de Lille': [50.611, 3.140],
+
+'Université de Namur, Namur Institute of Language, Text and Transmediality': [50.4669, 4.866],
+
+'Utrecht University': [52.093, 5.122],
+
   'Goethe University Frankfurt': [50.126, 8.669],
   'University of Göttingen': [51.5413, 9.915],
   'Leipzig University': [51.338, 12.378],
@@ -193,7 +537,6 @@ const knownAffiliationCoords: Record<string, [number, number]> = {
   'Sapienza University of Rome': [41.903, 12.513],
   'McGill University': [45.5048, -73.5772],
   'University of Pennsylvania': [39.9522, -75.1932],
-  'University of Toronto': [43.6629, -79.3957],
   'Rutgers University, New Brunswick': [40.5007, -74.4474],
   'University of Essex': [51.8786, 0.947],
   'The University of Edinburgh': [55.944, -3.189],
@@ -206,7 +549,6 @@ const knownAffiliationCoords: Record<string, [number, number]> = {
   'Roma Tre University': [41.857, 12.467],
   'Universitat de Girona': [41.963, 2.828],
   'Bar-Ilan University, Israel': [32.067, 34.843],
-  'Ben-Gurion University of the Negev': [31.262, 34.801],
   'Tel-Aviv University': [32.113, 34.804],
   'The Hebrew University of Jerusalem': [31.777, 35.234],
   'Sophia University': [35.694, 139.730],
@@ -251,6 +593,7 @@ const knownAffiliationCoords: Record<string, [number, number]> = {
   
   'Université de Provence, Laboratoire Parole et Langage (LPL)': [43.296, 5.369],
   'Utrecht Institute of Linguistics OTS': [52.093, 5.122],
+  'Lund University': [55.7047, 13.1910],
   'Utecht Institute of Linguistics OTS': [52.093, 5.122], // typo alias
 };
 

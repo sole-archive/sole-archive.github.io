@@ -1,0 +1,76 @@
+SOLE Archive coordinate coverage report
+Run at: 2026-02-16 17:02:04 CET
+
+papers.json: public\papers.json
+Analytics.astro: src\pages\Analytics.astro
+
+=== Summary ===
+Total papers: 313
+Missing venue coords (unique canonical names): 0
+Missing affiliation coords (unique canonical names): 7
+Papers with affiliation present but empty (e.g. ['']): 55
+
+=== Missing venues (after normalization) ===
+(none)
+
+=== Missing affiliations (after normalization) ===
+-   | examples: atb-kasai-2025
+- Department of Linguistics, University of Cambridge  | examples: Newton-ConSOLE14-2005
+- Jawaharlal Nehru University, New Delhi  | examples: Mathew-ConSOLE14-2005
+- LUCL, Leiden University  | examples: Arsenijević-ConSOLE14-2005
+- University of Nice- France / University of Leipzig - Germany  | examples: Caratini-ConSOLE14-2005
+- Università di Siena and Utrecht Institute of Linguistics OTS  | examples: Gehrke&Grillo-ConSOLE14-2005
+- Univerza v Novi Gorici  | examples: Marušič-ConSOLE14-2005
+
+=== Papers with empty affiliation field ===
+- Blaho-ConSOLE9-2000
+- Burkhardt-ConSOLE9-2000
+- Caponigro-ConSOLE9-2000
+- Csirmaz-ConSOLE12-2003
+- DAlessandro-ConSOLE11-2002
+- Dorfman-Leu-Levon-ConSOLE11-2002
+- Dotlacil-ConSOLE13-2004
+- Erechko-ConSOLE11-2002
+- Fragkou-ConSOLE12-2003
+- Fults-ConSOLE13-2004
+- Furukawa-ConSOLE12-2003
+- Galani-ConSOLE11-2002
+- Galani-ConSOLE12-2003
+- Guimarães-ConSOLE9-2000
+- Ionin-ConSOLE9-2000
+- Jabtońske-ConSOLE11-2002
+- Kadowaki-ConSOLE11-2002
+- Kasai-ConSOLE9-2000
+- Klepp-ConSOLE9-2000
+- Kremers-ConSOLE11-2002
+- Lahousse-ConSOLE9-2000
+- LeBruyn-Partitives-2008
+- Leonini-ConSOLE11-2002
+- Levon-ConSOLE9-2000
+- Luís-ConSOLE9-2000
+- Mercado-ConSOLE11-2002
+- Plug-ConSOLE13-2004
+- Pons-ConSOLE9-2000
+- Rakhlin-ConSOLE11-2002
+- Rieder&Schenner-ConSOLE9-2000
+- Roodenburg-ConSOLE11-2002
+- Rothstein-ConSOLE13-2004
+- Rudnicka-Mosiadz-ConSOLE11-2002
+- Rákosi-ConSOLE12-2003
+- Schaden-AspectualRelations-2008
+- Scheiner-ConSOLE11-2002
+- Schelfhout-Coppen-Oostdijk-ConSOLE12-2003
+- Schwager-ConSOLE12-2003
+- Slobbe-ConSOLE12-2003
+- Soares-ConSOLE12-2003
+- Sonnenhauser-ConSOLE12-2003
+- Spector-ConSOLE12-2003
+- Stoyanova-ConSOLE12-2003
+- Takehisa-ConSOLE9-2000
+- Toft-ConSOLE9-2000
+- Visser-ConSOLE11-2002
+- Visser-ConSOLE12-2003
+- Vlachou-ConSOLE12-2003
+- Wagner-ConSOLE12-2003
+- Waleschkowski-ConSOLE12-2003
+... (5 more)

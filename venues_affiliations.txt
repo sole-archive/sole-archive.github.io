@@ -3,8 +3,12 @@ Bielefeld University
 Center for Research In Syntax, Semantics & Phonology (CRISSP), Brussels
 Humboldt-Universität zu Berlin
 Leiden University
+Lund University
+Padova University
 Paris
+Patras University
 Queen Mary University of London
+The Arctic University of Norway
 Universitat Pompeu Fabra
 University Paris Diderot-Paris 7
 University of Groningen
@@ -14,12 +18,14 @@ University of Lisbon
 University of Nantes
 University of Nova Gorica
 University of Potsdam
+University of the Basque Country
 
 Unique affiliations:
 
 Amsterdam Center for Language and Communication
 Autonomous University of Barcelona
 Bar-Ilan University, Israel
+Ben Gurion University
 Ben-Gurion University of the Negev
 Bergische Universitat Wuppertal
 Bielefeld University
@@ -30,6 +36,10 @@ Centre for Advanced Study in Theoretical Linguistics (CASTL), University of Trom
 Department of Linguistics, New York University
 Department of Linguistics, Paris 8 University
 Department of Linguistics, University College London
+Department of Linguistics, University of Cambridge
+Department of Linguistics, University of Toronto, Toronto, Canada
+Department of Philosophy, Radboud University Nijmegen
+Department of Phonetics and Linguistics, University College London
 Department of Psychology, University of Michigan
 Eberhard Karls Universität Tübingen
 Escola Superior de Saúde do Instituto Politécnico de Leiria
@@ -55,15 +65,18 @@ J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen
 JSPS Research Fellow
 Jadavpur University, Kolkata
 Jagiellonian University in Krakow
+Jawaharlal Nehru University, New Delhi
 Julius-Maximilians-Universität Würzburg
 Karl-Franzens University Graz
 Kyushu University
+LUCL, Leiden University
 La Sapienza University
 Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)
 Laboratoire de Linguistique Formelle (LLF), Université Paris 7
 Language & Brain Laboratory, University of Oxford
 Leibniz-Institut für Deutsche Sprache Mannheim
 Leiden University Centre for Linguistics
+Leiden University, Leiden Center for Linguistics (ULCL)
 Leipzig University
 Lomonosov Moscow State University
 Lomonosov Moscow State University (MSU)
@@ -76,14 +89,17 @@ Meertens Instituut, Amsterdam
 Michigan State University
 Nantes University
 National Chi Nan University
+New York University
 Osaka University
 Potsdam University
 Pushkin State Russian Language Institute
 Pázmány Péter Catholic University
 Queen Mary University of London
+Radboud University Nijmegen
 Rheinische Friedrich-Wilhelms-Universität Bonn
 Roma Tre University
 Rutgers University, New Brunswick
+Siena University & Utrecht Institute of Linguistics OTS
 Simon Fraser University
 Sophia University
 Stony Brook University
@@ -105,7 +121,6 @@ Universitat Pompeu Fabra
 Universitat de Barcelona & Universitat Autònoma de Barcelona
 Universitat de Girona
 Universiteit van Amsterdam
-University Ca' Foscari
 University College London
 University Paris X Nanterre, Laboratoire MoDyCo
 University of Alcalà
@@ -121,6 +136,7 @@ University of Connecticut
 University of Crete
 University of Edinburgh
 University of Essex
+University of Frankfurt am Main
 University of Geneva
 University of Graz
 University of Groningen
@@ -129,9 +145,11 @@ University of Leipzig
 University of Massachusetts at Amherst
 University of Michigan
 University of Nantes
+University of Nice- France / University of Leipzig - Germany
 University of Niš
 University of Nova Gorica
 University of Oslo
+University of Ottawa
 University of Oxford
 University of Pennsylvania
 University of Potsdam
@@ -145,13 +163,17 @@ University of Trento
 University of Tübingen
 University of Udine
 University of Utah
+University of Venice
 University of Vienna
+University of Warsaw and Collegium Invisibile
 University of Wisconsin-Milwaukee
 University of York
 University of the Basque Country (UPV/EHU)
 Università degli Studi di Firenze
+Università di Siena and Utrecht Institute of Linguistics OTS
 Universität Leipzig
 Universität Potsdam
+Universität Tübingen
 Université Paris Cité
 Université Paris Diderot
 Université Paris Diderot-Paris 7
@@ -160,6 +182,7 @@ Université de Lille
 Université de Namur, Namur Institute of Language, Text and Transmediality
 Université de Nantes
 Université de Provence, Laboratoire Parole et Langage (LPL)
+Univerza v Novi Gorici
 Utecht Institute of Linguistics OTS
 Utrecht Institute of Linguistics OTS
 Utrecht University
