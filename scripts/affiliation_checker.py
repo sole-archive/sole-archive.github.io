@@ -12,7 +12,7 @@ from collections import defaultdict
 # Config (adjust if needed)
 # -------------------------
 PAPERS_JSON = Path("public/papers.json")          # prebuild copies here
-ANALYTICS_ASTRO = Path("src/pages/Analytics.astro")
+ANALYTICS_ASTRO = Path("src/pages/analytics.astro")
 REPORT_TXT = Path("report.txt")
 TZ = ZoneInfo("Europe/Rome")
 
