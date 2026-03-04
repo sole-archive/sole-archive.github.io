@@ -1,8 +1,8 @@
 SOLE Archive coordinate coverage report
-Run at: 2026-02-16 17:02:04 CET
+Run at: 2026-03-04 15:28:01 CET
 
 papers.json: public\papers.json
-Analytics.astro: src\pages\Analytics.astro
+Analytics.astro: src\pages\analytics.astro
 
 === Summary ===
 Total papers: 313
