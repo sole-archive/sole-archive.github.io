@@ -200,7 +200,7 @@ def main() -> None:
             lines.append(f"... ({len(empty_affiliation_slugs) - 50} more)")
 
     REPORT_TXT.write_text("\n".join(lines), encoding="utf-8")
-    print(f"✅ Done! Report written to {REPORT_TXT.resolve()}")
+    print(f"Done! Report written to {REPORT_TXT.resolve()}")
 
 
 if __name__ == "__main__":

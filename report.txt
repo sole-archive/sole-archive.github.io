@@ -1,14 +1,14 @@
 SOLE Archive coordinate coverage report
-Run at: 2026-03-04 15:28:01 CET
+Run at: 2026-05-20 12:09:35 CEST
 
 papers.json: public\papers.json
 Analytics.astro: src\pages\analytics.astro
 
 === Summary ===
-Total papers: 313
+Total papers: 380
 Missing venue coords (unique canonical names): 0
-Missing affiliation coords (unique canonical names): 7
-Papers with affiliation present but empty (e.g. ['']): 55
+Missing affiliation coords (unique canonical names): 28
+Papers with affiliation present but empty (e.g. ['']): 60
 
 === Missing venues (after normalization) ===
 (none)
@@ -16,9 +16,30 @@ Papers with affiliation present but empty (e.g. ['']): 55
 === Missing affiliations (after normalization) ===
 -   | examples: atb-kasai-2025
 - Department of Linguistics, University of Cambridge  | examples: Newton-ConSOLE14-2005
+- Dongguk University  | examples: shinchoi-dislocation-2017
+- Harvard University  | examples: gonzalez-countability-2018
+- Japan Society for the Promotion of Science  | examples: ihara-imperatives-2018, ito-discourseparticles-2018, ito-exlamatives-2017, kobayashi-featureinheritance-2017, kobayashiasada-coordinate-2016, okabe-stehen-2018
 - Jawaharlal Nehru University, New Delhi  | examples: Mathew-ConSOLE14-2005
+- KU Leuven  | examples: person-sonnaert-2017
+- Kyoto University  | examples: okabe-stehen-2018
 - LUCL, Leiden University  | examples: Arsenijević-ConSOLE14-2005
+- Laboratoire de Linguistique Formelle  | examples: bernard-negation-2018
+- Leiden University  | examples: okabe-stehen-2018
+- Moscow State University of Education (MSPU)  | examples: gerasimova-nominalizations-2017
+- Norwegian University of Science and Technology  | examples: eik-nonheads-2017
+- Rutgers University  | examples: bhadra-evidentials-2016
+- School of Oriental and African Studies, University of London  | examples: lu-mandarinlightverbs-2016
+- University of Alicante  | examples: alicante-roigmarin-2016
+- University of Arizona  | examples: kobayashismith-japanese-2017
+- University of Calabria  | examples: kollamagi-creole-2016
+- University of Cyprus  | examples: theodorou-preposition-2018
+- University of Cyprus¹  | examples: theodorou-kyriakou-chrysostomou-2018
+- University of Edinburgh²  | examples: theodorou-kyriakou-chrysostomou-2018
+- University of Glasgow  | examples: jamieson-acceptability-2018
+- University of Maryland  | examples: doliana-minimality-2016
 - University of Nice- France / University of Leipzig - Germany  | examples: Caratini-ConSOLE14-2005
+- University of Sheffield  | examples: xavier-negotiating-2016
+- Università Ca’ Foscari Venezia  | examples: dalfarra-adjunctislands-2018
 - Università di Siena and Utrecht Institute of Linguistics OTS  | examples: Gehrke&Grillo-ConSOLE14-2005
 - Univerza v Novi Gorici  | examples: Marušič-ConSOLE14-2005
 
@@ -73,4 +94,4 @@ Papers with affiliation present but empty (e.g. ['']): 55
 - Vlachou-ConSOLE12-2003
 - Wagner-ConSOLE12-2003
 - Waleschkowski-ConSOLE12-2003
-... (5 more)
+... (10 more)

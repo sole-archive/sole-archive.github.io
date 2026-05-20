@@ -34,4 +34,4 @@ with open("venues_affiliations.txt", "w", encoding="utf-8") as f:
     for a in sorted(affiliations):
         f.write(a + "\n")
 
-print("✅ Done! Results saved to venues_affiliations.txt")
+print("Done! Results saved to venues_affiliations.txt")

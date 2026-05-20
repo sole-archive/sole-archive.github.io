@@ -25,7 +25,7 @@ const bibtexCitation = `@inproceedings{${paper.slug},\n  title={${paper.title}},
 <Layout
   title={`${paper.title} - SOLE Archive`}
   description={paper.abstract}
-  ogImage={`/images/papers/${paper.slug}.jpg`}  
+  ogImage={`/og/${paper.slug}.png`}
   url={`https://sole.example.org/paper/${paper.slug}`}
 />
 
@@ -196,7 +196,7 @@ const bibtexCitation = `@inproceedings{${paper.slug},\n  title={${paper.title}},
                ))}
             </div>
             <div class="mt-4">
-              <a href="/papers" class="text-accent hover:text-accent-600 transition-smooth text-sm font-medium">View all related papers →</a>
+              <a href="/papers" class="text-accent hover:text-accent-600 transition-smooth text-sm font-medium">View more papers →</a>
             </div>
           </div>
         )}

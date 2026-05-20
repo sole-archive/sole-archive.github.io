@@ -1,132 +1,105 @@
 import json
 import os
 import re
-from collections import defaultdict
-from typing import Dict, List, Set, Tuple
+from typing import Dict, List
+
+import numpy as np
+from nltk.stem import PorterStemmer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+STOPWORDS = frozenset({
+    'the','and','of','in','to','a','for','on','with','by','from','as','at','is','it',
+    'that','this','an','be','are','or','we','our','their','into','over','under',
+    'without','across','via','about','also','has','have','been','which','they',
+    'than','these','those','its','such','between','after','before','show','shows',
+    'shown','argue','argues','argued','paper','present','presents','presented',
+    'discuss','discusses','discussed','propose','proposes','proposed','analysis',
+    'analyzes','analyzed','data','results','however','therefore','thus','while',
+    'when','where','what','how','two','three','one','first','second','i','ii','iii',
+})
+
+_stemmer = PorterStemmer()
+_TOKEN_RE = re.compile(r"[a-zA-Z][a-zA-Z'-]*[a-zA-Z]|[a-zA-Z]{2,}", re.UNICODE)
 
 
-RE_WHITESPACE = re.compile(r"\s+")
+def _tokenize(text: str) -> List[str]:
+    tokens = _TOKEN_RE.findall(text.lower())
+    return [
+        _stemmer.stem(t)
+        for t in tokens
+        if t not in STOPWORDS and len(t) >= 2
+    ]
 
 
-def tokenize(text: str) -> List[str]:
-    if not text:
-        return []
-    # Normalize whitespace and lowercase
-    text = RE_WHITESPACE.sub(" ", text).lower()
-    # Split on non-word characters; keep tokens that contain at least one alphanumeric
-    tokens = re.split(r"\W+", text, flags=re.UNICODE)
-    return [t for t in tokens if t and any(ch.isalnum() for ch in t)]
-
-
-STOPWORDS: Set[str] = {
-    # very small stopword set to reduce noise
-    'the','and','of','in','to','a','for','on','with','by','from','as','at','is','it','that','this','an','be','are','or','we','our','their',
-    'into','over','under','without','across','via','about','based','case','study','studies'
-}
-
-
-def build_token_sets(paper: Dict) -> Tuple[Set[str], Set[str], Set[str]]:
-    title_tokens = {t for t in tokenize(paper.get('title', '')) if t not in STOPWORDS}
+def _build_document(paper: Dict) -> str:
+    """Weighted document: keywords × 4, title × 3, abstract × 1."""
+    title = str(paper.get('title') or '')
     kw_list = paper.get('keywords') or []
     if isinstance(kw_list, str):
         kw_list = [kw_list]
-    keyword_tokens = set()
-    for kw in kw_list:
-        keyword_tokens.update(t for t in tokenize(str(kw)) if t not in STOPWORDS)
-    abstract_tokens = {t for t in tokenize(paper.get('abstract', '')) if t not in STOPWORDS}
-    return title_tokens, keyword_tokens, abstract_tokens
-
-
-def score_pair(a: Tuple[Set[str], Set[str], Set[str]], b: Tuple[Set[str], Set[str], Set[str]]) -> int:
-    a_title, a_kw, a_abs = a
-    b_title, b_kw, b_abs = b
-    # Weighted overlaps: emphasize keywords and titles, include cross overlaps
-    score = 0
-    score += 4 * len(a_kw & b_kw)
-    score += 3 * len(a_title & b_title)
-    score += 2 * len(a_title & b_kw)
-    score += 2 * len(a_kw & b_title)
-    score += 1 * len(a_abs & b_abs)
-    # Small bonus if editions match (when available)
-    return score
+    keywords = ' '.join(str(k) for k in kw_list)
+    abstract = str(paper.get('abstract') or '')
+    return ' '.join([keywords] * 4 + [title] * 3 + [abstract])
 
 
 def main():
     root = os.path.dirname(os.path.dirname(__file__))
     papers_path = os.path.join(root, 'src', 'content', 'papers.json')
-    backup_path = os.path.join(root, 'src', 'content', 'papers.backup.before_related.json')
 
     with open(papers_path, 'r', encoding='utf-8') as f:
         papers: List[Dict] = json.load(f)
 
-    # ✅ Clear all existing related_slugs at the beginning
     for p in papers:
-        if 'related_slugs' in p:
-            p['related_slugs'] = []
+        p['related_slugs'] = []
 
-    # Build token sets for all papers
-    idx_by_slug: Dict[str, int] = {}
-    features: List[Tuple[Set[str], Set[str], Set[str]]] = []
-    for i, p in enumerate(papers):
-        slug = p.get('slug')
-        if not slug:
-            slug = f"paper_{i}"
-            p['slug'] = slug
-        idx_by_slug[slug] = i
-        features.append(build_token_sets(p))
-
-    # Pre-compute scores matrix sparsely
-    related: Dict[int, List[Tuple[int, int]]] = defaultdict(list)
+    docs = [_build_document(p) for p in papers]
+    slugs = [p.get('slug', f'paper_{i}') for i, p in enumerate(papers)]
     n = len(papers)
-    for i in range(n):
-        for j in range(i + 1, n):
-            s = score_pair(features[i], features[j])
-            # Always store to allow fallback to at least 5
-            related[i].append((j, s))
-            related[j].append((i, s))
 
-    # For each paper, choose top K related slugs
-    MIN_RELATED = 5
-    TARGET_RELATED = 6  # choose a little more than minimum
+    vectorizer = TfidfVectorizer(
+        tokenizer=_tokenize,
+        token_pattern=None,
+        min_df=2,        # term must appear in at least 2 papers
+        max_df=0.85,     # ignore terms appearing in >85% of papers
+        ngram_range=(1, 2),
+        sublinear_tf=True,
+    )
+    tfidf_matrix = vectorizer.fit_transform(docs)
+
+    sim_matrix = cosine_similarity(tfidf_matrix)
+
+    TOP_K = 6
+    MIN_K = 5
 
     for i, p in enumerate(papers):
-        scored = related.get(i, [])
-        # Sort by score desc, then by year proximity (optional), then title
-        year_i = p.get('year')
-        def sort_key(item):
-            j, s = item
-            year_j = papers[j].get('year')
-            year_delta = abs(int(year_i) - int(year_j)) if isinstance(year_i, int) and isinstance(year_j, int) else 9999
-            title_j = papers[j].get('title', '')
-            return (-s, year_delta, title_j)
+        sim_row = sim_matrix[i].copy()
+        sim_row[i] = -1.0
 
-        scored.sort(key=sort_key)
-        top = [papers[j].get('slug') for j, s in scored[:max(TARGET_RELATED, MIN_RELATED)]]
-        # Ensure unique and no self
-        top = [slug for slug in top if slug and slug != p.get('slug')]
-        # Fallback: pad if needed with any other slugs by order
-        if len(top) < MIN_RELATED:
+        top_indices = np.argsort(sim_row)[::-1]
+        top_slugs = []
+        for j in top_indices:
+            if len(top_slugs) >= TOP_K:
+                break
+            cand = slugs[j]
+            if cand and cand != slugs[i]:
+                top_slugs.append(cand)
+
+        if len(top_slugs) < MIN_K:
             for j in range(n):
-                if len(top) >= MIN_RELATED:
+                if len(top_slugs) >= MIN_K:
                     break
-                cand = papers[j].get('slug')
-                if cand and cand != p.get('slug') and cand not in top:
-                    top.append(cand)
+                cand = slugs[j]
+                if cand and cand != slugs[i] and cand not in top_slugs:
+                    top_slugs.append(cand)
 
-        p['related_slugs'] = top
-
-    # Backup and write
-    if not os.path.exists(backup_path):
-        with open(backup_path, 'w', encoding='utf-8') as f:
-            json.dump(papers, f, ensure_ascii=False, indent=2)
+        p['related_slugs'] = top_slugs
 
     with open(papers_path, 'w', encoding='utf-8') as f:
         json.dump(papers, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated {papers_path} with related_slugs for {len(papers)} papers.")
+    print(f"Updated related_slugs for {n} papers.")
 
 
 if __name__ == '__main__':
     main()
-
-

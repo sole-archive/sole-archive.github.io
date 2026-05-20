@@ -10,6 +10,7 @@ Patras University
 Queen Mary University of London
 The Arctic University of Norway
 Universitat Pompeu Fabra
+University College London
 University Paris Diderot-Paris 7
 University of Groningen
 University of Göttingen
@@ -18,6 +19,7 @@ University of Lisbon
 University of Nantes
 University of Nova Gorica
 University of Potsdam
+University of York
 University of the Basque Country
 
 Unique affiliations:
@@ -41,6 +43,7 @@ Department of Linguistics, University of Toronto, Toronto, Canada
 Department of Philosophy, Radboud University Nijmegen
 Department of Phonetics and Linguistics, University College London
 Department of Psychology, University of Michigan
+Dongguk University
 Eberhard Karls Universität Tübingen
 Escola Superior de Saúde do Instituto Politécnico de Leiria
 Eötvös Loránd University (ELTE), Budapest
@@ -54,6 +57,7 @@ Goethe University, Frankfurt
 Goethe-University Frankfurt
 Goethe-Universität Frankfurt
 Groningen University
+Harvard University
 Heinrich Heine University Düsseldorf
 Higher School of Economics
 Humboldt-Universität zu Berlin
@@ -65,16 +69,21 @@ J.W. Goethe-Universität Frankfurt/Georg-August-Universität Göttingen
 JSPS Research Fellow
 Jadavpur University, Kolkata
 Jagiellonian University in Krakow
+Japan Society for the Promotion of Science
 Jawaharlal Nehru University, New Delhi
 Julius-Maximilians-Universität Würzburg
+KU Leuven
 Karl-Franzens University Graz
+Kyoto University
 Kyushu University
 LUCL, Leiden University
 La Sapienza University
+Laboratoire de Linguistique Formelle
 Laboratoire de Linguistique Formelle (CNRS UMR 7110 - Université Paris 7)
 Laboratoire de Linguistique Formelle (LLF), Université Paris 7
 Language & Brain Laboratory, University of Oxford
 Leibniz-Institut für Deutsche Sprache Mannheim
+Leiden University
 Leiden University Centre for Linguistics
 Leiden University, Leiden Center for Linguistics (ULCL)
 Leipzig University
@@ -87,9 +96,11 @@ McGill University
 Meertens Instituut
 Meertens Instituut, Amsterdam
 Michigan State University
+Moscow State University of Education (MSPU)
 Nantes University
 National Chi Nan University
 New York University
+Norwegian University of Science and Technology
 Osaka University
 Potsdam University
 Pushkin State Russian Language Institute
@@ -98,7 +109,9 @@ Queen Mary University of London
 Radboud University Nijmegen
 Rheinische Friedrich-Wilhelms-Universität Bonn
 Roma Tre University
+Rutgers University
 Rutgers University, New Brunswick
+School of Oriental and African Studies, University of London
 Siena University & Utrecht Institute of Linguistics OTS
 Simon Fraser University
 Sophia University
@@ -124,24 +137,32 @@ Universiteit van Amsterdam
 University College London
 University Paris X Nanterre, Laboratoire MoDyCo
 University of Alcalà
+University of Alicante
 University of Amsterdam
+University of Arizona
 University of Athens
 University of British Columbia
 University of Bucharest
+University of Calabria
 University of California, Los Angeles
 University of Cambridge
 University of Chicago
 University of Cologne
 University of Connecticut
 University of Crete
+University of Cyprus
+University of Cyprus¹
 University of Edinburgh
+University of Edinburgh²
 University of Essex
 University of Frankfurt am Main
 University of Geneva
+University of Glasgow
 University of Graz
 University of Groningen
 University of Göttingen
 University of Leipzig
+University of Maryland
 University of Massachusetts at Amherst
 University of Michigan
 University of Nantes
@@ -154,6 +175,7 @@ University of Oxford
 University of Pennsylvania
 University of Potsdam
 University of Salzburg
+University of Sheffield
 University of Southern California
 University of Stuttgart
 University of Stuttgart, Institute of Linguistics, Division of English Linguistics (IfLA)
@@ -169,6 +191,7 @@ University of Warsaw and Collegium Invisibile
 University of Wisconsin-Milwaukee
 University of York
 University of the Basque Country (UPV/EHU)
+Università Ca’ Foscari Venezia
 Università degli Studi di Firenze
 Università di Siena and Utrecht Institute of Linguistics OTS
 Universität Leipzig
