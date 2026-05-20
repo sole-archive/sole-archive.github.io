@@ -209,7 +209,7 @@ function buildCard(paper) {
                 type: 'div',
                 props: {
                   style: {
-                    fontSize: 14,
+                    fontSize: 23,
                     fontWeight: 600,
                     color: ACCENT,
                     fontFamily: 'Inter',

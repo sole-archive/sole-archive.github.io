@@ -49,26 +49,22 @@ const { currentPage = "home" } = Astro.props;
   </nav>
   
   <!-- Mobile Menu Dropdown -->
-  <div class="md:hidden hidden absolute top-16 right-0 w-48 bg-white border border-border rounded-lg shadow-lg z-50" id="mobile-menu">
-    <div class="py-2">
-      <a href="/" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'home' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+  <div class="md:hidden hidden w-full bg-white border-t border-border shadow-md z-50" id="mobile-menu">
+    <div class="flex flex-col divide-y divide-border">
+      <a href="/" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'home' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Home
       </a>
-
-      <a href="/analytics" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'analytics' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+      <a href="/analytics" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'analytics' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Analytics
       </a>
-      
-      <a href="/papers" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'papers' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+      <a href="/papers" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'papers' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Browse Papers
       </a>
-      
-      <a href="/board" class={`block px-4 py-2 text-base font-medium transition-smooth ${currentPage === 'board' ? 'bg-primary text-white' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+      <a href="/board" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'board' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Board
       </a>
     </div>
   </div>
-  </nav>
 </header>
 
 <script>
