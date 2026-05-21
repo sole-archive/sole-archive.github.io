@@ -64,11 +64,11 @@ const bibtexCitation = `@inproceedings{${paper.slug},\n  title={${paper.title}},
               <span class="text-text-secondary">{paper.console_venue}</span>
             </div>
                          <div class="flex items-center space-x-2">
-               <button class="p-2 text-text-secondary hover:text-accent transition-smooth" title="Share paper">
+               <a href={`/ig/paper/${paper.slug}.png`} download={`${paper.slug}.png`} class="p-2 text-text-secondary hover:text-accent transition-smooth" title="Download image card">
                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.367 2.684 3 3 0 00-5.367-2.684z"/>
                  </svg>
-    </button>
+               </a>
              </div>
           </div>
 
@@ -350,20 +350,4 @@ const bibtexCitation = `@inproceedings{${paper.slug},\n  title={${paper.title}},
     }
   });
 
-  document.addEventListener('DOMContentLoaded', function() {
-    const shareButton = document.querySelector('button[title="Share paper"]');
-    if (shareButton && navigator.share) {
-      shareButton.addEventListener('click', async () => {
-        try {
-          await navigator.share({
-            title: document.title,
-            text: `${document.title}`,
-            url: window.location.href
-          });
-        } catch (err) {
-          console.error('Error sharing:', err);
-        }
-      });
-    }
-  });
 </script>
