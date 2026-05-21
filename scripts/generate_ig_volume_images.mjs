@@ -48,8 +48,7 @@ function truncate(text, max) {
 const W        = 1080;
 const H        = 1350;
 const BAND_H   = 180;   // top band (SOLE branding)
-const TITLE_H  = 310;   // year/venue + title + editors with breathing room
-const BOTTOM_H = H - BAND_H - TITLE_H; // 860 — cover + contributors
+// Title section has no fixed height — it grows with content; bottom section fills the rest
 const PRIMARY  = '#1e3a8a';
 const TEXT_BODY  = '#374151';
 const TEXT_MUTED = '#6b7280';
@@ -267,7 +266,6 @@ function buildCard(volume) {
               alignItems: 'flex-start',
               justifyContent: 'flex-start',
               width: W,
-              height: TITLE_H,
               padding: '44px 80px 44px 80px',
               gap: 12,
               borderBottom: `2px solid ${BORDER}`,
@@ -337,7 +335,7 @@ function buildCard(volume) {
             style: {
               display: 'flex',
               width: W,
-              height: BOTTOM_H,
+              flex: 1,
             },
             children: [
 
@@ -350,7 +348,7 @@ function buildCard(volume) {
                     alignItems: 'center',
                     justifyContent: 'center',
                     width: LEFT_COL_W,
-                    height: BOTTOM_H,
+                    alignSelf: 'stretch',
                     padding: '40px 20px 40px 50px',
                   },
                   children: [coverEl],
@@ -365,7 +363,7 @@ function buildCard(volume) {
                     display: 'flex',
                     flexDirection: 'column',
                     width: RIGHT_COL_W,
-                    height: BOTTOM_H,
+                    alignSelf: 'stretch',
                     padding: '110px 60px 40px 24px',
                   },
                   children: [
@@ -467,7 +465,10 @@ async function main() {
   }));
 
   if (preview) {
-    const vol = volumes.sort((a, b) => b.year - a.year)[0];
+    const previewSlug = process.argv.find(a => a.startsWith('--slug='))?.slice(7);
+    const vol = previewSlug
+      ? volumes.find(v => v.slug === previewSlug) ?? volumes[0]
+      : volumes.sort((a, b) => b.year - a.year)[0];
     const png = await generatePng(vol);
     const outArg = process.argv.find(a => a.startsWith('--out='));
     const out = outArg
