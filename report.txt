@@ -1,5 +1,5 @@
 SOLE Archive coordinate coverage report
-Run at: 2026-05-20 13:21:44 CEST
+Run at: 2026-05-21 10:25:03 CEST
 
 papers.json: public\papers.json
 Analytics.astro: src\pages\analytics.astro

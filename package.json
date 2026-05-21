@@ -4,7 +4,7 @@
   "description": "Academic digital archive and research discovery platform for ConSOLE proceedings",
   "type": "module",
   "scripts": {
-    "prebuild": "node -e \"require('fs').mkdirSync('public',{recursive:true});require('fs').copyFileSync('src/content/papers.json','public/papers.json')\" && python scripts/build_related_slugs.py && python scripts/venues_count.py && python scripts/affiliation_checker.py && node scripts/generate_og_images.mjs",
+    "prebuild": "node -e \"require('fs').mkdirSync('public',{recursive:true});require('fs').copyFileSync('src/content/papers.json','public/papers.json')\" && python scripts/build_related_slugs.py && python scripts/venues_count.py && python scripts/affiliation_checker.py && node scripts/generate_og_images.mjs && node scripts/generate_og_volume_images.mjs",
     "dev": "npm run prebuild && astro dev",
     "start": "npm run prebuild && astro dev",
     "build": "astro build && echo > dist/.nojekyll",

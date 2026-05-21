@@ -33,6 +33,9 @@ const { currentPage = "home" } = Astro.props;
         <a href="/papers" class={`font-medium pb-1 transition-smooth ${currentPage === 'papers' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
           Browse Papers
         </a>
+        <a href="/volumes" class={`font-medium pb-1 transition-smooth ${currentPage === 'volumes' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
+          Volumes
+        </a>
         <a href="/board" class={`font-medium pb-1 transition-smooth ${currentPage === 'board' ? 'text-primary border-b-2 border-primary' : 'text-text-secondary hover:text-primary'}`}>
           Board
         </a>
@@ -59,6 +62,9 @@ const { currentPage = "home" } = Astro.props;
       </a>
       <a href="/papers" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'papers' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Browse Papers
+      </a>
+      <a href="/volumes" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'volumes' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
+        Volumes
       </a>
       <a href="/board" class={`px-6 py-4 text-base font-medium transition-smooth ${currentPage === 'board' ? 'bg-primary/5 text-primary border-l-4 border-primary' : 'text-text-secondary hover:text-primary hover:bg-surface'}`}>
         Board
