@@ -1,11 +1,11 @@
 SOLE Archive coordinate coverage report
-Run at: 2026-05-21 14:57:45 CEST
+Run at: 2026-06-02 09:27:24 CEST
 
 papers.json: public\papers.json
 Analytics.astro: src\pages\analytics.astro
 
 === Summary ===
-Total papers: 380
+Total papers: 379
 Missing venue coords (unique canonical names): 0
 Missing affiliation coords (unique canonical names): 28
 Papers with affiliation present but empty (e.g. ['']): 60

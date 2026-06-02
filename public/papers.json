@@ -7847,10 +7847,10 @@
     ]
   },
   {
-    "slug": "gendersyncretism-bushan-2025",
+    "slug": "gendersyncretism-bhushan-2025",
     "title": "Number-driven gender syncretism and Impoverishment: Some insights from Kannada",
     "authors": [
-      "Sid Bushan"
+      "Sid Bhushan"
     ],
     "affiliation": [
       "University of Michigan"
@@ -8103,7 +8103,7 @@
     "slug": "chechen-berkovich-2025",
     "title": "Polarity-sensitive exceptives: the case of Chechen",
     "authors": [
-      "Tommaso Sgrizzi"
+      "Maria Berkovich"
     ],
     "affiliation": [
       "Higher School of Economics"
@@ -8205,42 +8205,6 @@
       "Smith-collectivenouns-2013",
       "carvalho-locative-impersonal-2015",
       "mordashova-hillmari-2017"
-    ]
-  },
-  {
-    "slug": "Blaho-ConSOLE9-2000",
-    "title": "The behaviour of /j/, /v/ and /h/ in Hungarian voice assimilation - an OT analysis",
-    "authors": [
-      "Sylvia Blaho"
-    ],
-    "affiliation": [
-      ""
-    ],
-    "console_venue": "Lund University",
-    "year": 2001,
-    "pages": "17-31",
-    "edition": "ConSOLE 10",
-    "keywords": [
-      "Optimality Theory",
-      "Hungarian Phonology",
-      "Voice Assimilation"
-    ],
-    "abstract": "The purpose of this paper is to give a unified account of Hungarian voice assimilation phenomena in the framework of Optimality Theory (Prince & Smolensky 1993). The discussion focuses on the sounds /j/, /v/ and /h/, which sometimes behave as sonorants and sometimes as obstruents with respect to voice assimilation. The OT model presented here is capable of accounting for the ‘exceptional’ as well as the ‘regular’ cases of voice assimilation. Apart from dealing with the Hungarian data, the paper also examines the question whether faithfulness constraints on [voice] apply to output obstruents with a sonorant input.",
-    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-x.pdf",
-    "corresponding_email": "",
-    "editors": [
-      "Marjo van Koppen",
-      "Ericca Thrift",
-      "Erik Jan van der Torre",
-      "Malte Zimmermann"
-    ],
-    "related_slugs": [
-      "Sóskuthy-Voicing-2008",
-      "huszthy-italianvoice-2016",
-      "Burkhardt-ConSOLE9-2000",
-      "Zimmermann-Kiranti-2012",
-      "barman-learnability-2023",
-      "Szeredi-Hungarian-2012"
     ]
   },
   {
