@@ -8,11 +8,31 @@ const papers2023 = papers.filter(paper => paper.year === 2025);
 const featuredPapers = papers2023
   .sort(() => Math.random() - 0.5) // Shuffle the array
   .slice(0, 3); // Take first 3 papers
+  // ConSOLE 35 call for abstracts
+const cfpDeadline = new Date('2026-10-04T23:59:59+02:00');
+const daysLeft = Math.ceil((cfpDeadline.getTime() - Date.now()) / 86_400_000);
+const cfpOpen = daysLeft > 0;
 ---
 
 <Layout title="ConSOLE Archive - Access the Proceedings of ConSOLE Conferences">
   <Navigation currentPage="home" />
-  
+       <!-- ConSOLE 35 Announcement Banner -->
+       {cfpOpen && (
+        <aside class="cfp-banner">
+          <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex items-center gap-6">
+            <div class="cfp-marquee flex-1 min-w-0">
+              <div class="cfp-track">
+                <span class="cfp-item font-crimson text-base lg:text-lg">🥳 The Call for Papers of ConSOLE35 is out! 🥳 <span class="cfp-muted">Submission deadline: 4 October 2026 ({daysLeft} days left)</span></span>
+                <span class="cfp-item font-crimson text-base lg:text-lg" aria-hidden="true">🥳 The Call for Papers of ConSOLE35 is out! 🥳 <span class="cfp-muted">Abstracts due 4 October 2026 — {daysLeft} days left</span></span>
+              </div>
+            </div>
+            <div class="flex items-center gap-3 shrink-0 text-sm">
+              <a href="https://easyabs.linguistlist.org/conference/ConSOLE35/" target="_blank" rel="noopener noreferrer" class="cfp-btn-solid font-medium px-4 py-1.5 rounded-lg transition-smooth">Submit an abstract</a>
+              <a href="https://sites.google.com/view/console2027" target="_blank" rel="noopener noreferrer" class="cfp-btn-ghost font-medium px-4 py-1.5 rounded-lg transition-smooth">Conference website</a>
+            </div>
+          </div>
+        </aside>
+      )}
   <!-- Hero Section with Search -->
   <section class="bg-gradient-to-br from-primary-50 to-accent-50 py-16 lg:py-24">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -203,22 +223,82 @@ const featuredPapers = papers2023
   </footer>
   </Layout>
 
- <style>
-   /* Override card styling to ensure proper spacing */
-   .card {
-     padding: 2rem !important;
-     border-radius: 0.75rem !important;
-     border: 1px solid #e5e7eb !important;
-     background: white !important;
-     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
-     transition: all 0.3s ease-out !important;
-   }
-   
-   .card:hover {
-     transform: translateY(-2px) !important;
-     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
-   }
- </style>
+  <style>
+    /* Override card styling to ensure proper spacing */
+    .card {
+      padding: 2rem !important;
+      border-radius: 0.75rem !important;
+      border: 1px solid #e5e7eb !important;
+      background: white !important;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+      transition: all 0.3s ease-out !important;
+    }
+ 
+    .card:hover {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+    }
+ 
+    .cfp-banner {
+      background: #047857;
+      color: #ffffff;
+    }
+ 
+    .cfp-muted {
+      color: #a7f3d0;
+    }
+ 
+    .cfp-btn-solid {
+      background: #ffffff;
+      color: #065f46;
+      white-space: nowrap;
+    }
+ 
+    .cfp-btn-solid:hover {
+      background: #ecfdf5;
+    }
+ 
+    .cfp-btn-ghost {
+      border: 1px solid #6ee7b7;
+      color: #ffffff;
+      white-space: nowrap;
+    }
+ 
+    .cfp-btn-ghost:hover {
+      background: #059669;
+    }
+ 
+    .cfp-marquee {
+      overflow: hidden;
+      -webkit-mask-image: linear-gradient(to right, transparent, black 3rem, black calc(100% - 3rem), transparent);
+      mask-image: linear-gradient(to right, transparent, black 3rem, black calc(100% - 3rem), transparent);
+    }
+ 
+    .cfp-track {
+      display: flex;
+      width: max-content;
+      animation: cfp-scroll 32s linear infinite;
+    }
+ 
+    .cfp-item {
+      padding-right: 4rem;
+      white-space: nowrap;
+    }
+ 
+    .cfp-banner:hover .cfp-track {
+      animation-play-state: paused;
+    }
+ 
+    @keyframes cfp-scroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+ 
+    @media (prefers-reduced-motion: reduce) {
+      .cfp-track { animation: none; }
+      .cfp-item:last-child { display: none; }
+    }
+  </style>
 
 <script>
   // Search functionality

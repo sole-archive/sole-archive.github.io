@@ -1049,10 +1049,10 @@
     "related_slugs": [
       "koelewijn-loanword-2021",
       "Zimmermann-Kiranti-2012",
+      "Blaho-ConSOLE9-2000",
       "dulecavelier-mirrorprinciple-2021",
       "Chang-pronominalordering-2012",
-      "Burkhardt-ConSOLE9-2000",
-      "Baturay-loanwords-2013"
+      "Burkhardt-ConSOLE9-2000"
     ]
   },
   {
@@ -1352,7 +1352,7 @@
     "related_slugs": [
       "goesswein-german-2018",
       "pohl-twitterdiscourse-2023",
-      "gendersyncretism-bushan-2025",
+      "gendersyncretism-bhushan-2025",
       "wambura-kuria-2016",
       "morgunova-complementizer-2021",
       "theodorou-kyriakou-chrysostomou-2018"
@@ -1874,7 +1874,7 @@
       "Lahousse-ConSOLE9-2000",
       "Erechko-ConSOLE11-2002",
       "Zimmermann-Kiranti-2012",
-      "adenuga-oge-2019"
+      "Jabtońske-ConSOLE11-2002"
     ]
   },
   {
@@ -2494,9 +2494,9 @@
       "Zimmermann-Kiranti-2012",
       "barman-learnability-2023",
       "Chang-pronominalordering-2012",
-      "sarvas-suffixes-hungarian-2022",
       "Burkhardt-ConSOLE9-2000",
-      "barnickel-syntactically-2014"
+      "sarvas-suffixes-hungarian-2022",
+      "Blaho-ConSOLE9-2000"
     ]
   },
   {
@@ -3804,8 +3804,8 @@
       "headraising-yamamoto-2025",
       "Boef-doubling-2012",
       "presotto-objectrelatives-2024",
-      "Šimík-whphrases-2008",
-      "Szeredi-Hungarian-2012"
+      "Szeredi-Hungarian-2012",
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -4198,8 +4198,8 @@
       "Luís-ConSOLE9-2000",
       "dulecavelier-mirrorprinciple-2021",
       "person-sonnaert-2017",
-      "gunawardena-objectclitics-2018",
-      "barman-learnability-2023"
+      "barman-learnability-2023",
+      "gunawardena-objectclitics-2018"
     ]
   },
   {
@@ -4270,8 +4270,8 @@
       "mursell-focus-2016",
       "nikiforova-mordvin-2017",
       "Lahousse-ConSOLE9-2000",
-      "chechen-berkovich-2025",
-      "driemel-exclamatives-2015"
+      "driemel-exclamatives-2015",
+      "chechen-berkovich-2025"
     ]
   },
   {
@@ -4511,10 +4511,10 @@
     ],
     "related_slugs": [
       "dulecavelier-mirrorprinciple-2021",
-      "Johnson-Copy-2008",
       "barman-learnability-2023",
+      "Johnson-Copy-2008",
+      "Blaho-ConSOLE9-2000",
       "Chang-pronominalordering-2012",
-      "munoz-perez-copy-theory-2015",
       "barnickel-syntactically-2014"
     ]
   },
@@ -4689,8 +4689,8 @@
       "Laks-Valence-2009",
       "leeamato-korean-2018",
       "Spector-Hebrewclefts-2012",
-      "Galani-ConSOLE12-2003",
       "biswasmukherjee-lexicaldecisiontask-2024",
+      "Galani-ConSOLE12-2003",
       "Levon-ConSOLE9-2000"
     ]
   },
@@ -5038,11 +5038,11 @@
     ],
     "related_slugs": [
       "toth-relatives-2019",
+      "Blaho-ConSOLE9-2000",
       "Plug-ConSOLE13-2004",
       "guzman-naranjo-naturalness-2015",
       "ruhrmannetal-nja-2021",
-      "Caratini-ConSOLE14-2005",
-      "gerocs-hungarian-2013"
+      "Caratini-ConSOLE14-2005"
     ]
   },
   {
@@ -5755,7 +5755,7 @@
       "Hirayama-ConSOLE13-2004",
       "Patin-Tone-2009",
       "MartínezParicio-identityeffects-2013",
-      "fiorini-camuno-2021"
+      "gjersoe-kikuyu-phrases-2015"
     ]
   },
   {
@@ -5929,10 +5929,10 @@
     "related_slugs": [
       "huszthy-italianvoice-2016",
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "russocardona-toughconstructions-2024",
       "enguehard-stress-edge-2015",
-      "Rudnicka-Mosiadz-ConSOLE11-2002"
+      "Rudnicka-Mosiadz-ConSOLE11-2002",
+      "ruhrmannetal-nja-2021"
     ]
   },
   {
@@ -6459,8 +6459,8 @@
       "gerocs-hungarian-2013",
       "chechen-berkovich-2025",
       "mursell-focus-2016",
-      "kobayashismith-japanese-2017",
       "Csirmaz-ConSOLE12-2003",
+      "kobayashismith-japanese-2017",
       "Döring-adverbs-2012"
     ]
   },
@@ -6523,8 +6523,8 @@
       "dalfarra-adjunctislands-2018",
       "Salzmann-ConSOLE13-2004",
       "Assmann-parasiticgaps-2012",
-      "atb-kasai-2025",
       "rynaud-piedpiping-2017",
+      "atb-kasai-2025",
       "Šimík-whphrases-2008"
     ]
   },
@@ -8095,8 +8095,8 @@
       "Galani-ConSOLE12-2003",
       "kwapiszewski-aspect-2020",
       "li-functional-ge-2023",
-      "amato-mupun-2018",
-      "chechen-berkovich-2025"
+      "chechen-berkovich-2025",
+      "amato-mupun-2018"
     ]
   },
   {
@@ -8130,8 +8130,8 @@
       "khomchenkova-exceptives-2020",
       "pinter-csak-2015",
       "mursell-focus-2016",
-      "kobayashismith-japanese-2017",
       "morpho-naganotateno-2025",
+      "kobayashismith-japanese-2017",
       "Döring-adverbs-2012"
     ]
   },
@@ -8272,11 +8272,11 @@
     ],
     "related_slugs": [
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "barman-learnability-2023",
       "Zimmermann-Kiranti-2012",
       "dulecavelier-mirrorprinciple-2021",
-      "Chang-pronominalordering-2012"
+      "Chang-pronominalordering-2012",
+      "kushnir-plainscree-2016"
     ]
   },
   {
@@ -8706,10 +8706,10 @@
     "related_slugs": [
       "Vaxman-Onsets-2008",
       "Smith-collectivenouns-2013",
+      "Blaho-ConSOLE9-2000",
       "kollamagi-creole-2016",
       "Savu-rhotictap-2013",
-      "An-ConSOLE14-2005",
-      "Sóskuthy-Voicing-2008"
+      "An-ConSOLE14-2005"
     ]
   },
   {
@@ -9096,7 +9096,7 @@
       "laszakovits-turkish-2017",
       "moritake-dps-2023",
       "ottur-malayalam-2024",
-      "rossyaykin-modals-2020"
+      "gerasimova-nominalizations-2017"
     ]
   },
   {
@@ -10148,7 +10148,7 @@
       "Ngangoum-Jespersen-2012",
       "Mahanta-VowelHarmony-2008",
       "koelewijn-loanword-2021",
-      "Mackenzie-ConSOLE13-2004"
+      "barnickel-syntactically-2014"
     ]
   },
   {
@@ -10425,8 +10425,8 @@
       "Erik Schoorlemmer"
     ],
     "related_slugs": [
-      "Xiqués-presentperfect-2013",
       "zhao-presentperfect-2019",
+      "Xiqués-presentperfect-2013",
       "Schaden-AspectualRelations-2008",
       "Sonnenhauser-ConSOLE12-2003",
       "Csirmaz-ConSOLE12-2003",
@@ -10817,7 +10817,7 @@
       "Ha-Ellipsis-2008",
       "KosterMoeller-Restrictive-2012",
       "Schippers-whphrases-2012",
-      "Wratil-ConSOLE11-2002"
+      "MacDonald-ConSOLE14-2005"
     ]
   },
   {
@@ -11201,7 +11201,7 @@
       "pohl-twitterdiscourse-2023",
       "varona-gender-2023",
       "goesswein-german-2018",
-      "gendersyncretism-bushan-2025",
+      "gendersyncretism-bhushan-2025",
       "huang-camuno-2021"
     ]
   },
@@ -11232,8 +11232,8 @@
       "George Saad"
     ],
     "related_slugs": [
-      "kim-basque-2021",
       "kobayashismith-japanese-2017",
+      "kim-basque-2021",
       "Mahanta-VowelHarmony-2008",
       "chechen-berkovich-2025",
       "noguchi-cleft-2020",
@@ -11827,10 +11827,10 @@
     "related_slugs": [
       "Sóskuthy-Voicing-2008",
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "koelewijn-loanword-2021",
       "russocardona-toughconstructions-2024",
-      "barman-learnability-2023"
+      "ruhrmannetal-nja-2021",
+      "Rudnicka-Mosiadz-ConSOLE11-2002"
     ]
   },
   {
@@ -11860,8 +11860,8 @@
       "George Saad"
     ],
     "related_slugs": [
-      "Kiss-ConSOLE13-2004",
       "Savu-rhotictap-2013",
+      "Kiss-ConSOLE13-2004",
       "Vaxman-Onsets-2008",
       "kollamagi-creole-2016",
       "dugas-morphological-negation-2015",
@@ -11970,7 +11970,7 @@
       "huebl-indexicals-german-sign-language-2013",
       "wohlmuth-distributive-2018",
       "blazheska-though-2021",
-      "fuellenbach-lateinsertion-2019"
+      "Fast-ConSOLE13-2004"
     ]
   },
   {

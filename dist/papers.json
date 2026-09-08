@@ -276,8 +276,8 @@
       "mattiuzzi-inflection-2023",
       "saeed-arabic-2023",
       "Kremers-ConSOLE11-2002",
-      "pavlou-pasttens-2017",
       "theodorou-preposition-2018",
+      "pavlou-pasttense-2017",
       "khalid-casetheory-2022"
     ]
   },
@@ -1049,10 +1049,10 @@
     "related_slugs": [
       "koelewijn-loanword-2021",
       "Zimmermann-Kiranti-2012",
+      "Blaho-ConSOLE9-2000",
       "dulecavelier-mirrorprinciple-2021",
       "Chang-pronominalordering-2012",
-      "Burkhardt-ConSOLE9-2000",
-      "Baturay-loanwords-2013"
+      "Burkhardt-ConSOLE9-2000"
     ]
   },
   {
@@ -1352,7 +1352,7 @@
     "related_slugs": [
       "goesswein-german-2018",
       "pohl-twitterdiscourse-2023",
-      "gendersyncretism-bushan-2025",
+      "gendersyncretism-bhushan-2025",
       "wambura-kuria-2016",
       "morgunova-complementizer-2021",
       "theodorou-kyriakou-chrysostomou-2018"
@@ -1874,7 +1874,7 @@
       "Lahousse-ConSOLE9-2000",
       "Erechko-ConSOLE11-2002",
       "Zimmermann-Kiranti-2012",
-      "adenuga-oge-2019"
+      "Jabtońske-ConSOLE11-2002"
     ]
   },
   {
@@ -2494,9 +2494,9 @@
       "Zimmermann-Kiranti-2012",
       "barman-learnability-2023",
       "Chang-pronominalordering-2012",
-      "sarvas-suffixes-hungarian-2022",
       "Burkhardt-ConSOLE9-2000",
-      "barnickel-syntactically-2014"
+      "sarvas-suffixes-hungarian-2022",
+      "Blaho-ConSOLE9-2000"
     ]
   },
   {
@@ -3804,8 +3804,8 @@
       "headraising-yamamoto-2025",
       "Boef-doubling-2012",
       "presotto-objectrelatives-2024",
-      "Šimík-whphrases-2008",
-      "Szeredi-Hungarian-2012"
+      "Szeredi-Hungarian-2012",
+      "Šimík-whphrases-2008"
     ]
   },
   {
@@ -3838,7 +3838,7 @@
     "related_slugs": [
       "Rothstein-ConSOLE13-2004",
       "Pineda-ditransitive-2013",
-      "pavlou-pasttens-2017",
+      "pavlou-pasttense-2017",
       "Xiqués-presentperfect-2013",
       "melara-deixis-2015",
       "ito-exlamatives-2017"
@@ -4198,8 +4198,8 @@
       "Luís-ConSOLE9-2000",
       "dulecavelier-mirrorprinciple-2021",
       "person-sonnaert-2017",
-      "gunawardena-objectclitics-2018",
-      "barman-learnability-2023"
+      "barman-learnability-2023",
+      "gunawardena-objectclitics-2018"
     ]
   },
   {
@@ -4270,8 +4270,8 @@
       "mursell-focus-2016",
       "nikiforova-mordvin-2017",
       "Lahousse-ConSOLE9-2000",
-      "chechen-berkovich-2025",
-      "driemel-exclamatives-2015"
+      "driemel-exclamatives-2015",
+      "chechen-berkovich-2025"
     ]
   },
   {
@@ -4511,10 +4511,10 @@
     ],
     "related_slugs": [
       "dulecavelier-mirrorprinciple-2021",
-      "Johnson-Copy-2008",
       "barman-learnability-2023",
+      "Johnson-Copy-2008",
+      "Blaho-ConSOLE9-2000",
       "Chang-pronominalordering-2012",
-      "munoz-perez-copy-theory-2015",
       "barnickel-syntactically-2014"
     ]
   },
@@ -4689,8 +4689,8 @@
       "Laks-Valence-2009",
       "leeamato-korean-2018",
       "Spector-Hebrewclefts-2012",
-      "Galani-ConSOLE12-2003",
       "biswasmukherjee-lexicaldecisiontask-2024",
+      "Galani-ConSOLE12-2003",
       "Levon-ConSOLE9-2000"
     ]
   },
@@ -5038,11 +5038,11 @@
     ],
     "related_slugs": [
       "toth-relatives-2019",
+      "Blaho-ConSOLE9-2000",
       "Plug-ConSOLE13-2004",
       "guzman-naranjo-naturalness-2015",
       "ruhrmannetal-nja-2021",
-      "Caratini-ConSOLE14-2005",
-      "gerocs-hungarian-2013"
+      "Caratini-ConSOLE14-2005"
     ]
   },
   {
@@ -5755,7 +5755,7 @@
       "Hirayama-ConSOLE13-2004",
       "Patin-Tone-2009",
       "MartínezParicio-identityeffects-2013",
-      "fiorini-camuno-2021"
+      "gjersoe-kikuyu-phrases-2015"
     ]
   },
   {
@@ -5929,10 +5929,10 @@
     "related_slugs": [
       "huszthy-italianvoice-2016",
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "russocardona-toughconstructions-2024",
       "enguehard-stress-edge-2015",
-      "Rudnicka-Mosiadz-ConSOLE11-2002"
+      "Rudnicka-Mosiadz-ConSOLE11-2002",
+      "ruhrmannetal-nja-2021"
     ]
   },
   {
@@ -6173,7 +6173,7 @@
       "Szeredi-Hungarian-2012",
       "Caratini-ConSOLE14-2005",
       "chen-scalarimplicatures-2018",
-      "pavlou-pasttens-2017"
+      "pavlou-pasttense-2017"
     ]
   },
   {
@@ -6200,7 +6200,7 @@
       "George Saad"
     ],
     "related_slugs": [
-      "pavlou-pasttens-2017",
+      "pavlou-pasttense-2017",
       "Scheiner-ConSOLE11-2002",
       "Antomo-embeddedroot-2012",
       "dey-copula-2023",
@@ -6459,8 +6459,8 @@
       "gerocs-hungarian-2013",
       "chechen-berkovich-2025",
       "mursell-focus-2016",
-      "kobayashismith-japanese-2017",
       "Csirmaz-ConSOLE12-2003",
+      "kobayashismith-japanese-2017",
       "Döring-adverbs-2012"
     ]
   },
@@ -6523,8 +6523,8 @@
       "dalfarra-adjunctislands-2018",
       "Salzmann-ConSOLE13-2004",
       "Assmann-parasiticgaps-2012",
-      "atb-kasai-2025",
       "rynaud-piedpiping-2017",
+      "atb-kasai-2025",
       "Šimík-whphrases-2008"
     ]
   },
@@ -6811,7 +6811,7 @@
     ],
     "related_slugs": [
       "Beritognolo-Hiatus-2008",
-      "pavlou-pasttens-2017",
+      "pavlou-pasttense-2017",
       "guzman-naranjo-naturalness-2015",
       "meyase-dissimilation-2020",
       "Newton-ConSOLE14-2005",
@@ -7847,10 +7847,10 @@
     ]
   },
   {
-    "slug": "gendersyncretism-bushan-2025",
+    "slug": "gendersyncretism-bhushan-2025",
     "title": "Number-driven gender syncretism and Impoverishment: Some insights from Kannada",
     "authors": [
-      "Sid Bushan"
+      "Sid Bhushan"
     ],
     "affiliation": [
       "University of Michigan"
@@ -8095,15 +8095,15 @@
       "Galani-ConSOLE12-2003",
       "kwapiszewski-aspect-2020",
       "li-functional-ge-2023",
-      "amato-mupun-2018",
-      "chechen-berkovich-2025"
+      "chechen-berkovich-2025",
+      "amato-mupun-2018"
     ]
   },
   {
     "slug": "chechen-berkovich-2025",
     "title": "Polarity-sensitive exceptives: the case of Chechen",
     "authors": [
-      "Tommaso Sgrizzi"
+      "Maria Berkovich"
     ],
     "affiliation": [
       "Higher School of Economics"
@@ -8130,8 +8130,8 @@
       "khomchenkova-exceptives-2020",
       "pinter-csak-2015",
       "mursell-focus-2016",
-      "kobayashismith-japanese-2017",
       "morpho-naganotateno-2025",
+      "kobayashismith-japanese-2017",
       "Döring-adverbs-2012"
     ]
   },
@@ -8181,7 +8181,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "1-15",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8217,43 +8217,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
-    "pages": "17-31",
-    "edition": "ConSOLE 10",
-    "keywords": [
-      "Optimality Theory",
-      "Hungarian Phonology",
-      "Voice Assimilation"
-    ],
-    "abstract": "The purpose of this paper is to give a unified account of Hungarian voice assimilation phenomena in the framework of Optimality Theory (Prince & Smolensky 1993). The discussion focuses on the sounds /j/, /v/ and /h/, which sometimes behave as sonorants and sometimes as obstruents with respect to voice assimilation. The OT model presented here is capable of accounting for the ‘exceptional’ as well as the ‘regular’ cases of voice assimilation. Apart from dealing with the Hungarian data, the paper also examines the question whether faithfulness constraints on [voice] apply to output obstruents with a sonorant input.",
-    "pdf_url": "https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-x.pdf",
-    "corresponding_email": "",
-    "editors": [
-      "Marjo van Koppen",
-      "Ericca Thrift",
-      "Erik Jan van der Torre",
-      "Malte Zimmermann"
-    ],
-    "related_slugs": [
-      "Sóskuthy-Voicing-2008",
-      "huszthy-italianvoice-2016",
-      "Burkhardt-ConSOLE9-2000",
-      "Zimmermann-Kiranti-2012",
-      "barman-learnability-2023",
-      "Szeredi-Hungarian-2012"
-    ]
-  },
-  {
-    "slug": "Blaho-ConSOLE9-2000",
-    "title": "The behaviour of /j/, /v/ and /h/ in Hungarian voice assimilation - an OT analysis",
-    "authors": [
-      "Sylvia Blaho"
-    ],
-    "affiliation": [
-      ""
-    ],
-    "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "17-31",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8289,7 +8253,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "33-48",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8308,11 +8272,11 @@
     ],
     "related_slugs": [
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "barman-learnability-2023",
       "Zimmermann-Kiranti-2012",
       "dulecavelier-mirrorprinciple-2021",
-      "Chang-pronominalordering-2012"
+      "Chang-pronominalordering-2012",
+      "kushnir-plainscree-2016"
     ]
   },
   {
@@ -8325,7 +8289,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "49-62",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8361,7 +8325,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "63-78",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8397,7 +8361,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "79-94",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8433,7 +8397,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "95-109",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8469,7 +8433,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "111-125",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8505,7 +8469,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "127-140",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8541,7 +8505,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "141-155",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8577,7 +8541,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "157-171",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8613,7 +8577,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "173-188",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8650,7 +8614,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "189-197",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8686,7 +8650,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "199-213",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8722,7 +8686,7 @@
       ""
     ],
     "console_venue": "Lund University",
-    "year": 2002,
+    "year": 2001,
     "pages": "215-229",
     "edition": "ConSOLE 10",
     "keywords": [
@@ -8742,10 +8706,10 @@
     "related_slugs": [
       "Vaxman-Onsets-2008",
       "Smith-collectivenouns-2013",
+      "Blaho-ConSOLE9-2000",
       "kollamagi-creole-2016",
       "Savu-rhotictap-2013",
-      "An-ConSOLE14-2005",
-      "Sóskuthy-Voicing-2008"
+      "An-ConSOLE14-2005"
     ]
   },
   {
@@ -8758,7 +8722,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-16",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8795,7 +8759,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-15",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8830,7 +8794,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-14",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8865,7 +8829,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-16",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8900,7 +8864,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-17",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8935,7 +8899,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-14",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -8970,7 +8934,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-13",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9005,7 +8969,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-15",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9040,7 +9004,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-15",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9075,7 +9039,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-20",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9110,7 +9074,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-16",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9132,7 +9096,7 @@
       "laszakovits-turkish-2017",
       "moritake-dps-2023",
       "ottur-malayalam-2024",
-      "rossyaykin-modals-2020"
+      "gerasimova-nominalizations-2017"
     ]
   },
   {
@@ -9145,7 +9109,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-15",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9180,7 +9144,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-14",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9215,7 +9179,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-15",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9250,7 +9214,7 @@
       ""
     ],
     "console_venue": "Padova University",
-    "year": 2003,
+    "year": 2002,
     "pages": "1-14",
     "edition": "ConSOLE 11",
     "keywords": [
@@ -9285,7 +9249,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "1-16",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9320,7 +9284,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "17-31",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9355,7 +9319,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "33-47",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9390,7 +9354,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "49-63",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9425,7 +9389,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "65-80",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9462,7 +9426,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "81-90",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9497,7 +9461,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "91-105",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9532,7 +9496,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "107-123",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9567,7 +9531,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "125-140",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9602,7 +9566,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "141-154",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9637,7 +9601,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "155-170",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9672,7 +9636,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "171-184",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9707,7 +9671,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "185-199",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9742,7 +9706,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "201-212",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9777,7 +9741,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "201-215",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9812,7 +9776,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "229-243",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9847,7 +9811,7 @@
       ""
     ],
     "console_venue": "Patras University",
-    "year": 2004,
+    "year": 2003,
     "pages": "245-259",
     "edition": "ConSOLE 12",
     "keywords": [
@@ -9882,7 +9846,7 @@
       ""
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "1-16",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -9917,7 +9881,7 @@
       "University of Warsaw and Collegium Invisibile"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "17-38",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -9952,7 +9916,7 @@
       ""
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "67-89",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -9987,7 +9951,7 @@
       "McGill University"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "91-105",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10022,7 +9986,7 @@
       "Siena University & Utrecht Institute of Linguistics OTS"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "107-120",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10057,7 +10021,7 @@
       "University of Toronto"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "121-133",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10092,7 +10056,7 @@
       "Department of Philosophy, Radboud University Nijmegen"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "135-156",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10127,7 +10091,7 @@
       "University of Frankfurt am Main"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "157-169",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10162,7 +10126,7 @@
       "Eötvös Loránd University (ELTE), Budapest"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "171-195",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10184,7 +10148,7 @@
       "Ngangoum-Jespersen-2012",
       "Mahanta-VowelHarmony-2008",
       "koelewijn-loanword-2021",
-      "Mackenzie-ConSOLE13-2004"
+      "barnickel-syntactically-2014"
     ]
   },
   {
@@ -10197,7 +10161,7 @@
       "Department of Linguistics, University of Toronto, Toronto, Canada"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "197-210",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10232,7 +10196,7 @@
       "Radboud University Nijmegen"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "211-229",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10269,7 +10233,7 @@
       "University of Ottawa"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "231-248",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10304,7 +10268,7 @@
       "McGill University"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "249-272",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10339,7 +10303,7 @@
       "New York University"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "273-286",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10374,7 +10338,7 @@
       ""
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "287-311",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10409,7 +10373,7 @@
       "Ben Gurion University"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "313-330",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10444,7 +10408,7 @@
       ""
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "331-352",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10461,8 +10425,8 @@
       "Erik Schoorlemmer"
     ],
     "related_slugs": [
-      "Xiqués-presentperfect-2013",
       "zhao-presentperfect-2019",
+      "Xiqués-presentperfect-2013",
       "Schaden-AspectualRelations-2008",
       "Sonnenhauser-ConSOLE12-2003",
       "Csirmaz-ConSOLE12-2003",
@@ -10479,7 +10443,7 @@
       "Leiden University, Leiden Center for Linguistics (ULCL)"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "335-375",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10514,7 +10478,7 @@
       "Department of Phonetics and Linguistics, University College London"
     ],
     "console_venue": "The Arctic University of Norway",
-    "year": 2005,
+    "year": 2004,
     "pages": "377-401",
     "edition": "ConSOLE 13",
     "keywords": [
@@ -10549,7 +10513,7 @@
       "University of Connecticut"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "1-19",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10584,7 +10548,7 @@
       "LUCL, Leiden University"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "21-36",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10619,7 +10583,7 @@
       "University of Nice- France / University of Leipzig - Germany"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "37-60",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10654,7 +10618,7 @@
       "University of Michigan"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "61-72",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10689,7 +10653,7 @@
       "Universitat Autònoma de Barcelona"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "73-98",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10724,7 +10688,7 @@
       "Utrecht Institute of Linguistics OTS"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "99-120",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10761,7 +10725,7 @@
       "Università di Siena and Utrecht Institute of Linguistics OTS"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "121-141",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10796,7 +10760,7 @@
       "University of Stuttgart"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "143-163",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10831,7 +10795,7 @@
       "Universität Tübingen"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "165-188",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10853,7 +10817,7 @@
       "Ha-Ellipsis-2008",
       "KosterMoeller-Restrictive-2012",
       "Schippers-whphrases-2012",
-      "Wratil-ConSOLE11-2002"
+      "MacDonald-ConSOLE14-2005"
     ]
   },
   {
@@ -10866,7 +10830,7 @@
       "Stony Brook University"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "189-202",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10901,7 +10865,7 @@
       " Univerza v Novi Gorici"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "203-225",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10936,7 +10900,7 @@
       "Jawaharlal Nehru University, New Delhi"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "227-237",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -10971,7 +10935,7 @@
       "Department of Linguistics, University of Cambridge"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "239-258",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -11006,7 +10970,7 @@
       "New York University"
     ],
     "console_venue": "University of the Basque Country",
-    "year": 2007,
+    "year": 2005,
     "pages": "259-270",
     "edition": "ConSOLE 14",
     "keywords": [
@@ -11237,7 +11201,7 @@
       "pohl-twitterdiscourse-2023",
       "varona-gender-2023",
       "goesswein-german-2018",
-      "gendersyncretism-bushan-2025",
+      "gendersyncretism-bhushan-2025",
       "huang-camuno-2021"
     ]
   },
@@ -11268,8 +11232,8 @@
       "George Saad"
     ],
     "related_slugs": [
-      "kim-basque-2021",
       "kobayashismith-japanese-2017",
+      "kim-basque-2021",
       "Mahanta-VowelHarmony-2008",
       "chechen-berkovich-2025",
       "noguchi-cleft-2020",
@@ -11863,10 +11827,10 @@
     "related_slugs": [
       "Sóskuthy-Voicing-2008",
       "Blaho-ConSOLE9-2000",
-      "Blaho-ConSOLE9-2000",
       "koelewijn-loanword-2021",
       "russocardona-toughconstructions-2024",
-      "barman-learnability-2023"
+      "ruhrmannetal-nja-2021",
+      "Rudnicka-Mosiadz-ConSOLE11-2002"
     ]
   },
   {
@@ -11896,8 +11860,8 @@
       "George Saad"
     ],
     "related_slugs": [
-      "Kiss-ConSOLE13-2004",
       "Savu-rhotictap-2013",
+      "Kiss-ConSOLE13-2004",
       "Vaxman-Onsets-2008",
       "kollamagi-creole-2016",
       "dugas-morphological-negation-2015",
@@ -12006,7 +11970,7 @@
       "huebl-indexicals-german-sign-language-2013",
       "wohlmuth-distributive-2018",
       "blazheska-though-2021",
-      "fuellenbach-lateinsertion-2019"
+      "Fast-ConSOLE13-2004"
     ]
   },
   {
@@ -12500,7 +12464,7 @@
       "davidyukstudenikina-hillmari-2018",
       "khomchenkova-exceptives-2020",
       "Khomchenkova-comitative-2019",
-      "pavlou-pasttens-2017",
+      "pavlou-pasttense-2017",
       "gunawardena-objectclitics-2018",
       "zhao-presentperfect-2019"
     ]
@@ -12676,7 +12640,7 @@
     "related_slugs": [
       "theodorou-kyriakou-chrysostomou-2018",
       "philippova-p-omission-2014",
-      "pavlou-pasttens-2017",
+      "pavlou-pasttense-2017",
       "morgunova-complementizer-2021",
       "Boef-pronoundoubling-2013",
       "jamieson-acceptability-2018"
