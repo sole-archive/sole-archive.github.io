@@ -19,14 +19,14 @@ const cfpOpen = daysLeft > 0;
        <!-- ConSOLE 35 Announcement Banner -->
        {cfpOpen && (
         <aside class="cfp-banner">
-          <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex items-center gap-6">
-            <div class="cfp-marquee flex-1 min-w-0">
+          <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6">
+            <div class="cfp-marquee w-full sm:flex-1 min-w-0">
               <div class="cfp-track">
                 <span class="cfp-item font-crimson text-base lg:text-lg">🥳 The Call for Papers of ConSOLE35 is out! 🥳 <span class="cfp-muted">Submission deadline: 4 October 2026 ({daysLeft} days left)</span></span>
                 <span class="cfp-item font-crimson text-base lg:text-lg" aria-hidden="true">🥳 The Call for Papers of ConSOLE35 is out! 🥳 <span class="cfp-muted">Abstracts due 4 October 2026 — {daysLeft} days left</span></span>
               </div>
             </div>
-            <div class="flex items-center gap-3 shrink-0 text-sm">
+            <div class="flex items-center justify-center gap-3 shrink-0 text-sm">
               <a href="https://easyabs.linguistlist.org/conference/ConSOLE35/" target="_blank" rel="noopener noreferrer" class="cfp-btn-solid font-medium px-4 py-1.5 rounded-lg transition-smooth">Submit an abstract</a>
               <a href="https://sites.google.com/view/console2027" target="_blank" rel="noopener noreferrer" class="cfp-btn-ghost font-medium px-4 py-1.5 rounded-lg transition-smooth">Conference website</a>
             </div>
@@ -294,6 +294,23 @@ const cfpOpen = daysLeft > 0;
       to   { transform: translateX(-50%); }
     }
  
+    /* On narrow screens the banner stacks: text on top, buttons below.
+       Shrink the fade edges and the gap so the message stays readable. */
+    @media (max-width: 640px) {
+      .cfp-marquee {
+        -webkit-mask-image: linear-gradient(to right, transparent, black 1.25rem, black calc(100% - 1.25rem), transparent);
+        mask-image: linear-gradient(to right, transparent, black 1.25rem, black calc(100% - 1.25rem), transparent);
+      }
+ 
+      .cfp-item {
+        padding-right: 2.5rem;
+      }
+ 
+      .cfp-track {
+        animation-duration: 20s;
+      }
+    }
+ 
     @media (prefers-reduced-motion: reduce) {
       .cfp-track { animation: none; }
       .cfp-item:last-child { display: none; }
@@ -312,4 +329,4 @@ const cfpOpen = daysLeft > 0;
       document.getElementById('search-suggestions')?.classList.add('hidden');
     }
   });
-</script> 
+</script>
