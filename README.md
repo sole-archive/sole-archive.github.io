@@ -111,6 +111,23 @@ sole-archive/
 - Images and assets are in the `public/` directory
 - Text content is directly in the Astro components
 
+## 📅 Yearly update (adding a new volume)
+
+1. **Add the new papers** to `src/content/papers.json`.
+2. **Build locally:** `npm run prebuild`. This copies the data, computes related papers, regenerates the share images, and checks map coverage. Statistics, charts, featured papers and the "2000 – *latest year*" ranges all update from `papers.json` automatically.
+3. **Read the `[map]` lines in the output.** Any venue or affiliation listed there has no coordinates and will **not** appear on the map. For each one, either:
+   - it's a spelling variant of a name already on the map (e.g. `Universität Leipzig`): add it to `affiliationNormalization` (or `venueNormalization`) in `src/content/locations.json`, mapped to the existing name; or
+   - it's not a place (e.g. a funding body): map it to `""` in `affiliationNormalization` to hide it; or
+   - it's a genuinely new place: run the geocoder (next step).
+4. **Geocode new places:** `python scripts/geocode_locations.py`. It looks each missing name up on OpenStreetMap and writes suggestions to `"pending"` in `locations.json`. Pending entries are not shown on the map yet.
+5. **Review `"pending"`.** Check each `osm_match`; OpenStreetMap sometimes picks the wrong place (e.g. *Via Alicante* in San Diego, a satellite campus abroad). Fix wrong `coords` by hand as `[lat, lon]`, e.g. from Google Maps.
+6. **Accept:** `python scripts/geocode_locations.py --accept` moves the reviewed entries onto the map. Re-run `npm run prebuild` and confirm it prints `All venues and affiliations have coordinates.`
+7. Commit and push.
+
+`python scripts/geocode_locations.py --list` lists missing names without changing anything. To make the build fail when something is missing, set `SOLE_STRICT_LOCATIONS=1` or run `python scripts/affiliation_checker.py --strict`.
+
+The map code in `src/pages/analytics.astro` never needs editing: it reads everything from `src/content/locations.json`.
+
 ## 🚀 Deployment
 
 ### Static Site Hosting

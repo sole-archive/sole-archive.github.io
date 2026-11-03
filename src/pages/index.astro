@@ -1,11 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation.astro';
+import { LATEST_YEAR } from '../lib/years';
 import papers from '../content/papers.json';
 
-// Get random papers from 2023
-const papers2023 = papers.filter(paper => paper.year === 2025);
-const featuredPapers = papers2023
+// Get random papers from the most recent volume
+const latestPapers = papers.filter(paper => paper.year === LATEST_YEAR);
+const featuredPapers = latestPapers
   .sort(() => Math.random() - 0.5) // Shuffle the array
   .slice(0, 3); // Take first 3 papers
   // ConSOLE 35 call for abstracts
@@ -17,7 +18,7 @@ const cfpOpen = daysLeft > 0;
 <Layout title="ConSOLE Archive - Access the Proceedings of ConSOLE Conferences">
   <Navigation currentPage="home" />
        <!-- ConSOLE 35 Announcement Banner -->
-       {cfpOpen && (
+       <!-- {cfpOpen && (
         <aside class="cfp-banner">
           <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6">
             <div class="cfp-marquee w-full sm:flex-1 min-w-0">
@@ -32,7 +33,7 @@ const cfpOpen = daysLeft > 0;
             </div>
           </div>
         </aside>
-      )}
+      )} -->
   <!-- Hero Section with Search -->
   <section class="bg-gradient-to-br from-primary-50 to-accent-50 py-16 lg:py-24">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -41,7 +42,7 @@ const cfpOpen = daysLeft > 0;
         ConSOLE Archive
       </h1>
       <p class="text-xl lg:text-2xl text-text-secondary mb-8 font-crimson">
-        2000 - 2025
+        2000 - {LATEST_YEAR}
       </p>
       <p class="text-lg text-text-secondary mb-12 max-w-2xl mx-auto">
         Explore decades of ConSOLE proceedings, connect research across generations, and track research trends.
@@ -115,7 +116,7 @@ const cfpOpen = daysLeft > 0;
       <div class="text-center mb-12">
         <h2 class="text-3xl lg:text-4xl font-crimson font-semibold text-primary mb-4">Latest Volume</h2>
         <p class="text-lg text-text-secondary max-w-2xl mx-auto">
-          Proceedings papers from ConSOLE33, held in Göttingen, Germany, in 2025.
+          Proceedings papers from {latestPapers[0]?.edition} ({latestPapers[0]?.console_venue}, {LATEST_YEAR}).
         </p>
       </div>
 
@@ -177,7 +178,7 @@ const cfpOpen = daysLeft > 0;
             </div>
           </div>
           <p class="text-primary-100 mb-4 max-w-md">
-            Archive of the ConSOLE proceedings, from 2000 to 2025.
+            Archive of the ConSOLE proceedings, from 2000 to {LATEST_YEAR}.
           </p>
           <div class="flex space-x-4">
             

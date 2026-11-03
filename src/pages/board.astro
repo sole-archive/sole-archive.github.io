@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation.astro';
+import { LATEST_YEAR } from '../lib/years';
 import papersData from '../../public/papers.json';
 
 // Current editors data
@@ -247,7 +248,7 @@ const pastEditors = Array.from(editorYearsMap.entries())
             </div>
           </div>
           <p class="text-primary-100 mb-4 max-w-md">
-            Archive of the ConSOLE proceedings, from 2000 to 2025.
+            Archive of the ConSOLE proceedings, from 2000 to {LATEST_YEAR}.
           </p>
           <div class="flex space-x-4">
             

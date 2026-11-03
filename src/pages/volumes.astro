@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation.astro';
+import { LATEST_YEAR } from '../lib/years';
 import papers from '../content/papers.json';
 
 function toRoman(n: number): string {
@@ -41,7 +42,7 @@ const volumes = Array.from(editionMap.values())
   });
 ---
 
-<Layout title="Proceedings Volumes - SOLE Archive" description="Browse all ConSOLE proceedings volumes from 2000 to 2025.">
+<Layout title="Proceedings Volumes - SOLE Archive" description={`Browse all ConSOLE proceedings volumes from 2000 to ${LATEST_YEAR}.`}>
   <Navigation currentPage="volumes" />
 
   <!-- Hero -->
@@ -101,7 +102,7 @@ const volumes = Array.from(editionMap.values())
               <p class="text-sm text-primary-200 font-mono">ConSOLE Proceedings</p>
             </div>
           </div>
-          <p class="text-primary-100 mb-4 max-w-md">Archive of the ConSOLE proceedings, from 2000 to 2025.</p>
+          <p class="text-primary-100 mb-4 max-w-md">Archive of the ConSOLE proceedings, from 2000 to {LATEST_YEAR}.</p>
           <div class="flex space-x-4">
             <a href="https://www.linkedin.com/company/student-organization-of-linguistics-in-europe/posts/?feedView=all" target="_blank" rel="noopener noreferrer" class="text-primary-200 hover:text-white transition-smooth">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

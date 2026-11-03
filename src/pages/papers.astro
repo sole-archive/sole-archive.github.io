@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation.astro';
+import { LATEST_YEAR } from '../lib/years';
 import papers from '../content/papers.json';
 
 // Get all papers and sort by year (newest first)
@@ -113,7 +114,7 @@ const uniqueKeywords = [...new Set(allKeywords)].slice(0, 5); // Show first 5 ke
             </div>
           </div>
           <p class="text-primary-100 mb-4 max-w-md">
-            Archive of the ConSOLE proceedings, from 2000 to 2025.
+            Archive of the ConSOLE proceedings, from 2000 to {LATEST_YEAR}.
           </p>
           <div class="flex space-x-4">
             
